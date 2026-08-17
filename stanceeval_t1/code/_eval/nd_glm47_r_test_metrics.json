@@ -1,0 +1,8 @@
+{
+  "model": "zai-glm-4.7",
+  "variant": "r",
+  "fewshot": 0,
+  "n": 352,
+  "n_unparsed": 320,
+  "runtime_sec": 280.8
+}

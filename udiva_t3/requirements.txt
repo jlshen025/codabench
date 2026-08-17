@@ -1,0 +1,15 @@
+# Reproducing the FINAL SUBMISSION (Codabench 825331) needs NO third-party package.
+#
+# Python >= 3.8, standard library only. The whole submitted pipeline
+#   code/udiva_data.py  code/sdl.py  code/cv.py  code/predictors.py
+#   code/pack.py        code/make_test_sub.py
+# imports nothing outside: json, os, re, sys, glob, zipfile, statistics,
+# collections, itertools, pathlib.
+#
+# Verified with Python 3.11 (challenge runs) and 3.13.2 — identical numbers; no compiled
+# extension, no GPU, no network access, no random seed. Runtime: ~2 s for the submission
+# zip, ~2 s for the leave-one-session-out cross-validation.
+#
+# The DEVELOPMENT-ONLY experiments under code/dev/ (video / transcript representation
+# probes; none of them is part of the submission) need extra packages: see
+# requirements-dev.txt.

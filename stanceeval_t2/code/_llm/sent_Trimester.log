@@ -1,0 +1,15 @@
+pool: Trimester champion-Favor -> 312 rows
+  batch 1/13: parsed 25/25
+  batch 2/13: parsed 25/25
+  batch 3/13: parsed 25/25
+  batch 4/13: parsed 25/25
+  batch 5/13: parsed 25/25
+  batch 6/13: parsed 25/25
+  batch 7/13: parsed 25/25
+  batch 8/13: parsed 25/25
+  batch 9/13: parsed 25/25
+  batch 10/13: parsed 25/25
+  batch 11/13: parsed 25/25
+  batch 12/13: parsed 25/25
+  batch 13/13: parsed 12/12
+[RESULT] parsed 312/312  POS=76  -> _llm/sent_Trimester.json

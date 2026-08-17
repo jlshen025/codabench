@@ -1,0 +1,1568 @@
+{
+ "model": "claude-opus-5",
+ "target": "Trimester",
+ "pool": "all",
+ "n": 312,
+ "res": {
+  "0": {
+   "verdict": "NEGATIVE",
+   "conf": 80,
+   "aimed_at": "worry about third term"
+  },
+  "1": {
+   "verdict": "NEGATIVE",
+   "conf": 75,
+   "aimed_at": "complains students' energy insufficient"
+  },
+  "2": {
+   "verdict": "NEGATIVE",
+   "conf": 60,
+   "aimed_at": "demands shorter school day"
+  },
+  "3": {
+   "verdict": "NEGATIVE",
+   "conf": 70,
+   "aimed_at": "dismisses talk as empty"
+  },
+  "4": {
+   "verdict": "NEUTRAL",
+   "conf": 65,
+   "aimed_at": "bare cancellation demand"
+  },
+  "5": {
+   "verdict": "NEGATIVE",
+   "conf": 80,
+   "aimed_at": "wants decisions reconsidered"
+  },
+  "6": {
+   "verdict": "POSITIVE",
+   "conf": 55,
+   "aimed_at": "hopeful smiling supplication"
+  },
+  "7": {
+   "verdict": "NEUTRAL",
+   "conf": 70,
+   "aimed_at": "confused factual question"
+  },
+  "8": {
+   "verdict": "NEGATIVE",
+   "conf": 65,
+   "aimed_at": "complaint about grades"
+  },
+  "9": {
+   "verdict": "NEUTRAL",
+   "conf": 60,
+   "aimed_at": "volunteer proposal description"
+  },
+  "10": {
+   "verdict": "POSITIVE",
+   "conf": 55,
+   "aimed_at": "hopes to finish safely"
+  },
+  "11": {
+   "verdict": "NEGATIVE",
+   "conf": 60,
+   "aimed_at": "sad defense of term"
+  },
+  "12": {
+   "verdict": "NEGATIVE",
+   "conf": 70,
+   "aimed_at": "notes widespread complaints"
+  },
+  "13": {
+   "verdict": "NEGATIVE",
+   "conf": 85,
+   "aimed_at": "exhaustion and absence rising"
+  },
+  "14": {
+   "verdict": "NEGATIVE",
+   "conf": 85,
+   "aimed_at": "tired of confusing system"
+  },
+  "15": {
+   "verdict": "NEUTRAL",
+   "conf": 70,
+   "aimed_at": "question about continuing sessions"
+  },
+  "16": {
+   "verdict": "POSITIVE",
+   "conf": 60,
+   "aimed_at": "hopeful appeal to leadership"
+  },
+  "17": {
+   "verdict": "NEGATIVE",
+   "conf": 90,
+   "aimed_at": "system kills passion"
+  },
+  "18": {
+   "verdict": "NEGATIVE",
+   "conf": 65,
+   "aimed_at": "regret with crying emoji"
+  },
+  "19": {
+   "verdict": "NEGATIVE",
+   "conf": 75,
+   "aimed_at": "desperate pleading distress"
+  },
+  "20": {
+   "verdict": "NEUTRAL",
+   "conf": 60,
+   "aimed_at": "bare phrase only"
+  },
+  "21": {
+   "verdict": "NEUTRAL",
+   "conf": 55,
+   "aimed_at": "scheduling suggestion"
+  },
+  "22": {
+   "verdict": "NEGATIVE",
+   "conf": 70,
+   "aimed_at": "sarcastic impossible dream"
+  },
+  "23": {
+   "verdict": "NEGATIVE",
+   "conf": 75,
+   "aimed_at": "mocking annoyed reply"
+  },
+  "24": {
+   "verdict": "POSITIVE",
+   "conf": 70,
+   "aimed_at": "hopes for good news"
+  },
+  "25": {
+   "verdict": "NEGATIVE",
+   "conf": 88,
+   "aimed_at": "boredom complaint about system"
+  },
+  "26": {
+   "verdict": "NEUTRAL",
+   "conf": 60,
+   "aimed_at": "request for timing change"
+  },
+  "27": {
+   "verdict": "NEGATIVE",
+   "conf": 95,
+   "aimed_at": "boredom, weariness, complaint"
+  },
+  "28": {
+   "verdict": "NEGATIVE",
+   "conf": 80,
+   "aimed_at": "wishes semester cancelled"
+  },
+  "29": {
+   "verdict": "NEGATIVE",
+   "conf": 92,
+   "aimed_at": "hate school, exhaustion"
+  },
+  "30": {
+   "verdict": "NEUTRAL",
+   "conf": 93,
+   "aimed_at": "informational admission details"
+  },
+  "31": {
+   "verdict": "NEGATIVE",
+   "conf": 95,
+   "aimed_at": "exhausting workload complaint"
+  },
+  "32": {
+   "verdict": "NEGATIVE",
+   "conf": 90,
+   "aimed_at": "financial burden complaint"
+  },
+  "33": {
+   "verdict": "NEGATIVE",
+   "conf": 88,
+   "aimed_at": "\"failed with distinction\""
+  },
+  "34": {
+   "verdict": "POSITIVE",
+   "conf": 55,
+   "aimed_at": "hopeful wish, blessings framing"
+  },
+  "35": {
+   "verdict": "NEGATIVE",
+   "conf": 70,
+   "aimed_at": "mockery, distrust of motives"
+  },
+  "36": {
+   "verdict": "NEUTRAL",
+   "conf": 85,
+   "aimed_at": "simple clarifying question"
+  },
+  "37": {
+   "verdict": "NEGATIVE",
+   "conf": 90,
+   "aimed_at": "unbearable cramming complaint"
+  },
+  "38": {
+   "verdict": "NEGATIVE",
+   "conf": 75,
+   "aimed_at": "pleading to cancel study"
+  },
+  "39": {
+   "verdict": "NEGATIVE",
+   "conf": 90,
+   "aimed_at": "disgust, decline framing"
+  },
+  "40": {
+   "verdict": "POSITIVE",
+   "conf": 70,
+   "aimed_at": "joking affectionate banter"
+  },
+  "41": {
+   "verdict": "NEGATIVE",
+   "conf": 93,
+   "aimed_at": "hate study, fears depression"
+  },
+  "42": {
+   "verdict": "POSITIVE",
+   "conf": 65,
+   "aimed_at": "nice suggestion, constructive"
+  },
+  "43": {
+   "verdict": "NEUTRAL",
+   "conf": 70,
+   "aimed_at": "questioning poll options"
+  },
+  "44": {
+   "verdict": "NEGATIVE",
+   "conf": 92,
+   "aimed_at": "harmed health and life"
+  },
+  "45": {
+   "verdict": "POSITIVE",
+   "conf": 75,
+   "aimed_at": "approves three semesters"
+  },
+  "46": {
+   "verdict": "NEGATIVE",
+   "conf": 60,
+   "aimed_at": "mocking spelling errors"
+  },
+  "47": {
+   "verdict": "NEGATIVE",
+   "conf": 65,
+   "aimed_at": "demands cancellation"
+  },
+  "48": {
+   "verdict": "NEGATIVE",
+   "conf": 70,
+   "aimed_at": "requests reconsideration or cancellation"
+  },
+  "49": {
+   "verdict": "NEGATIVE",
+   "conf": 90,
+   "aimed_at": "regret emoji distress"
+  },
+  "50": {
+   "verdict": "NEGATIVE",
+   "conf": 72,
+   "aimed_at": "fatigue complaint about terms"
+  },
+  "51": {
+   "verdict": "POSITIVE",
+   "conf": 70,
+   "aimed_at": "hopeful wish for change"
+  },
+  "52": {
+   "verdict": "POSITIVE",
+   "conf": 60,
+   "aimed_at": "hopeful expectation, prayer"
+  },
+  "53": {
+   "verdict": "POSITIVE",
+   "conf": 65,
+   "aimed_at": "hopeful appeal to leaders"
+  },
+  "54": {
+   "verdict": "NEGATIVE",
+   "conf": 93,
+   "aimed_at": "anxiety, exhaustion, cursing"
+  },
+  "55": {
+   "verdict": "NEGATIVE",
+   "conf": 88,
+   "aimed_at": "psychological, financial harm claim"
+  },
+  "56": {
+   "verdict": "NEUTRAL",
+   "conf": 72,
+   "aimed_at": "informational question about cancellatio"
+  },
+  "57": {
+   "verdict": "NEGATIVE",
+   "conf": 85,
+   "aimed_at": "accusation of uselessness"
+  },
+  "58": {
+   "verdict": "NEGATIVE",
+   "conf": 80,
+   "aimed_at": "complains three terms exhausting"
+  },
+  "59": {
+   "verdict": "NEGATIVE",
+   "conf": 88,
+   "aimed_at": "accuses system driving away"
+  },
+  "60": {
+   "verdict": "NEGATIVE",
+   "conf": 85,
+   "aimed_at": "illness, hospitals overwhelmed"
+  },
+  "61": {
+   "verdict": "NEGATIVE",
+   "conf": 84,
+   "aimed_at": "distrust, burden on parents"
+  },
+  "62": {
+   "verdict": "NEUTRAL",
+   "conf": 60,
+   "aimed_at": "blunt question about removal"
+  },
+  "63": {
+   "verdict": "NEGATIVE",
+   "conf": 75,
+   "aimed_at": "scolding about hashtag use"
+  },
+  "64": {
+   "verdict": "NEGATIVE",
+   "conf": 82,
+   "aimed_at": "loss of passion"
+  },
+  "65": {
+   "verdict": "NEGATIVE",
+   "conf": 88,
+   "aimed_at": "no benefit, lost passion"
+  },
+  "66": {
+   "verdict": "NEUTRAL",
+   "conf": 65,
+   "aimed_at": "measured analytical agreement"
+  },
+  "67": {
+   "verdict": "NEUTRAL",
+   "conf": 60,
+   "aimed_at": "bare demand statement"
+  },
+  "68": {
+   "verdict": "NEGATIVE",
+   "conf": 72,
+   "aimed_at": "nobody liked the system"
+  },
+  "69": {
+   "verdict": "NEGATIVE",
+   "conf": 90,
+   "aimed_at": "kids hate school now"
+  },
+  "70": {
+   "verdict": "NEGATIVE",
+   "conf": 82,
+   "aimed_at": "cold, crowding, illness, pressure"
+  },
+  "71": {
+   "verdict": "NEGATIVE",
+   "conf": 78,
+   "aimed_at": "wishes end to chaos"
+  },
+  "72": {
+   "verdict": "NEUTRAL",
+   "conf": 70,
+   "aimed_at": "formal polite request, compliance"
+  },
+  "73": {
+   "verdict": "NEGATIVE",
+   "conf": 90,
+   "aimed_at": "psychological, physical pressures plea"
+  },
+  "74": {
+   "verdict": "NEGATIVE",
+   "conf": 85,
+   "aimed_at": "mocking laughter, exhaustion"
+  },
+  "75": {
+   "verdict": "NEGATIVE",
+   "conf": 75,
+   "aimed_at": "demand to cancel term"
+  },
+  "76": {
+   "verdict": "NEGATIVE",
+   "conf": 70,
+   "aimed_at": "prefers cancellation over vacation"
+  },
+  "77": {
+   "verdict": "NEGATIVE",
+   "conf": 90,
+   "aimed_at": "crying, exhausted, system tiring"
+  },
+  "78": {
+   "verdict": "NEGATIVE",
+   "conf": 80,
+   "aimed_at": "complains three terms exhausting"
+  },
+  "79": {
+   "verdict": "NEGATIVE",
+   "conf": 80,
+   "aimed_at": "wishes terms gone"
+  },
+  "80": {
+   "verdict": "NEGATIVE",
+   "conf": 75,
+   "aimed_at": "petition minister to cancel"
+  },
+  "81": {
+   "verdict": "NEGATIVE",
+   "conf": 85,
+   "aimed_at": "mockery of decision maker"
+  },
+  "82": {
+   "verdict": "NEGATIVE",
+   "conf": 90,
+   "aimed_at": "extreme exhaustion complaint"
+  },
+  "83": {
+   "verdict": "NEGATIVE",
+   "conf": 85,
+   "aimed_at": "angry mocking retort"
+  },
+  "84": {
+   "verdict": "NEGATIVE",
+   "conf": 85,
+   "aimed_at": "warns cumulative psychological harm"
+  },
+  "85": {
+   "verdict": "NEGATIVE",
+   "conf": 75,
+   "aimed_at": "plea against exhausting term"
+  },
+  "86": {
+   "verdict": "NEGATIVE",
+   "conf": 85,
+   "aimed_at": "complains nobody listens"
+  },
+  "87": {
+   "verdict": "NEGATIVE",
+   "conf": 85,
+   "aimed_at": "lists drawbacks, cramped exams"
+  },
+  "88": {
+   "verdict": "NEGATIVE",
+   "conf": 85,
+   "aimed_at": "laughs at contradiction"
+  },
+  "89": {
+   "verdict": "NEGATIVE",
+   "conf": 80,
+   "aimed_at": "complains cramming exams"
+  },
+  "90": {
+   "verdict": "NEGATIVE",
+   "conf": 85,
+   "aimed_at": "demands cancellation, criticizes exams"
+  },
+  "91": {
+   "verdict": "NEGATIVE",
+   "conf": 85,
+   "aimed_at": "students bored, demotivated"
+  },
+  "92": {
+   "verdict": "NEUTRAL",
+   "conf": 55,
+   "aimed_at": "procedural suggestion ministry participa"
+  },
+  "93": {
+   "verdict": "NEGATIVE",
+   "conf": 90,
+   "aimed_at": "calls decision failed"
+  },
+  "94": {
+   "verdict": "NEGATIVE",
+   "conf": 90,
+   "aimed_at": "calls it calamity"
+  },
+  "95": {
+   "verdict": "NEGATIVE",
+   "conf": 80,
+   "aimed_at": "tired, wishes cancellation"
+  },
+  "96": {
+   "verdict": "NEGATIVE",
+   "conf": 85,
+   "aimed_at": "drowning in workload"
+  },
+  "97": {
+   "verdict": "NEUTRAL",
+   "conf": 50,
+   "aimed_at": "conditional agreement statement"
+  },
+  "98": {
+   "verdict": "NEGATIVE",
+   "conf": 65,
+   "aimed_at": "complains about expenses"
+  },
+  "99": {
+   "verdict": "NEGATIVE",
+   "conf": 75,
+   "aimed_at": "weary awaiting cancellation"
+  },
+  "100": {
+   "verdict": "NEGATIVE",
+   "conf": 85,
+   "aimed_at": "complaint about exam load"
+  },
+  "101": {
+   "verdict": "NEGATIVE",
+   "conf": 92,
+   "aimed_at": "exhaustion, complaint"
+  },
+  "102": {
+   "verdict": "NEGATIVE",
+   "conf": 93,
+   "aimed_at": "declares system failed"
+  },
+  "103": {
+   "verdict": "NEGATIVE",
+   "conf": 78,
+   "aimed_at": "criticizes educational value"
+  },
+  "104": {
+   "verdict": "NEGATIVE",
+   "conf": 94,
+   "aimed_at": "wishes decision-maker removed"
+  },
+  "105": {
+   "verdict": "NEGATIVE",
+   "conf": 70,
+   "aimed_at": "denies any enjoyment"
+  },
+  "106": {
+   "verdict": "NEGATIVE",
+   "conf": 93,
+   "aimed_at": "tiring, boring, useless"
+  },
+  "107": {
+   "verdict": "NEGATIVE",
+   "conf": 75,
+   "aimed_at": "distrusts poll sincerity"
+  },
+  "108": {
+   "verdict": "NEGATIVE",
+   "conf": 95,
+   "aimed_at": "failed, destroyed students"
+  },
+  "109": {
+   "verdict": "NEGATIVE",
+   "conf": 80,
+   "aimed_at": "suffering despite two terms"
+  },
+  "110": {
+   "verdict": "NEGATIVE",
+   "conf": 72,
+   "aimed_at": "only benefit, constant race"
+  },
+  "111": {
+   "verdict": "NEGATIVE",
+   "conf": 70,
+   "aimed_at": "prays for cancellation"
+  },
+  "112": {
+   "verdict": "NEGATIVE",
+   "conf": 85,
+   "aimed_at": "fatigue, no benefit"
+  },
+  "113": {
+   "verdict": "NEGATIVE",
+   "conf": 82,
+   "aimed_at": "sarcasm about student exhaustion"
+  },
+  "114": {
+   "verdict": "NEGATIVE",
+   "conf": 95,
+   "aimed_at": "hatred, depression, pressure"
+  },
+  "115": {
+   "verdict": "NEGATIVE",
+   "conf": 88,
+   "aimed_at": "child crying, pity"
+  },
+  "116": {
+   "verdict": "NEGATIVE",
+   "conf": 84,
+   "aimed_at": "calls three terms exhausting"
+  },
+  "117": {
+   "verdict": "NEGATIVE",
+   "conf": 55,
+   "aimed_at": "proposes reconsidering system"
+  },
+  "118": {
+   "verdict": "NEGATIVE",
+   "conf": 83,
+   "aimed_at": "no hope, resignation"
+  },
+  "119": {
+   "verdict": "NEGATIVE",
+   "conf": 85,
+   "aimed_at": "zero motivation"
+  },
+  "120": {
+   "verdict": "NEGATIVE",
+   "conf": 90,
+   "aimed_at": "suffocated, begs prayers"
+  },
+  "121": {
+   "verdict": "NEGATIVE",
+   "conf": 90,
+   "aimed_at": "boredom, nothing gained"
+  },
+  "122": {
+   "verdict": "NEGATIVE",
+   "conf": 92,
+   "aimed_at": "boring, more negatives"
+  },
+  "123": {
+   "verdict": "NEGATIVE",
+   "conf": 90,
+   "aimed_at": "motivation at lowest"
+  },
+  "124": {
+   "verdict": "POSITIVE",
+   "conf": 65,
+   "aimed_at": "joking about cheap fruit"
+  },
+  "125": {
+   "verdict": "NEGATIVE",
+   "conf": 85,
+   "aimed_at": "weariness, everyone fed up"
+  },
+  "126": {
+   "verdict": "NEGATIVE",
+   "conf": 95,
+   "aimed_at": "curse, psychological pressure, heartbrea"
+  },
+  "127": {
+   "verdict": "NEGATIVE",
+   "conf": 90,
+   "aimed_at": "students tired, rejects idea"
+  },
+  "128": {
+   "verdict": "NEGATIVE",
+   "conf": 65,
+   "aimed_at": "mocking third term out"
+  },
+  "129": {
+   "verdict": "NEGATIVE",
+   "conf": 90,
+   "aimed_at": "terms excessive and exhausting"
+  },
+  "130": {
+   "verdict": "POSITIVE",
+   "conf": 75,
+   "aimed_at": "expresses support and approval"
+  },
+  "131": {
+   "verdict": "NEGATIVE",
+   "conf": 95,
+   "aimed_at": "destruction for student, family"
+  },
+  "132": {
+   "verdict": "NEGATIVE",
+   "conf": 90,
+   "aimed_at": "we don't want it"
+  },
+  "133": {
+   "verdict": "NEGATIVE",
+   "conf": 90,
+   "aimed_at": "refusal, exhaustion on mothers"
+  },
+  "134": {
+   "verdict": "NEGATIVE",
+   "conf": 70,
+   "aimed_at": "skeptical, words without action"
+  },
+  "135": {
+   "verdict": "NEGATIVE",
+   "conf": 85,
+   "aimed_at": "wants old system back"
+  },
+  "136": {
+   "verdict": "NEGATIVE",
+   "conf": 90,
+   "aimed_at": "negative impact, cancellation plea"
+  },
+  "137": {
+   "verdict": "POSITIVE",
+   "conf": 75,
+   "aimed_at": "praises talents, awards achieved"
+  },
+  "138": {
+   "verdict": "NEUTRAL",
+   "conf": 70,
+   "aimed_at": "descriptive meeting decisions statement"
+  },
+  "139": {
+   "verdict": "NEUTRAL",
+   "conf": 55,
+   "aimed_at": "speculative question about terms"
+  },
+  "140": {
+   "verdict": "NEGATIVE",
+   "conf": 90,
+   "aimed_at": "boring, exhausting, needs review"
+  },
+  "141": {
+   "verdict": "NEGATIVE",
+   "conf": 60,
+   "aimed_at": "initial frustration, mixed emotion"
+  },
+  "142": {
+   "verdict": "NEGATIVE",
+   "conf": 95,
+   "aimed_at": "hatred, drain, no benefit"
+  },
+  "143": {
+   "verdict": "NEGATIVE",
+   "conf": 70,
+   "aimed_at": "resigned, hopes period passes"
+  },
+  "144": {
+   "verdict": "NEGATIVE",
+   "conf": 60,
+   "aimed_at": "pleading tone about books"
+  },
+  "145": {
+   "verdict": "NEGATIVE",
+   "conf": 75,
+   "aimed_at": "wishes cancellation, taxes"
+  },
+  "146": {
+   "verdict": "NEGATIVE",
+   "conf": 80,
+   "aimed_at": "exhaustion, requests cancellation"
+  },
+  "147": {
+   "verdict": "NEGATIVE",
+   "conf": 70,
+   "aimed_at": "cancellation reduces congestion"
+  },
+  "148": {
+   "verdict": "NEGATIVE",
+   "conf": 95,
+   "aimed_at": "drain, boredom, deprivation"
+  },
+  "149": {
+   "verdict": "NEGATIVE",
+   "conf": 90,
+   "aimed_at": "useless, only fatigue"
+  },
+  "150": {
+   "verdict": "NEGATIVE",
+   "conf": 80,
+   "aimed_at": "weary disbelief, distress emoji"
+  },
+  "151": {
+   "verdict": "NEGATIVE",
+   "conf": 95,
+   "aimed_at": "calls decision worst"
+  },
+  "152": {
+   "verdict": "NEUTRAL",
+   "conf": 60,
+   "aimed_at": "plain status statement"
+  },
+  "153": {
+   "verdict": "POSITIVE",
+   "conf": 75,
+   "aimed_at": "praises proposed schedule changes"
+  },
+  "154": {
+   "verdict": "NEUTRAL",
+   "conf": 55,
+   "aimed_at": "reports preference percentage"
+  },
+  "155": {
+   "verdict": "NEGATIVE",
+   "conf": 85,
+   "aimed_at": "lists boredom, crowding problems"
+  },
+  "156": {
+   "verdict": "NEGATIVE",
+   "conf": 70,
+   "aimed_at": "demands cancellation, problems"
+  },
+  "157": {
+   "verdict": "NEGATIVE",
+   "conf": 70,
+   "aimed_at": "distrust of decision-maker"
+  },
+  "158": {
+   "verdict": "POSITIVE",
+   "conf": 70,
+   "aimed_at": "prefers, favors changes"
+  },
+  "159": {
+   "verdict": "NEGATIVE",
+   "conf": 75,
+   "aimed_at": "complains congestion, lateness"
+  },
+  "160": {
+   "verdict": "NEUTRAL",
+   "conf": 55,
+   "aimed_at": "brief cancellation request"
+  },
+  "161": {
+   "verdict": "NEGATIVE",
+   "conf": 95,
+   "aimed_at": "exhaustion, pleading, crying emojis"
+  },
+  "162": {
+   "verdict": "NEGATIVE",
+   "conf": 70,
+   "aimed_at": "asks not to exhaust"
+  },
+  "163": {
+   "verdict": "NEGATIVE",
+   "conf": 80,
+   "aimed_at": "cancel to end exhaustion"
+  },
+  "164": {
+   "verdict": "NEUTRAL",
+   "conf": 50,
+   "aimed_at": "ambiguous hopeful fragment"
+  },
+  "165": {
+   "verdict": "NEUTRAL",
+   "conf": 60,
+   "aimed_at": "numeric fragment, informational"
+  },
+  "166": {
+   "verdict": "NEGATIVE",
+   "conf": 90,
+   "aimed_at": "exhaustion complaint, plea"
+  },
+  "167": {
+   "verdict": "POSITIVE",
+   "conf": 65,
+   "aimed_at": "much better preference"
+  },
+  "168": {
+   "verdict": "NEGATIVE",
+   "conf": 85,
+   "aimed_at": "energy depleted, clown emoji"
+  },
+  "169": {
+   "verdict": "NEGATIVE",
+   "conf": 75,
+   "aimed_at": "mockery of contradiction"
+  },
+  "170": {
+   "verdict": "NEGATIVE",
+   "conf": 70,
+   "aimed_at": "complains burden, disapproval"
+  },
+  "171": {
+   "verdict": "NEGATIVE",
+   "conf": 90,
+   "aimed_at": "invoking curse phrase"
+  },
+  "172": {
+   "verdict": "NEGATIVE",
+   "conf": 75,
+   "aimed_at": "questions exclusion, discontent"
+  },
+  "173": {
+   "verdict": "NEUTRAL",
+   "conf": 65,
+   "aimed_at": "factual question about exams"
+  },
+  "174": {
+   "verdict": "NEGATIVE",
+   "conf": 80,
+   "aimed_at": "people are fed up"
+  },
+  "175": {
+   "verdict": "NEGATIVE",
+   "conf": 70,
+   "aimed_at": "questioning blame for absenteeism"
+  },
+  "176": {
+   "verdict": "NEGATIVE",
+   "conf": 60,
+   "aimed_at": "wants third term remote"
+  },
+  "177": {
+   "verdict": "NEGATIVE",
+   "conf": 85,
+   "aimed_at": "complains exhausting terms"
+  },
+  "178": {
+   "verdict": "NEUTRAL",
+   "conf": 85,
+   "aimed_at": "requesting dates"
+  },
+  "179": {
+   "verdict": "NEGATIVE",
+   "conf": 85,
+   "aimed_at": "notes widespread discontent"
+  },
+  "180": {
+   "verdict": "NEGATIVE",
+   "conf": 75,
+   "aimed_at": "demands cancellation"
+  },
+  "181": {
+   "verdict": "POSITIVE",
+   "conf": 65,
+   "aimed_at": "advocates remote learning benefits"
+  },
+  "182": {
+   "verdict": "NEGATIVE",
+   "conf": 85,
+   "aimed_at": "calls it wasted time"
+  },
+  "183": {
+   "verdict": "NEGATIVE",
+   "conf": 80,
+   "aimed_at": "complains about honors impact"
+  },
+  "184": {
+   "verdict": "NEGATIVE",
+   "conf": 80,
+   "aimed_at": "calls system unfair exhausting"
+  },
+  "185": {
+   "verdict": "NEGATIVE",
+   "conf": 80,
+   "aimed_at": "complains about honors impact"
+  },
+  "186": {
+   "verdict": "NEGATIVE",
+   "conf": 85,
+   "aimed_at": "terms exhausted them"
+  },
+  "187": {
+   "verdict": "NEGATIVE",
+   "conf": 85,
+   "aimed_at": "doubts claimed benefits"
+  },
+  "188": {
+   "verdict": "NEGATIVE",
+   "conf": 65,
+   "aimed_at": "mocking book delivery"
+  },
+  "189": {
+   "verdict": "NEGATIVE",
+   "conf": 75,
+   "aimed_at": "sarcastic criticism"
+  },
+  "190": {
+   "verdict": "NEGATIVE",
+   "conf": 95,
+   "aimed_at": "calls decision failure"
+  },
+  "191": {
+   "verdict": "NEGATIVE",
+   "conf": 70,
+   "aimed_at": "reluctant acceptance sarcasm"
+  },
+  "192": {
+   "verdict": "NEGATIVE",
+   "conf": 85,
+   "aimed_at": "exhaustion for everyone"
+  },
+  "193": {
+   "verdict": "POSITIVE",
+   "conf": 65,
+   "aimed_at": "hopeful for cancellation"
+  },
+  "194": {
+   "verdict": "NEUTRAL",
+   "conf": 55,
+   "aimed_at": "plain greeting statement"
+  },
+  "195": {
+   "verdict": "NEGATIVE",
+   "conf": 95,
+   "aimed_at": "anger at ministry"
+  },
+  "196": {
+   "verdict": "NEGATIVE",
+   "conf": 80,
+   "aimed_at": "books caused dizziness"
+  },
+  "197": {
+   "verdict": "NEGATIVE",
+   "conf": 70,
+   "aimed_at": "demands cancellation"
+  },
+  "198": {
+   "verdict": "NEGATIVE",
+   "conf": 90,
+   "aimed_at": "demands official removal"
+  },
+  "199": {
+   "verdict": "NEGATIVE",
+   "conf": 85,
+   "aimed_at": "complains about endless study"
+  },
+  "200": {
+   "verdict": "NEUTRAL",
+   "conf": 72,
+   "aimed_at": "informational, books arrived"
+  },
+  "201": {
+   "verdict": "NEGATIVE",
+   "conf": 88,
+   "aimed_at": "exhaustion, zero morale"
+  },
+  "202": {
+   "verdict": "NEGATIVE",
+   "conf": 78,
+   "aimed_at": "demands cancellation"
+  },
+  "203": {
+   "verdict": "NEGATIVE",
+   "conf": 90,
+   "aimed_at": "calls system useless"
+  },
+  "204": {
+   "verdict": "NEGATIVE",
+   "conf": 70,
+   "aimed_at": "prays for cancellation"
+  },
+  "205": {
+   "verdict": "NEGATIVE",
+   "conf": 88,
+   "aimed_at": "complains of exhaustion"
+  },
+  "206": {
+   "verdict": "NEGATIVE",
+   "conf": 65,
+   "aimed_at": "mocking contradiction"
+  },
+  "207": {
+   "verdict": "NEGATIVE",
+   "conf": 90,
+   "aimed_at": "exhausting and repellent"
+  },
+  "208": {
+   "verdict": "NEGATIVE",
+   "conf": 92,
+   "aimed_at": "physically mentally drained"
+  },
+  "209": {
+   "verdict": "NEGATIVE",
+   "conf": 80,
+   "aimed_at": "crowding, confusion, loss"
+  },
+  "210": {
+   "verdict": "NEGATIVE",
+   "conf": 85,
+   "aimed_at": "ruined mental state"
+  },
+  "211": {
+   "verdict": "NEUTRAL",
+   "conf": 75,
+   "aimed_at": "neutral prediction"
+  },
+  "212": {
+   "verdict": "NEGATIVE",
+   "conf": 68,
+   "aimed_at": "wishes it cancelled"
+  },
+  "213": {
+   "verdict": "NEGATIVE",
+   "conf": 85,
+   "aimed_at": "angry plea, exhaustion"
+  },
+  "214": {
+   "verdict": "NEGATIVE",
+   "conf": 92,
+   "aimed_at": "anger, endless term"
+  },
+  "215": {
+   "verdict": "POSITIVE",
+   "conf": 60,
+   "aimed_at": "enthusiastic friendly recommendation"
+  },
+  "216": {
+   "verdict": "NEGATIVE",
+   "conf": 93,
+   "aimed_at": "hatred, exhaustion, disgust"
+  },
+  "217": {
+   "verdict": "NEGATIVE",
+   "conf": 80,
+   "aimed_at": "argues no benefit"
+  },
+  "218": {
+   "verdict": "NEGATIVE",
+   "conf": 95,
+   "aimed_at": "curse, wasted everything"
+  },
+  "219": {
+   "verdict": "NEUTRAL",
+   "conf": 45,
+   "aimed_at": "vague teasing remark"
+  },
+  "220": {
+   "verdict": "NEUTRAL",
+   "conf": 92,
+   "aimed_at": "plain question"
+  },
+  "221": {
+   "verdict": "NEGATIVE",
+   "conf": 82,
+   "aimed_at": "calls it mistake"
+  },
+  "222": {
+   "verdict": "NEGATIVE",
+   "conf": 88,
+   "aimed_at": "stop it, tired"
+  },
+  "223": {
+   "verdict": "NEGATIVE",
+   "conf": 85,
+   "aimed_at": "boredom, wasted effort"
+  },
+  "224": {
+   "verdict": "NEGATIVE",
+   "conf": 78,
+   "aimed_at": "annoyance, giving up"
+  },
+  "225": {
+   "verdict": "POSITIVE",
+   "conf": 75,
+   "aimed_at": "hopeful prayer for remote"
+  },
+  "226": {
+   "verdict": "NEGATIVE",
+   "conf": 70,
+   "aimed_at": "harm, criticism of system"
+  },
+  "227": {
+   "verdict": "NEUTRAL",
+   "conf": 70,
+   "aimed_at": "constructive proposal, informational"
+  },
+  "228": {
+   "verdict": "NEGATIVE",
+   "conf": 75,
+   "aimed_at": "crying emoji, complaint"
+  },
+  "229": {
+   "verdict": "NEGATIVE",
+   "conf": 85,
+   "aimed_at": "criticizes exhausting three terms"
+  },
+  "230": {
+   "verdict": "NEGATIVE",
+   "conf": 75,
+   "aimed_at": "expresses exhaustion, enough"
+  },
+  "231": {
+   "verdict": "NEUTRAL",
+   "conf": 72,
+   "aimed_at": "policy suggestion, informational"
+  },
+  "232": {
+   "verdict": "NEGATIVE",
+   "conf": 92,
+   "aimed_at": "waste of energy, sad"
+  },
+  "233": {
+   "verdict": "NEGATIVE",
+   "conf": 95,
+   "aimed_at": "worst failed system"
+  },
+  "234": {
+   "verdict": "NEGATIVE",
+   "conf": 85,
+   "aimed_at": "cites negatives of system"
+  },
+  "235": {
+   "verdict": "POSITIVE",
+   "conf": 55,
+   "aimed_at": "wishful hope for cancellation"
+  },
+  "236": {
+   "verdict": "NEGATIVE",
+   "conf": 70,
+   "aimed_at": "demands cancellation, relief"
+  },
+  "237": {
+   "verdict": "NEGATIVE",
+   "conf": 90,
+   "aimed_at": "burnout, broken heart"
+  },
+  "238": {
+   "verdict": "NEUTRAL",
+   "conf": 75,
+   "aimed_at": "suggests survey, questioning"
+  },
+  "239": {
+   "verdict": "POSITIVE",
+   "conf": 70,
+   "aimed_at": "supports idea despite criticism"
+  },
+  "240": {
+   "verdict": "NEGATIVE",
+   "conf": 60,
+   "aimed_at": "majority favor cancellation"
+  },
+  "241": {
+   "verdict": "POSITIVE",
+   "conf": 65,
+   "aimed_at": "best suitable option"
+  },
+  "242": {
+   "verdict": "NEUTRAL",
+   "conf": 70,
+   "aimed_at": "balanced, both views logical"
+  },
+  "243": {
+   "verdict": "NEGATIVE",
+   "conf": 70,
+   "aimed_at": "urges cancellation, safety worry"
+  },
+  "244": {
+   "verdict": "NEGATIVE",
+   "conf": 88,
+   "aimed_at": "unfair, excessive effort"
+  },
+  "245": {
+   "verdict": "NEGATIVE",
+   "conf": 85,
+   "aimed_at": "sad emojis, weariness"
+  },
+  "246": {
+   "verdict": "NEGATIVE",
+   "conf": 90,
+   "aimed_at": "negative more than positive"
+  },
+  "247": {
+   "verdict": "NEGATIVE",
+   "conf": 70,
+   "aimed_at": "pressure, demands cancellation"
+  },
+  "248": {
+   "verdict": "POSITIVE",
+   "conf": 55,
+   "aimed_at": "reassurance it will pass"
+  },
+  "249": {
+   "verdict": "NEGATIVE",
+   "conf": 70,
+   "aimed_at": "defeated by books"
+  },
+  "250": {
+   "verdict": "NEGATIVE",
+   "conf": 78,
+   "aimed_at": "complaint about workload"
+  },
+  "251": {
+   "verdict": "NEGATIVE",
+   "conf": 90,
+   "aimed_at": "wants cancellation, exhausting"
+  },
+  "252": {
+   "verdict": "NEGATIVE",
+   "conf": 85,
+   "aimed_at": "calls idea unsuccessful, boredom"
+  },
+  "253": {
+   "verdict": "POSITIVE",
+   "conf": 80,
+   "aimed_at": "joy emoji, hopes cancellation"
+  },
+  "254": {
+   "verdict": "POSITIVE",
+   "conf": 85,
+   "aimed_at": "praises lighter curriculum"
+  },
+  "255": {
+   "verdict": "POSITIVE",
+   "conf": 80,
+   "aimed_at": "calls system nice, light"
+  },
+  "256": {
+   "verdict": "POSITIVE",
+   "conf": 75,
+   "aimed_at": "prefers three terms"
+  },
+  "257": {
+   "verdict": "NEUTRAL",
+   "conf": 60,
+   "aimed_at": "states conditional agreement"
+  },
+  "258": {
+   "verdict": "NEGATIVE",
+   "conf": 65,
+   "aimed_at": "criticism with hopeful wish"
+  },
+  "259": {
+   "verdict": "NEUTRAL",
+   "conf": 70,
+   "aimed_at": "proposes schedule suggestion"
+  },
+  "260": {
+   "verdict": "POSITIVE",
+   "conf": 70,
+   "aimed_at": "best teaching method, wishes success"
+  },
+  "261": {
+   "verdict": "POSITIVE",
+   "conf": 85,
+   "aimed_at": "likes three terms"
+  },
+  "262": {
+   "verdict": "POSITIVE",
+   "conf": 85,
+   "aimed_at": "no fatigue, learn more"
+  },
+  "263": {
+   "verdict": "POSITIVE",
+   "conf": 90,
+   "aimed_at": "praise, best term"
+  },
+  "264": {
+   "verdict": "POSITIVE",
+   "conf": 85,
+   "aimed_at": "reduces pressure feeling"
+  },
+  "265": {
+   "verdict": "POSITIVE",
+   "conf": 65,
+   "aimed_at": "forced beneficial diversification"
+  },
+  "266": {
+   "verdict": "POSITIVE",
+   "conf": 70,
+   "aimed_at": "kills summer boredom"
+  },
+  "267": {
+   "verdict": "NEUTRAL",
+   "conf": 60,
+   "aimed_at": "new subjects added"
+  },
+  "268": {
+   "verdict": "POSITIVE",
+   "conf": 75,
+   "aimed_at": "student discipline improved"
+  },
+  "269": {
+   "verdict": "POSITIVE",
+   "conf": 75,
+   "aimed_at": "shorter term favorable"
+  },
+  "270": {
+   "verdict": "POSITIVE",
+   "conf": 80,
+   "aimed_at": "breaks relieve pressure"
+  },
+  "271": {
+   "verdict": "POSITIVE",
+   "conf": 80,
+   "aimed_at": "fewer subjects, less pressure"
+  },
+  "272": {
+   "verdict": "POSITIVE",
+   "conf": 75,
+   "aimed_at": "student attachment to learning"
+  },
+  "273": {
+   "verdict": "POSITIVE",
+   "conf": 80,
+   "aimed_at": "fast graduation benefit"
+  },
+  "274": {
+   "verdict": "POSITIVE",
+   "conf": 75,
+   "aimed_at": "scary pressure ended"
+  },
+  "275": {
+   "verdict": "POSITIVE",
+   "conf": 88,
+   "aimed_at": "likes short terms"
+  },
+  "276": {
+   "verdict": "POSITIVE",
+   "conf": 92,
+   "aimed_at": "enjoys long breaks"
+  },
+  "277": {
+   "verdict": "NEGATIVE",
+   "conf": 60,
+   "aimed_at": "complains shorter summer vacation"
+  },
+  "278": {
+   "verdict": "POSITIVE",
+   "conf": 85,
+   "aimed_at": "praises fewer subjects"
+  },
+  "279": {
+   "verdict": "POSITIVE",
+   "conf": 70,
+   "aimed_at": "notes long breaks favorably"
+  },
+  "280": {
+   "verdict": "POSITIVE",
+   "conf": 80,
+   "aimed_at": "term ends quickly"
+  },
+  "281": {
+   "verdict": "POSITIVE",
+   "conf": 90,
+   "aimed_at": "faster graduation liked"
+  },
+  "282": {
+   "verdict": "POSITIVE",
+   "conf": 88,
+   "aimed_at": "lists positive features"
+  },
+  "283": {
+   "verdict": "POSITIVE",
+   "conf": 82,
+   "aimed_at": "prefers faster graduation"
+  },
+  "284": {
+   "verdict": "POSITIVE",
+   "conf": 90,
+   "aimed_at": "easier, no boredom"
+  },
+  "285": {
+   "verdict": "POSITIVE",
+   "conf": 78,
+   "aimed_at": "reduced subject pressure"
+  },
+  "286": {
+   "verdict": "POSITIVE",
+   "conf": 75,
+   "aimed_at": "faster graduation possible"
+  },
+  "287": {
+   "verdict": "POSITIVE",
+   "conf": 75,
+   "aimed_at": "long vacations idea"
+  },
+  "288": {
+   "verdict": "POSITIVE",
+   "conf": 70,
+   "aimed_at": "short term duration"
+  },
+  "289": {
+   "verdict": "POSITIVE",
+   "conf": 85,
+   "aimed_at": "improves educational environment"
+  },
+  "290": {
+   "verdict": "POSITIVE",
+   "conf": 85,
+   "aimed_at": "daughter satisfied, agrees"
+  },
+  "291": {
+   "verdict": "POSITIVE",
+   "conf": 88,
+   "aimed_at": "better focus, fewer subjects"
+  },
+  "292": {
+   "verdict": "POSITIVE",
+   "conf": 88,
+   "aimed_at": "excellent quality-based system"
+  },
+  "293": {
+   "verdict": "NEGATIVE",
+   "conf": 65,
+   "aimed_at": "vacation implementation broken"
+  },
+  "294": {
+   "verdict": "POSITIVE",
+   "conf": 60,
+   "aimed_at": "laughing, grateful framing"
+  },
+  "295": {
+   "verdict": "POSITIVE",
+   "conf": 92,
+   "aimed_at": "congratulates, praises system"
+  },
+  "296": {
+   "verdict": "POSITIVE",
+   "conf": 85,
+   "aimed_at": "excellent approach, hopeful"
+  },
+  "297": {
+   "verdict": "POSITIVE",
+   "conf": 80,
+   "aimed_at": "very nice with suggestion"
+  },
+  "298": {
+   "verdict": "POSITIVE",
+   "conf": 95,
+   "aimed_at": "historic qualitative leap praise"
+  },
+  "299": {
+   "verdict": "POSITIVE",
+   "conf": 70,
+   "aimed_at": "hopeful, awaits success"
+  },
+  "300": {
+   "verdict": "POSITIVE",
+   "conf": 95,
+   "aimed_at": "praises new calendar"
+  },
+  "301": {
+   "verdict": "POSITIVE",
+   "conf": 88,
+   "aimed_at": "trust, benefit, relief"
+  },
+  "302": {
+   "verdict": "POSITIVE",
+   "conf": 85,
+   "aimed_at": "excellent, wishful suggestion"
+  },
+  "303": {
+   "verdict": "POSITIVE",
+   "conf": 70,
+   "aimed_at": "praise with doubt"
+  },
+  "304": {
+   "verdict": "POSITIVE",
+   "conf": 92,
+   "aimed_at": "motivating, breaks stagnation"
+  },
+  "305": {
+   "verdict": "NEGATIVE",
+   "conf": 65,
+   "aimed_at": "criticizes superficial change"
+  },
+  "306": {
+   "verdict": "POSITIVE",
+   "conf": 95,
+   "aimed_at": "thanks, progress framing"
+  },
+  "307": {
+   "verdict": "POSITIVE",
+   "conf": 88,
+   "aimed_at": "endorses three semesters"
+  },
+  "308": {
+   "verdict": "POSITIVE",
+   "conf": 96,
+   "aimed_at": "wonderful, wonderful"
+  },
+  "309": {
+   "verdict": "POSITIVE",
+   "conf": 90,
+   "aimed_at": "happy, less pressure"
+  },
+  "310": {
+   "verdict": "NEGATIVE",
+   "conf": 55,
+   "aimed_at": "sarcastic doubt about benefit"
+  },
+  "311": {
+   "verdict": "POSITIVE",
+   "conf": 80,
+   "aimed_at": "lists system advantages"
+  }
+ }
+}

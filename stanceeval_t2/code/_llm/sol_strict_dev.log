@@ -1,0 +1,4 @@
+[provider] sub2apigpt wire=gpt-5.6-sol
+[card] 'Women empowerment': def='تمكين المرأة هو عملية تعزيز قدرات المرأة وزيادة فرصها في الم' asp='المساواة في فرص العمل، الحق في التعليم، المشاركة السياسية، ا'
+[done] 'Women empowerment': 1400 tweets
+[RESULT] {"model": "gpt-5.6-sol", "grounded": true, "n": 1400, "runtime_sec": 721.1, "pooled_Favg2": 87.08, "per_target": {"Women empowerment": 87.08}}

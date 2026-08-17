@@ -1,0 +1,6 @@
+{
+  "model": "gemini-3.6-flash",
+  "n": 20,
+  "reasoning": "none",
+  "runtime_sec": 13.0
+}

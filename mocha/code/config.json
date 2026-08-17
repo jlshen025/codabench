@@ -1,0 +1,1 @@
+{"views": ["side_glob"], "reduce": "jointmean", "tta": ["orig"], "tau": 0.5, "subj_smooth": 1.0, "center_lam": 0.9, "nbr_smooth": 0.4, "nbr_k": 5}

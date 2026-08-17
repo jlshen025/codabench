@@ -1,0 +1,1118 @@
+{
+ "model": "claude-opus-5",
+ "target": "Trimester",
+ "pool": "against",
+ "n": 222,
+ "res": {
+  "0": {
+   "verdict": "ONTARGET",
+   "conf": 88,
+   "aimed_at": "الفصل الثالث"
+  },
+  "1": {
+   "verdict": "ONTARGET",
+   "conf": 90,
+   "aimed_at": "نظام الثلاثة فصول"
+  },
+  "2": {
+   "verdict": "ONTARGET",
+   "conf": 82,
+   "aimed_at": "الأترام الثلاثة"
+  },
+  "3": {
+   "verdict": "ONTARGET",
+   "conf": 80,
+   "aimed_at": "الفصل الثالث"
+  },
+  "4": {
+   "verdict": "ONTARGET",
+   "conf": 90,
+   "aimed_at": "الفصل الثالث"
+  },
+  "5": {
+   "verdict": "ONTARGET",
+   "conf": 93,
+   "aimed_at": "نظام الثلاث فصول"
+  },
+  "6": {
+   "verdict": "ONTARGET",
+   "conf": 90,
+   "aimed_at": "الفصل الثالث"
+  },
+  "10": {
+   "verdict": "ONTARGET",
+   "conf": 80,
+   "aimed_at": "الفصل الثالث"
+  },
+  "12": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "الفصول الثلاثة"
+  },
+  "13": {
+   "verdict": "ONTARGET",
+   "conf": 90,
+   "aimed_at": "الثلاث فصول"
+  },
+  "14": {
+   "verdict": "ONTARGET",
+   "conf": 92,
+   "aimed_at": "نظام ثلاث فصول"
+  },
+  "16": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "الفصل الثالث"
+  },
+  "17": {
+   "verdict": "ONTARGET",
+   "conf": 95,
+   "aimed_at": "نظام ثلاثة اترام"
+  },
+  "18": {
+   "verdict": "ONTARGET",
+   "conf": 70,
+   "aimed_at": "كتب الفصل الثالث"
+  },
+  "19": {
+   "verdict": "ONTARGET",
+   "conf": 78,
+   "aimed_at": "الفصل الثالث"
+  },
+  "21": {
+   "verdict": "ONTARGET",
+   "conf": 80,
+   "aimed_at": "الفصل الثالث"
+  },
+  "22": {
+   "verdict": "ONTARGET",
+   "conf": 72,
+   "aimed_at": "الفصل الثالث"
+  },
+  "23": {
+   "verdict": "DISPLACED",
+   "conf": 68,
+   "aimed_at": "صاحب الحساب"
+  },
+  "24": {
+   "verdict": "ONTARGET",
+   "conf": 55,
+   "aimed_at": "مطالب معيشية حكومية"
+  },
+  "25": {
+   "verdict": "ONTARGET",
+   "conf": 90,
+   "aimed_at": "نظام ثلاثة فصول"
+  },
+  "26": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "الفصل الثالث"
+  },
+  "27": {
+   "verdict": "ONTARGET",
+   "conf": 92,
+   "aimed_at": "الفصول الثلاثة"
+  },
+  "28": {
+   "verdict": "ONTARGET",
+   "conf": 90,
+   "aimed_at": "الفصل الثالث"
+  },
+  "29": {
+   "verdict": "ONTARGET",
+   "conf": 65,
+   "aimed_at": "الاترام الثلاثة"
+  },
+  "31": {
+   "verdict": "ONTARGET",
+   "conf": 70,
+   "aimed_at": "الفصول الثلاثة"
+  },
+  "32": {
+   "verdict": "ONTARGET",
+   "conf": 92,
+   "aimed_at": "three-term system"
+  },
+  "33": {
+   "verdict": "ONTARGET",
+   "conf": 90,
+   "aimed_at": "third term"
+  },
+  "34": {
+   "verdict": "ONTARGET",
+   "conf": 75,
+   "aimed_at": "third term"
+  },
+  "35": {
+   "verdict": "ONTARGET",
+   "conf": 80,
+   "aimed_at": "third term"
+  },
+  "37": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "three-term system"
+  },
+  "38": {
+   "verdict": "ONTARGET",
+   "conf": 90,
+   "aimed_at": "third term"
+  },
+  "39": {
+   "verdict": "ONTARGET",
+   "conf": 80,
+   "aimed_at": "three-term system"
+  },
+  "41": {
+   "verdict": "ONTARGET",
+   "conf": 92,
+   "aimed_at": "three-term system"
+  },
+  "43": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "three-term system"
+  },
+  "44": {
+   "verdict": "ONTARGET",
+   "conf": 93,
+   "aimed_at": "three-term system"
+  },
+  "47": {
+   "verdict": "ONTARGET",
+   "conf": 88,
+   "aimed_at": "third term"
+  },
+  "48": {
+   "verdict": "ONTARGET",
+   "conf": 90,
+   "aimed_at": "third term"
+  },
+  "49": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "three terms"
+  },
+  "50": {
+   "verdict": "ONTARGET",
+   "conf": 70,
+   "aimed_at": "three terms"
+  },
+  "52": {
+   "verdict": "ONTARGET",
+   "conf": 88,
+   "aimed_at": "three terms"
+  },
+  "53": {
+   "verdict": "ONTARGET",
+   "conf": 90,
+   "aimed_at": "third term"
+  },
+  "54": {
+   "verdict": "ONTARGET",
+   "conf": 82,
+   "aimed_at": "three-term system"
+  },
+  "55": {
+   "verdict": "ONTARGET",
+   "conf": 92,
+   "aimed_at": "three-term system"
+  },
+  "56": {
+   "verdict": "ONTARGET",
+   "conf": 75,
+   "aimed_at": "third term"
+  },
+  "57": {
+   "verdict": "DISPLACED",
+   "conf": 70,
+   "aimed_at": "the account/person"
+  },
+  "58": {
+   "verdict": "ONTARGET",
+   "conf": 90,
+   "aimed_at": "three terms"
+  },
+  "59": {
+   "verdict": "ONTARGET",
+   "conf": 88,
+   "aimed_at": "three-term system"
+  },
+  "60": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "third term"
+  },
+  "61": {
+   "verdict": "ONTARGET",
+   "conf": 82,
+   "aimed_at": "third term"
+  },
+  "62": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "three terms"
+  },
+  "63": {
+   "verdict": "ONTARGET",
+   "conf": 92,
+   "aimed_at": "three-term system"
+  },
+  "64": {
+   "verdict": "ONTARGET",
+   "conf": 88,
+   "aimed_at": "three-term system"
+  },
+  "65": {
+   "verdict": "ONTARGET",
+   "conf": 93,
+   "aimed_at": "three-term system"
+  },
+  "66": {
+   "verdict": "ONTARGET",
+   "conf": 70,
+   "aimed_at": "three-term system"
+  },
+  "67": {
+   "verdict": "ONTARGET",
+   "conf": 90,
+   "aimed_at": "three-term system"
+  },
+  "68": {
+   "verdict": "ONTARGET",
+   "conf": 88,
+   "aimed_at": "three-term system"
+  },
+  "69": {
+   "verdict": "ONTARGET",
+   "conf": 95,
+   "aimed_at": "three-term system"
+  },
+  "70": {
+   "verdict": "ONTARGET",
+   "conf": 72,
+   "aimed_at": "three-term system"
+  },
+  "71": {
+   "verdict": "ONTARGET",
+   "conf": 93,
+   "aimed_at": "three-term system"
+  },
+  "73": {
+   "verdict": "ONTARGET",
+   "conf": 95,
+   "aimed_at": "three-term system"
+  },
+  "74": {
+   "verdict": "ONTARGET",
+   "conf": 80,
+   "aimed_at": "three-term system"
+  },
+  "75": {
+   "verdict": "ONTARGET",
+   "conf": 90,
+   "aimed_at": "three-term system"
+  },
+  "76": {
+   "verdict": "ONTARGET",
+   "conf": 92,
+   "aimed_at": "three-term system"
+  },
+  "77": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "three-term system"
+  },
+  "78": {
+   "verdict": "ONTARGET",
+   "conf": 88,
+   "aimed_at": "three-term system"
+  },
+  "79": {
+   "verdict": "ONTARGET",
+   "conf": 92,
+   "aimed_at": "three-term system"
+  },
+  "80": {
+   "verdict": "ONTARGET",
+   "conf": 90,
+   "aimed_at": "three-term system"
+  },
+  "81": {
+   "verdict": "ONTARGET",
+   "conf": 75,
+   "aimed_at": "proposal authors/officials"
+  },
+  "82": {
+   "verdict": "ONTARGET",
+   "conf": 93,
+   "aimed_at": "three-term system"
+  },
+  "83": {
+   "verdict": "DISPLACED",
+   "conf": 65,
+   "aimed_at": "students' behavior/neglect"
+  },
+  "84": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "three-term system"
+  },
+  "85": {
+   "verdict": "ONTARGET",
+   "conf": 88,
+   "aimed_at": "three-term system"
+  },
+  "86": {
+   "verdict": "DISPLACED",
+   "conf": 78,
+   "aimed_at": "unresponsive authorities"
+  },
+  "87": {
+   "verdict": "ONTARGET",
+   "conf": 94,
+   "aimed_at": "three-term system"
+  },
+  "88": {
+   "verdict": "ONTARGET",
+   "conf": 82,
+   "aimed_at": "three-term system"
+  },
+  "89": {
+   "verdict": "ONTARGET",
+   "conf": 92,
+   "aimed_at": "three-term system"
+  },
+  "90": {
+   "verdict": "ONTARGET",
+   "conf": 93,
+   "aimed_at": "three-term system"
+  },
+  "91": {
+   "verdict": "ONTARGET",
+   "conf": 94,
+   "aimed_at": "three-term system"
+  },
+  "92": {
+   "verdict": "ONTARGET",
+   "conf": 60,
+   "aimed_at": "ministry decision process"
+  },
+  "93": {
+   "verdict": "DISPLACED",
+   "conf": 78,
+   "aimed_at": "other failed decision"
+  },
+  "94": {
+   "verdict": "ONTARGET",
+   "conf": 96,
+   "aimed_at": "three-term system"
+  },
+  "95": {
+   "verdict": "ONTARGET",
+   "conf": 92,
+   "aimed_at": "third term"
+  },
+  "96": {
+   "verdict": "ONTARGET",
+   "conf": 88,
+   "aimed_at": "three-term system"
+  },
+  "98": {
+   "verdict": "DISPLACED",
+   "conf": 80,
+   "aimed_at": "school celebration costs"
+  },
+  "99": {
+   "verdict": "ONTARGET",
+   "conf": 93,
+   "aimed_at": "third term"
+  },
+  "100": {
+   "verdict": "ONTARGET",
+   "conf": 93,
+   "aimed_at": "three-term system"
+  },
+  "101": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "three-term system"
+  },
+  "102": {
+   "verdict": "ONTARGET",
+   "conf": 96,
+   "aimed_at": "three-term system"
+  },
+  "103": {
+   "verdict": "ONTARGET",
+   "conf": 88,
+   "aimed_at": "three-term system"
+  },
+  "104": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "three-term system"
+  },
+  "105": {
+   "verdict": "DISPLACED",
+   "conf": 62,
+   "aimed_at": "other long event"
+  },
+  "106": {
+   "verdict": "ONTARGET",
+   "conf": 90,
+   "aimed_at": "three-term system"
+  },
+  "107": {
+   "verdict": "DISPLACED",
+   "conf": 72,
+   "aimed_at": "poll account credibility"
+  },
+  "108": {
+   "verdict": "ONTARGET",
+   "conf": 95,
+   "aimed_at": "three-term system"
+  },
+  "109": {
+   "verdict": "DISPLACED",
+   "conf": 70,
+   "aimed_at": "own university system"
+  },
+  "110": {
+   "verdict": "ONTARGET",
+   "conf": 88,
+   "aimed_at": "three-term system"
+  },
+  "111": {
+   "verdict": "ONTARGET",
+   "conf": 92,
+   "aimed_at": "third term"
+  },
+  "112": {
+   "verdict": "ONTARGET",
+   "conf": 80,
+   "aimed_at": "third term"
+  },
+  "113": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "three-term system"
+  },
+  "114": {
+   "verdict": "ONTARGET",
+   "conf": 93,
+   "aimed_at": "third term"
+  },
+  "115": {
+   "verdict": "ONTARGET",
+   "conf": 80,
+   "aimed_at": "الفصل الثالث"
+  },
+  "116": {
+   "verdict": "ONTARGET",
+   "conf": 95,
+   "aimed_at": "ثلاثة فصول دراسية"
+  },
+  "117": {
+   "verdict": "ONTARGET",
+   "conf": 92,
+   "aimed_at": "نظام الأترام الثلاثة"
+  },
+  "118": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "الفصل الثالث"
+  },
+  "119": {
+   "verdict": "ONTARGET",
+   "conf": 90,
+   "aimed_at": "الفصل الثالث"
+  },
+  "120": {
+   "verdict": "ONTARGET",
+   "conf": 95,
+   "aimed_at": "الفصل الثالث"
+  },
+  "121": {
+   "verdict": "ONTARGET",
+   "conf": 95,
+   "aimed_at": "الفصل الثالث"
+  },
+  "122": {
+   "verdict": "ONTARGET",
+   "conf": 95,
+   "aimed_at": "الفصول الثلاثة"
+  },
+  "123": {
+   "verdict": "ONTARGET",
+   "conf": 80,
+   "aimed_at": "قرار الأترام الثلاثة"
+  },
+  "125": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "الأترام الثلاثة"
+  },
+  "126": {
+   "verdict": "ONTARGET",
+   "conf": 75,
+   "aimed_at": "نظام الأترام الثلاثة"
+  },
+  "127": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "الأترام الثلاثة"
+  },
+  "128": {
+   "verdict": "ONTARGET",
+   "conf": 75,
+   "aimed_at": "الفصل الثالث"
+  },
+  "129": {
+   "verdict": "ONTARGET",
+   "conf": 92,
+   "aimed_at": "ثلاثة أترام"
+  },
+  "131": {
+   "verdict": "ONTARGET",
+   "conf": 95,
+   "aimed_at": "الثلاثة فصول"
+  },
+  "132": {
+   "verdict": "ONTARGET",
+   "conf": 93,
+   "aimed_at": "الفصل الثالث"
+  },
+  "133": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "ثلاثة أترام"
+  },
+  "134": {
+   "verdict": "ONTARGET",
+   "conf": 60,
+   "aimed_at": "ثلاثة أترام"
+  },
+  "135": {
+   "verdict": "ONTARGET",
+   "conf": 90,
+   "aimed_at": "ثلاثة أترام"
+  },
+  "136": {
+   "verdict": "ONTARGET",
+   "conf": 93,
+   "aimed_at": "الفصل الثالث"
+  },
+  "140": {
+   "verdict": "ONTARGET",
+   "conf": 95,
+   "aimed_at": "نظام الثلاث فصول"
+  },
+  "141": {
+   "verdict": "DISPLACED",
+   "conf": 55,
+   "aimed_at": "اختباراتها النهائية"
+  },
+  "142": {
+   "verdict": "ONTARGET",
+   "conf": 95,
+   "aimed_at": "الفصل الثالث"
+  },
+  "143": {
+   "verdict": "ONTARGET",
+   "conf": 55,
+   "aimed_at": "ثلاثة أترام"
+  },
+  "144": {
+   "verdict": "ONTARGET",
+   "conf": 70,
+   "aimed_at": "الفصل الثالث"
+  },
+  "145": {
+   "verdict": "ONTARGET",
+   "conf": 92,
+   "aimed_at": "three-term system"
+  },
+  "146": {
+   "verdict": "ONTARGET",
+   "conf": 90,
+   "aimed_at": "three-term system"
+  },
+  "147": {
+   "verdict": "ONTARGET",
+   "conf": 88,
+   "aimed_at": "three-term system"
+  },
+  "148": {
+   "verdict": "ONTARGET",
+   "conf": 95,
+   "aimed_at": "three-term system"
+  },
+  "149": {
+   "verdict": "ONTARGET",
+   "conf": 93,
+   "aimed_at": "three-term system"
+  },
+  "150": {
+   "verdict": "ONTARGET",
+   "conf": 80,
+   "aimed_at": "three-term system"
+  },
+  "151": {
+   "verdict": "ONTARGET",
+   "conf": 92,
+   "aimed_at": "three-term system"
+  },
+  "152": {
+   "verdict": "ONTARGET",
+   "conf": 75,
+   "aimed_at": "three-term system"
+  },
+  "153": {
+   "verdict": "ONTARGET",
+   "conf": 78,
+   "aimed_at": "three-term system"
+  },
+  "154": {
+   "verdict": "ONTARGET",
+   "conf": 88,
+   "aimed_at": "three-term system"
+  },
+  "155": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "three-term system"
+  },
+  "156": {
+   "verdict": "ONTARGET",
+   "conf": 92,
+   "aimed_at": "three-term system"
+  },
+  "157": {
+   "verdict": "ONTARGET",
+   "conf": 70,
+   "aimed_at": "decision maker"
+  },
+  "158": {
+   "verdict": "ONTARGET",
+   "conf": 82,
+   "aimed_at": "three-term system"
+  },
+  "159": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "three-term system"
+  },
+  "160": {
+   "verdict": "ONTARGET",
+   "conf": 88,
+   "aimed_at": "three-term system"
+  },
+  "161": {
+   "verdict": "ONTARGET",
+   "conf": 90,
+   "aimed_at": "three-term system"
+  },
+  "162": {
+   "verdict": "ONTARGET",
+   "conf": 90,
+   "aimed_at": "three-term system"
+  },
+  "163": {
+   "verdict": "ONTARGET",
+   "conf": 92,
+   "aimed_at": "three-term system"
+  },
+  "166": {
+   "verdict": "ONTARGET",
+   "conf": 90,
+   "aimed_at": "three-term system"
+  },
+  "167": {
+   "verdict": "ONTARGET",
+   "conf": 88,
+   "aimed_at": "three-term system"
+  },
+  "168": {
+   "verdict": "ONTARGET",
+   "conf": 90,
+   "aimed_at": "three-term system"
+  },
+  "169": {
+   "verdict": "ONTARGET",
+   "conf": 72,
+   "aimed_at": "Ministry of Education"
+  },
+  "170": {
+   "verdict": "ONTARGET",
+   "conf": 80,
+   "aimed_at": "three-term system"
+  },
+  "171": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "three-term system"
+  },
+  "172": {
+   "verdict": "ONTARGET",
+   "conf": 66,
+   "aimed_at": "three-term decision"
+  },
+  "173": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "third term exams"
+  },
+  "174": {
+   "verdict": "ONTARGET",
+   "conf": 93,
+   "aimed_at": "three-term system"
+  },
+  "177": {
+   "verdict": "ONTARGET",
+   "conf": 90,
+   "aimed_at": "three terms"
+  },
+  "179": {
+   "verdict": "ONTARGET",
+   "conf": 88,
+   "aimed_at": "three-term system"
+  },
+  "180": {
+   "verdict": "ONTARGET",
+   "conf": 92,
+   "aimed_at": "third term"
+  },
+  "181": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "third term"
+  },
+  "182": {
+   "verdict": "ONTARGET",
+   "conf": 91,
+   "aimed_at": "three terms"
+  },
+  "183": {
+   "verdict": "ONTARGET",
+   "conf": 72,
+   "aimed_at": "three-term system"
+  },
+  "184": {
+   "verdict": "ONTARGET",
+   "conf": 90,
+   "aimed_at": "three-term system"
+  },
+  "185": {
+   "verdict": "ONTARGET",
+   "conf": 72,
+   "aimed_at": "three-term system"
+  },
+  "186": {
+   "verdict": "ONTARGET",
+   "conf": 89,
+   "aimed_at": "three terms"
+  },
+  "187": {
+   "verdict": "ONTARGET",
+   "conf": 88,
+   "aimed_at": "three-term system"
+  },
+  "188": {
+   "verdict": "ONTARGET",
+   "conf": 75,
+   "aimed_at": "third term books"
+  },
+  "189": {
+   "verdict": "ONTARGET",
+   "conf": 70,
+   "aimed_at": "three terms"
+  },
+  "190": {
+   "verdict": "ONTARGET",
+   "conf": 94,
+   "aimed_at": "three terms"
+  },
+  "191": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "three terms"
+  },
+  "192": {
+   "verdict": "ONTARGET",
+   "conf": 89,
+   "aimed_at": "three terms"
+  },
+  "193": {
+   "verdict": "ONTARGET",
+   "conf": 87,
+   "aimed_at": "third term"
+  },
+  "195": {
+   "verdict": "ONTARGET",
+   "conf": 80,
+   "aimed_at": "third term"
+  },
+  "196": {
+   "verdict": "ONTARGET",
+   "conf": 78,
+   "aimed_at": "third term books"
+  },
+  "197": {
+   "verdict": "ONTARGET",
+   "conf": 88,
+   "aimed_at": "third term"
+  },
+  "198": {
+   "verdict": "ONTARGET",
+   "conf": 64,
+   "aimed_at": "third term decision"
+  },
+  "199": {
+   "verdict": "ONTARGET",
+   "conf": 56,
+   "aimed_at": "three terms"
+  },
+  "201": {
+   "verdict": "ONTARGET",
+   "conf": 86,
+   "aimed_at": "third term"
+  },
+  "202": {
+   "verdict": "ONTARGET",
+   "conf": 92,
+   "aimed_at": "الفصل الثالث"
+  },
+  "203": {
+   "verdict": "ONTARGET",
+   "conf": 93,
+   "aimed_at": "نظام الثلاثة فصول"
+  },
+  "204": {
+   "verdict": "ONTARGET",
+   "conf": 90,
+   "aimed_at": "الفصل الثالث"
+  },
+  "205": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "الفصل الثالث"
+  },
+  "207": {
+   "verdict": "ONTARGET",
+   "conf": 93,
+   "aimed_at": "ثلاثة فصول"
+  },
+  "208": {
+   "verdict": "ONTARGET",
+   "conf": 90,
+   "aimed_at": "الفصل الثالث"
+  },
+  "209": {
+   "verdict": "ONTARGET",
+   "conf": 75,
+   "aimed_at": "الفصل الثالث"
+  },
+  "210": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "الثلاث فصول"
+  },
+  "211": {
+   "verdict": "ONTARGET",
+   "conf": 80,
+   "aimed_at": "الفصل الثالث"
+  },
+  "212": {
+   "verdict": "ONTARGET",
+   "conf": 90,
+   "aimed_at": "الفصل الثالث"
+  },
+  "213": {
+   "verdict": "ONTARGET",
+   "conf": 88,
+   "aimed_at": "الفصل الثالث"
+  },
+  "214": {
+   "verdict": "ONTARGET",
+   "conf": 58,
+   "aimed_at": "الترم الثاني"
+  },
+  "215": {
+   "verdict": "ONTARGET",
+   "conf": 55,
+   "aimed_at": "الفصل الثالث"
+  },
+  "216": {
+   "verdict": "ONTARGET",
+   "conf": 80,
+   "aimed_at": "الفصل الثالث"
+  },
+  "217": {
+   "verdict": "ONTARGET",
+   "conf": 92,
+   "aimed_at": "الفصل الثالث"
+  },
+  "218": {
+   "verdict": "ONTARGET",
+   "conf": 70,
+   "aimed_at": "صاحب الفكرة"
+  },
+  "219": {
+   "verdict": "ONTARGET",
+   "conf": 45,
+   "aimed_at": "الفصل الثالث"
+  },
+  "221": {
+   "verdict": "ONTARGET",
+   "conf": 90,
+   "aimed_at": "الفصل الثالث"
+  },
+  "222": {
+   "verdict": "ONTARGET",
+   "conf": 90,
+   "aimed_at": "الفصل الثالث"
+  },
+  "223": {
+   "verdict": "ONTARGET",
+   "conf": 92,
+   "aimed_at": "الفصول الثلاثة"
+  },
+  "224": {
+   "verdict": "ONTARGET",
+   "conf": 65,
+   "aimed_at": "الفصل الثالث"
+  },
+  "225": {
+   "verdict": "ONTARGET",
+   "conf": 82,
+   "aimed_at": "الفصل الثالث"
+  },
+  "226": {
+   "verdict": "ONTARGET",
+   "conf": 60,
+   "aimed_at": "الدراسة عن بعد"
+  },
+  "228": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "ثلاثة اترام"
+  },
+  "229": {
+   "verdict": "ONTARGET",
+   "conf": 92,
+   "aimed_at": "الثلاث فصول"
+  },
+  "230": {
+   "verdict": "ONTARGET",
+   "conf": 93,
+   "aimed_at": "three-term system"
+  },
+  "232": {
+   "verdict": "ONTARGET",
+   "conf": 95,
+   "aimed_at": "three-term system"
+  },
+  "233": {
+   "verdict": "ONTARGET",
+   "conf": 97,
+   "aimed_at": "three-term system"
+  },
+  "234": {
+   "verdict": "ONTARGET",
+   "conf": 94,
+   "aimed_at": "three-term system"
+  },
+  "235": {
+   "verdict": "ONTARGET",
+   "conf": 92,
+   "aimed_at": "third term"
+  },
+  "236": {
+   "verdict": "ONTARGET",
+   "conf": 90,
+   "aimed_at": "third term"
+  },
+  "237": {
+   "verdict": "ONTARGET",
+   "conf": 93,
+   "aimed_at": "three-term system"
+  },
+  "238": {
+   "verdict": "ONTARGET",
+   "conf": 80,
+   "aimed_at": "three-term system"
+  },
+  "240": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "third term"
+  },
+  "241": {
+   "verdict": "ONTARGET",
+   "conf": 82,
+   "aimed_at": "third term/remote"
+  },
+  "242": {
+   "verdict": "ONTARGET",
+   "conf": 70,
+   "aimed_at": "three-term system"
+  },
+  "243": {
+   "verdict": "ONTARGET",
+   "conf": 75,
+   "aimed_at": "third term"
+  },
+  "244": {
+   "verdict": "ONTARGET",
+   "conf": 95,
+   "aimed_at": "three-term system"
+  },
+  "245": {
+   "verdict": "ONTARGET",
+   "conf": 72,
+   "aimed_at": "third term"
+  },
+  "246": {
+   "verdict": "ONTARGET",
+   "conf": 95,
+   "aimed_at": "third term"
+  },
+  "247": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "third term"
+  },
+  "248": {
+   "verdict": "ONTARGET",
+   "conf": 75,
+   "aimed_at": "third term"
+  },
+  "249": {
+   "verdict": "ONTARGET",
+   "conf": 88,
+   "aimed_at": "third term books"
+  },
+  "250": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "three-term system"
+  },
+  "251": {
+   "verdict": "ONTARGET",
+   "conf": 96,
+   "aimed_at": "three-term system"
+  },
+  "252": {
+   "verdict": "ONTARGET",
+   "conf": 88,
+   "aimed_at": "three-term system"
+  },
+  "253": {
+   "verdict": "ONTARGET",
+   "conf": 90,
+   "aimed_at": "third term"
+  }
+ }
+}

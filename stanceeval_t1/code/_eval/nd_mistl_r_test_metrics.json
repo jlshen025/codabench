@@ -1,0 +1,8 @@
+{
+  "model": "mistral-large",
+  "variant": "r",
+  "fewshot": 0,
+  "n": 352,
+  "n_unparsed": 0,
+  "runtime_sec": 190.8
+}

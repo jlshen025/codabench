@@ -1,0 +1,25 @@
+{
+  "model": "gpt-5.6-sol",
+  "n": 619,
+  "reasoning": "none",
+  "runtime_sec": 233.6,
+  "pooled_Favg2": 86.78,
+  "pooled_Favg3": 72.07,
+  "per_target": {
+    "Women empowerment": {
+      "Favg2": 87.15,
+      "Favg3": 71.77,
+      "n": 210
+    },
+    "Digital Transformation": {
+      "Favg2": 72.98,
+      "Favg3": 62.49,
+      "n": 203
+    },
+    "Covid Vaccine": {
+      "Favg2": 90.79,
+      "Favg3": 75.68,
+      "n": 206
+    }
+  }
+}

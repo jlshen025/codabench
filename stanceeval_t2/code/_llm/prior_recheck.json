@@ -1,0 +1,530 @@
+{
+"313": {
+"label": "Against",
+"conf": 97
+},
+"315": {
+"label": "Against",
+"conf": 78
+},
+"317": {
+"label": "Favor",
+"conf": 82
+},
+"324": {
+"label": "Against",
+"conf": 99
+},
+"326": {
+"label": "Favor",
+"conf": 92
+},
+"327": {
+"label": "Favor",
+"conf": 88
+},
+"332": {
+"label": "Favor",
+"conf": 67
+},
+"336": {
+"label": "Against",
+"conf": 86
+},
+"347": {
+"label": "Against",
+"conf": 91
+},
+"348": {
+"label": "Against",
+"conf": 97
+},
+"350": {
+"label": "Against",
+"conf": 99
+},
+"359": {
+"label": "Against",
+"conf": 100
+},
+"362": {
+"label": "Against",
+"conf": 98
+},
+"365": {
+"label": "Against",
+"conf": 99
+},
+"369": {
+"label": "Against",
+"conf": 84
+},
+"370": {
+"label": "Against",
+"conf": 99
+},
+"371": {
+"label": "Against",
+"conf": 98
+},
+"372": {
+"label": "Against",
+"conf": 95
+},
+"373": {
+"label": "Against",
+"conf": 94
+},
+"378": {
+"label": "None",
+"conf": 66
+},
+"384": {
+"label": "None",
+"conf": 93
+},
+"385": {
+"label": "None",
+"conf": 84
+},
+"387": {
+"label": "Against",
+"conf": 99
+},
+"392": {
+"label": "Against",
+"conf": 99
+},
+"396": {
+"label": "Against",
+"conf": 94
+},
+"406": {
+"label": "Favor",
+"conf": 90
+},
+"409": {
+"label": "Against",
+"conf": 82
+},
+"416": {
+"label": "Against",
+"conf": 98
+},
+"420": {
+"label": "Against",
+"conf": 99
+},
+"422": {
+"label": "Against",
+"conf": 100
+},
+"423": {
+"label": "None",
+"conf": 76
+},
+"425": {
+"label": "Favor",
+"conf": 94
+},
+"426": {
+"label": "Against",
+"conf": 100
+},
+"428": {
+"label": "Favor",
+"conf": 74
+},
+"429": {
+"label": "Against",
+"conf": 100
+},
+"433": {
+"label": "Against",
+"conf": 99
+},
+"436": {
+"label": "Against",
+"conf": 98
+},
+"438": {
+"label": "None",
+"conf": 88
+},
+"439": {
+"label": "Against",
+"conf": 99
+},
+"448": {
+"label": "Against",
+"conf": 99
+},
+"451": {
+"label": "Against",
+"conf": 100
+},
+"454": {
+"label": "Favor",
+"conf": 92
+},
+"455": {
+"label": "Against",
+"conf": 84
+},
+"456": {
+"label": "Against",
+"conf": 91
+},
+"457": {
+"label": "None",
+"conf": 84
+},
+"458": {
+"label": "Against",
+"conf": 76
+},
+"460": {
+"label": "Against",
+"conf": 98
+},
+"462": {
+"label": "None",
+"conf": 78
+},
+"470": {
+"label": "Against",
+"conf": 97
+},
+"471": {
+"label": "Against",
+"conf": 92
+},
+"487": {
+"label": "Against",
+"conf": 98
+},
+"489": {
+"label": "Against",
+"conf": 97
+},
+"513": {
+"label": "Favor",
+"conf": 88
+},
+"518": {
+"label": "Against",
+"conf": 98
+},
+"520": {
+"label": "Favor",
+"conf": 83
+},
+"522": {
+"label": "Against",
+"conf": 85
+},
+"524": {
+"label": "Against",
+"conf": 91
+},
+"525": {
+"label": "Favor",
+"conf": 78
+},
+"526": {
+"label": "Against",
+"conf": 72
+},
+"527": {
+"label": "Against",
+"conf": 96
+},
+"529": {
+"label": "Against",
+"conf": 74
+},
+"530": {
+"label": "Against",
+"conf": 88
+},
+"536": {
+"label": "Favor",
+"conf": 90
+},
+"537": {
+"label": "Against",
+"conf": 94
+},
+"543": {
+"label": "None",
+"conf": 72
+},
+"545": {
+"label": "Against",
+"conf": 96
+},
+"557": {
+"label": "None",
+"conf": 86
+},
+"558": {
+"label": "Against",
+"conf": 99
+},
+"559": {
+"label": "Against",
+"conf": 96
+},
+"560": {
+"label": "Against",
+"conf": 99
+},
+"563": {
+"label": "Against",
+"conf": 97
+},
+"572": {
+"label": "Against",
+"conf": 76
+},
+"579": {
+"label": "Against",
+"conf": 93
+},
+"583": {
+"label": "None",
+"conf": 88
+},
+"586": {
+"label": "Against",
+"conf": 99
+},
+"587": {
+"label": "Against",
+"conf": 98
+},
+"588": {
+"label": "Against",
+"conf": 94
+},
+"589": {
+"label": "Against",
+"conf": 97
+},
+"590": {
+"label": "Against",
+"conf": 99
+},
+"591": {
+"label": "Against",
+"conf": 96
+},
+"592": {
+"label": "Against",
+"conf": 98
+},
+"593": {
+"label": "Against",
+"conf": 98
+},
+"594": {
+"label": "Against",
+"conf": 93
+},
+"595": {
+"label": "Against",
+"conf": 98
+},
+"596": {
+"label": "Against",
+"conf": 99
+},
+"597": {
+"label": "Against",
+"conf": 99
+},
+"598": {
+"label": "Against",
+"conf": 97
+},
+"599": {
+"label": "Against",
+"conf": 99
+},
+"600": {
+"label": "Against",
+"conf": 99
+},
+"601": {
+"label": "Against",
+"conf": 99
+},
+"602": {
+"label": "Against",
+"conf": 96
+},
+"603": {
+"label": "Against",
+"conf": 99
+},
+"604": {
+"label": "Against",
+"conf": 95
+},
+"605": {
+"label": "Against",
+"conf": 98
+},
+"606": {
+"label": "Against",
+"conf": 99
+},
+"607": {
+"label": "Against",
+"conf": 91
+},
+"608": {
+"label": "Against",
+"conf": 96
+},
+"609": {
+"label": "Against",
+"conf": 99
+},
+"610": {
+"label": "Against",
+"conf": 99
+},
+"611": {
+"label": "Against",
+"conf": 98
+},
+"612": {
+"label": "None",
+"conf": 93
+},
+"613": {
+"label": "Favor",
+"conf": 79
+},
+"614": {
+"label": "Favor",
+"conf": 88
+},
+"615": {
+"label": "Favor",
+"conf": 77
+},
+"616": {
+"label": "Against",
+"conf": 99
+},
+"617": {
+"label": "Against",
+"conf": 97
+},
+"618": {
+"label": "Against",
+"conf": 99
+},
+"619": {
+"label": "Against",
+"conf": 98
+},
+"620": {
+"label": "Against",
+"conf": 98
+},
+"621": {
+"label": "Against",
+"conf": 100
+},
+"622": {
+"label": "Against",
+"conf": 99
+},
+"623": {
+"label": "Against",
+"conf": 99
+},
+"624": {
+"label": "Against",
+"conf": 99
+},
+"625": {
+"label": "Against",
+"conf": 99
+},
+"626": {
+"label": "Against",
+"conf": 99
+},
+"627": {
+"label": "Against",
+"conf": 98
+},
+"628": {
+"label": "Against",
+"conf": 99
+},
+"629": {
+"label": "Against",
+"conf": 99
+},
+"630": {
+"label": "Against",
+"conf": 97
+},
+"631": {
+"label": "Against",
+"conf": 99
+},
+"632": {
+"label": "Against",
+"conf": 99
+},
+"633": {
+"label": "Against",
+"conf": 99
+},
+"634": {
+"label": "Against",
+"conf": 100
+},
+"635": {
+"label": "Against",
+"conf": 99
+},
+"636": {
+"label": "Against",
+"conf": 98
+},
+"637": {
+"label": "Against",
+"conf": 98
+},
+"638": {
+"label": "Against",
+"conf": 97
+},
+"639": {
+"label": "Against",
+"conf": 99
+},
+"640": {
+"label": "Against",
+"conf": 91
+},
+"641": {
+"label": "Against",
+"conf": 100
+},
+"642": {
+"label": "Against",
+"conf": 94
+},
+"643": {
+"label": "Against",
+"conf": 99
+}
+}

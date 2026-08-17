@@ -1,0 +1,6 @@
+[provider] sub2apigpt wire=gpt-5.6-sol
+[card] 'Covid Vaccine': def='اللقاح المضاد لفيروس كورونا هو مستحضر طبي يهدف إلى تحفيز الم' asp='فعالية اللقاح في الوقاية من العدوى, سلامة اللقاح وآثاره الجا'
+[card] 'Digital Transformation': def='التحول الرقمي هو عملية تبني التقنيات الرقمية لتغيير نماذج ال' asp='تطوير البنية التحتية الرقمية، تحسين الخدمات الحكومية الإلكتر'
+[done] 'Covid Vaccine': 1373 tweets
+[done] 'Digital Transformation': 1348 tweets
+[RESULT] {"model": "gpt-5.6-sol", "grounded": true, "n": 2721, "runtime_sec": 1377.3, "pooled_Favg2": 88.01, "per_target": {"Covid Vaccine": 92.21, "Digital Transformation": 77.87}}

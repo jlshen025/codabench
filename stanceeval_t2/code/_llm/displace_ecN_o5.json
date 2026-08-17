@@ -1,0 +1,263 @@
+{
+ "model": "claude-opus-5",
+ "target": "Ecars",
+ "pool": "none",
+ "n": 51,
+ "res": {
+  "321": {
+   "verdict": "DISPLACED",
+   "conf": 72,
+   "aimed_at": "توم/الحلقة"
+  },
+  "340": {
+   "verdict": "DISPLACED",
+   "conf": 85,
+   "aimed_at": "الحكومة المصرية"
+  },
+  "341": {
+   "verdict": "DISPLACED",
+   "conf": 88,
+   "aimed_at": "الشخص المذكور"
+  },
+  "342": {
+   "verdict": "DISPLACED",
+   "conf": 86,
+   "aimed_at": "المهايطي/الشخص"
+  },
+  "343": {
+   "verdict": "ONTARGET",
+   "conf": 70,
+   "aimed_at": "السيارات الكهربائية"
+  },
+  "346": {
+   "verdict": "DISPLACED",
+   "conf": 80,
+   "aimed_at": "جهل الشعب/الانغلاق"
+  },
+  "349": {
+   "verdict": "ONTARGET",
+   "conf": 65,
+   "aimed_at": "تسلا/السيارات الكهربائية"
+  },
+  "352": {
+   "verdict": "ONTARGET",
+   "conf": 68,
+   "aimed_at": "المنتج المستهدف"
+  },
+  "355": {
+   "verdict": "ONTARGET",
+   "conf": 60,
+   "aimed_at": "قطع الغيار/الضمان"
+  },
+  "356": {
+   "verdict": "ONTARGET",
+   "conf": 75,
+   "aimed_at": "السيارات الكهربائية"
+  },
+  "361": {
+   "verdict": "ONTARGET",
+   "conf": 78,
+   "aimed_at": "سعر السيارة الكهربائية"
+  },
+  "374": {
+   "verdict": "ONTARGET",
+   "conf": 90,
+   "aimed_at": "عيوب السيارات الكهربائية"
+  },
+  "376": {
+   "verdict": "ONTARGET",
+   "conf": 55,
+   "aimed_at": "سيارات كهربائية"
+  },
+  "379": {
+   "verdict": "ONTARGET",
+   "conf": 60,
+   "aimed_at": "السيارة الكهربائية"
+  },
+  "384": {
+   "verdict": "DISPLACED",
+   "conf": 82,
+   "aimed_at": "إدارة الملعب/المنظمين"
+  },
+  "395": {
+   "verdict": "DISPLACED",
+   "conf": 70,
+   "aimed_at": "عملة evdc"
+  },
+  "400": {
+   "verdict": "ONTARGET",
+   "conf": 80,
+   "aimed_at": "السيارات الكهربائية"
+  },
+  "402": {
+   "verdict": "ONTARGET",
+   "conf": 72,
+   "aimed_at": "استيراد السيارات الكهربائية"
+  },
+  "403": {
+   "verdict": "ONTARGET",
+   "conf": 72,
+   "aimed_at": "استيراد السيارات الكهربائية"
+  },
+  "404": {
+   "verdict": "ONTARGET",
+   "conf": 70,
+   "aimed_at": "سيارة Togg الكهربائية"
+  },
+  "406": {
+   "verdict": "DISPLACED",
+   "conf": 92,
+   "aimed_at": "Erdogan"
+  },
+  "408": {
+   "verdict": "ONTARGET",
+   "conf": 80,
+   "aimed_at": "electric toy car prices"
+  },
+  "415": {
+   "verdict": "ONTARGET",
+   "conf": 72,
+   "aimed_at": "electric cars"
+  },
+  "418": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "the car design"
+  },
+  "442": {
+   "verdict": "DISPLACED",
+   "conf": 78,
+   "aimed_at": "Germany's economic strategy"
+  },
+  "445": {
+   "verdict": "ONTARGET",
+   "conf": 82,
+   "aimed_at": "EV sector companies"
+  },
+  "452": {
+   "verdict": "ONTARGET",
+   "conf": 75,
+   "aimed_at": "the car"
+  },
+  "472": {
+   "verdict": "ONTARGET",
+   "conf": 70,
+   "aimed_at": "electric cars"
+  },
+  "477": {
+   "verdict": "ONTARGET",
+   "conf": 76,
+   "aimed_at": "Sony's EV shift"
+  },
+  "482": {
+   "verdict": "ONTARGET",
+   "conf": 84,
+   "aimed_at": "electric cars"
+  },
+  "485": {
+   "verdict": "ONTARGET",
+   "conf": 72,
+   "aimed_at": "electric cars' impact"
+  },
+  "490": {
+   "verdict": "ONTARGET",
+   "conf": 65,
+   "aimed_at": "Apple valuation"
+  },
+  "493": {
+   "verdict": "ONTARGET",
+   "conf": 80,
+   "aimed_at": "EV industry development"
+  },
+  "496": {
+   "verdict": "ONTARGET",
+   "conf": 70,
+   "aimed_at": "EV charger"
+  },
+  "498": {
+   "verdict": "DISPLACED",
+   "conf": 93,
+   "aimed_at": "Elon Musk"
+  },
+  "500": {
+   "verdict": "ONTARGET",
+   "conf": 74,
+   "aimed_at": "electric cars licensing"
+  },
+  "501": {
+   "verdict": "ONTARGET",
+   "conf": 78,
+   "aimed_at": "EV vs petrol production"
+  },
+  "503": {
+   "verdict": "DISPLACED",
+   "conf": 70,
+   "aimed_at": "the coin/token"
+  },
+  "504": {
+   "verdict": "ONTARGET",
+   "conf": 68,
+   "aimed_at": "copper demand for EVs"
+  },
+  "506": {
+   "verdict": "ONTARGET",
+   "conf": 76,
+   "aimed_at": "EV production vs oil"
+  },
+  "507": {
+   "verdict": "ONTARGET",
+   "conf": 70,
+   "aimed_at": "electric cars"
+  },
+  "509": {
+   "verdict": "ONTARGET",
+   "conf": 72,
+   "aimed_at": "Chinese electric cars"
+  },
+  "510": {
+   "verdict": "ONTARGET",
+   "conf": 65,
+   "aimed_at": "electric cars/bikes"
+  },
+  "517": {
+   "verdict": "DISPLACED",
+   "conf": 85,
+   "aimed_at": "Egypt's army/industry"
+  },
+  "521": {
+   "verdict": "ONTARGET",
+   "conf": 70,
+   "aimed_at": "EV business venture"
+  },
+  "523": {
+   "verdict": "ONTARGET",
+   "conf": 75,
+   "aimed_at": "Chinese vs US EVs"
+  },
+  "539": {
+   "verdict": "ONTARGET",
+   "conf": 68,
+   "aimed_at": "EV batteries"
+  },
+  "541": {
+   "verdict": "ONTARGET",
+   "conf": 72,
+   "aimed_at": "EV battery factory"
+  },
+  "546": {
+   "verdict": "ONTARGET",
+   "conf": 60,
+   "aimed_at": "electric cars"
+  },
+  "555": {
+   "verdict": "ONTARGET",
+   "conf": 80,
+   "aimed_at": "EV sector"
+  },
+  "575": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "imported electric cars"
+  }
+ }
+}

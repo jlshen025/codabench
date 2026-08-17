@@ -1,0 +1,11 @@
+{
+  "302": {"label": "Favor", "conf": 68, "why": "opens with sincere 'ممتاز' plus an 'اقسم بالله تمنيت' wish to add vocational training — endorsement with a constructive add-on"},
+  "304": {"label": "Favor", "conf": 92, "why": "explicit benefits: breaks monotony, motivates students, relieves teacher boredom"},
+  "305": {"label": "Against", "conf": 58, "why": "token 'فكرة ممتازة' then undercut as easy change for change's sake — 'أين النقلة النوعية؟' is the real point"},
+  "306": {"label": "Favor", "conf": 90, "why": "detailed sincere thanks to the ministry with concrete mechanism (recover weakness in later terms) and 👌"},
+  "307": {"label": "Favor", "conf": 85, "why": "'كنت وما أزال أرى' — long-held conviction that three terms beat two, with a list of real benefits"},
+  "308": {"label": "Against", "conf": 55, "why": "terse doubled 'رائع رائع' with no substance reads as sarcastic fake praise"},
+  "309": {"label": "Favor", "conf": 82, "why": "'مستانسه' — plainly glad the per-term course load drops"},
+  "310": {"label": "Against", "conf": 78, "why": "'يمكن فائدة الثلاثة اترام' + 🤭 — a lone trivial benefit offered mockingly"},
+  "311": {"label": "Favor", "conf": 80, "why": "promotional listing of system advantages: fewer courses, more focus"}
+}

@@ -1,0 +1,25 @@
+[card] 'Women empowerment': def='تمكين المرأة هو تعزيز قدرة النساء على المشاركة الكاملة في ال'
+[card] 'Digital Transformation': def='التحول الرقمي هو عملية دمج التقنيات الرقمية في مختلف مجالات '
+[card] 'Covid Vaccine': def='لقاح كوفيد-19 هو مستحضر طبي يُعطى للوقاية من الإصابة بفيروس '
+  batch 1/6 done
+  batch 2/6 done
+  batch 3/6 done
+  batch 4/6 done
+  batch 5/6 done
+  batch 6/6 done
+[done] 'Women empowerment': 210 tweets
+  batch 1/6 done
+  batch 2/6 done
+  batch 3/6 done
+  batch 4/6 done
+  batch 5/6 done
+  batch 6/6 done
+[done] 'Digital Transformation': 203 tweets
+  batch 1/6 done
+  batch 2/6 done
+  batch 3/6 done
+  batch 4/6 done
+  batch 5/6 done
+  batch 6/6 done
+[done] 'Covid Vaccine': 206 tweets
+[RESULT] {"model": "claude-opus-4-8", "grounded": true, "n": 619, "limit": 0, "runtime_sec": 113.1, "pooled_Favg2": 87.05, "per_target": {"Women empowerment": 88.57, "Digital Transformation": 78.12, "Covid Vaccine": 88.13}}

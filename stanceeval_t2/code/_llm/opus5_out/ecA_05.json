@@ -1,0 +1,17 @@
+{
+  "629": {"label": "Against", "conf": 95, "why": "claims EV price and charging time wipe out any fuel savings"},
+  "630": {"label": "Against", "conf": 78, "why": "calls EVs a Musk 'trick/deception'; praise is for Musk, not the cars"},
+  "631": {"label": "Against", "conf": 95, "why": "mocks EVs as appliances that don't belong in car showrooms"},
+  "632": {"label": "Against", "conf": 96, "why": "sarcastic dismissal of the climate rationale and lithium-battery pollution"},
+  "633": {"label": "Against", "conf": 96, "why": "dislikes their looks and doubts they survive 50C heat and long distances"},
+  "634": {"label": "Against", "conf": 97, "why": "flatly calls electric cars the biggest lie"},
+  "635": {"label": "Against", "conf": 97, "why": "rejects 6-hour charging, constant updates and software lockouts"},
+  "636": {"label": "Against", "conf": 86, "why": "says the sound of EVs alone is a psychological problem for him"},
+  "637": {"label": "Against", "conf": 83, "why": "frames silent operation as a biggest drawback and a danger to pedestrians"},
+  "638": {"label": "Against", "conf": 89, "why": "unconvinced by any EV; available models too limited and impractical"},
+  "639": {"label": "Against", "conf": 96, "why": "calls them still weak and unreliable in 50C+ local climate"},
+  "640": {"label": "Against", "conf": 84, "why": "agrees EVs are bland and unexciting; adaptation is resignation, not endorsement"},
+  "641": {"label": "Against", "conf": 95, "why": "rhetorical jab that no sane person would buy an EV"},
+  "642": {"label": "Against", "conf": 74, "why": "reports EV problems: scarce charging points plus inexperienced charging-station operators"},
+  "643": {"label": "Against", "conf": 96, "why": "many problems, charging and high price, still not better than conventional cars"}
+}

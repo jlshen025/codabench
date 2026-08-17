@@ -1,0 +1,5 @@
+[debate] gpt-5.6-luna legs=['http://40.233.94.194:8080/v1']
+favor pass done
+against pass done
+bits: favorY=160 againstY=179 bothY=9 bothN=22
+dist(argmax, both-Y->Against): {1: 151, 2: 22, 0: 179}

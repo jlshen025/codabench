@@ -1,0 +1,6 @@
+[provider] sub2apigpt wire=gpt-5.6-sol
+[card] 'Trimester': def='الثلث هو فترة تمتد ثلاثة أشهر، ويُستخدم غالبًا لوصف مراحل ال' asp='تقسيم الحمل إلى ثلاثة أثلاث، الثلث الأول من الحمل، الثلث الث'
+[card] 'Ecars': def='السيارات الكهربائية هي مركبات تعمل بمحركات كهربائية وبطاريات' asp='دعم انتشار السيارات الكهربائية, الاعتراض على ارتفاع أسعارها,'
+[done] 'Trimester': 312 tweets
+[done] 'Ecars': 332 tweets
+[RESULT] {"model": "gpt-5.6-sol", "grounded": true, "n": 644, "runtime_sec": 326.2}

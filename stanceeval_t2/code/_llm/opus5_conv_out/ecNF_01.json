@@ -1,0 +1,22 @@
+{
+  "418": {"label": "Favor", "conf": 58, "why": "defends the EV concept car's distinct look against implied criticism"},
+  "442": {"label": "None", "conf": 74, "why": "informational relay on German minerals/economy, no stance on EVs"},
+  "445": {"label": "None", "conf": 86, "why": "pure news headline relay with URL"},
+  "452": {"label": "None", "conf": 78, "why": "bare appearance remark, no evaluation"},
+  "472": {"label": "None", "conf": 62, "why": "historical statement about an invention, no stance expressed"},
+  "477": {"label": "None", "conf": 74, "why": "news relay about Sony switching product lines"},
+  "485": {"label": "None", "conf": 55, "why": "neutral prediction of impact on gas stations and transport"},
+  "490": {"label": "None", "conf": 84, "why": "stock valuation question, EV mention incidental"},
+  "493": {"label": "Favor", "conf": 72, "why": "enthusiastic interest in EV industry growth and energy transition"},
+  "496": {"label": "None", "conf": 82, "why": "charging-equipment logistics advice"},
+  "497": {"label": "Favor", "conf": 63, "why": "admiring framing of Tesla's chips/AI capability"},
+  "500": {"label": "None", "conf": 64, "why": "speculative licensing question, no evaluative stance"},
+  "503": {"label": "None", "conf": 76, "why": "joking crypto/currency aside, off-topic"},
+  "504": {"label": "None", "conf": 66, "why": "mining/copper-demand information, no stance"},
+  "507": {"label": "None", "conf": 80, "why": "pointing to another model, purely informational"},
+  "509": {"label": "None", "conf": 58, "why": "brief winking aside naming Chinese EVs, stance unclear"},
+  "517": {"label": "None", "conf": 78, "why": "Egyptian industry/military debate, EVs mentioned in passing"},
+  "521": {"label": "None", "conf": 52, "why": "asks about a company pivot as an investment, no stance on EVs"},
+  "523": {"label": "None", "conf": 66, "why": "market speculation question about China vs US EV stocks"},
+  "539": {"label": "None", "conf": 80, "why": "bare topic fragment, no stance"}
+}

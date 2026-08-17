@@ -1,0 +1,11 @@
+pool: Trimester champion-Against -> 222 rows
+  batch 1/9: parsed 25/25
+  batch 2/9: parsed 25/25
+  batch 3/9: parsed 25/25
+  batch 4/9: parsed 25/25
+  batch 5/9: parsed 25/25
+  batch 6/9: parsed 25/25
+  batch 7/9: parsed 25/25
+  batch 8/9: parsed 25/25
+  batch 9/9: parsed 22/22
+[RESULT] parsed 222/222  DISPLACED=10  -> _llm/displace_tr_o5.json

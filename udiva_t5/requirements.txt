@@ -1,0 +1,5 @@
+# Local-inference environment for qwen_mcq_local.py (Python >= 3.10)
+torch>=2.4
+transformers>=4.51.0
+accelerate>=0.30
+jinja2

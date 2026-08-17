@@ -1,0 +1,6 @@
+[provider] sub2apigpt wire=gpt-5.5
+[card] 'Covid Vaccine': def='لقاح كوفيد هو تطعيم يهدف إلى الوقاية من فيروس كورونا أو تقلي' asp='فعالية اللقاح في منع العدوى, تقليل الوفيات والحالات الشديدة,'
+[card] 'Digital Transformation': def='التحول الرقمي هو انتقال المؤسسات والمجتمعات إلى استخدام التق' asp='رقمنة الخدمات الحكومية، أتمتة الإجراءات وتقليل البيروقراطية،'
+[done] 'Covid Vaccine': 1373 tweets
+[done] 'Digital Transformation': 1348 tweets
+[RESULT] {"model": "gpt-5.5", "grounded": true, "n": 2721, "runtime_sec": 2013.6, "pooled_Favg2": 88.38, "per_target": {"Covid Vaccine": 92.59, "Digital Transformation": 78.62}}

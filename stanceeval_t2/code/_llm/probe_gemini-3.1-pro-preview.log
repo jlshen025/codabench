@@ -1,0 +1,45 @@
+[cards] reusing ['Women empowerment', 'Covid Vaccine', 'Digital Transformation', 'Trimester', 'Ecars'] from _llm/fixed_cards.json
+[card] 'Trimester': def='نظام الفصل الدراسي الذي يقسم العام الدراسي إلى ثلاث فترات در'
+  [retry 1] NotFoundError: Error code: 404 - {'error': {'message': 'Resource not found', 'type': 'not_found_error'}}
+  [retry 2] NotFoundError: Error code: 404 - {'error': {'message': 'Resource not found', 'type': 'not_found_error'}}
+Traceback (most recent call last):
+  File "<workdir>/llm_grounded_agent.py", line 189, in <module>
+    main()
+  File "<workdir>/llm_grounded_agent.py", line 166, in main
+    pr = classify_target(texts, args.model, sysp, args.batch)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<workdir>/llm_grounded_agent.py", line 102, in classify_target
+    content = agen(model, msgs, 100 * len(chunk) + 1000)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<workdir>/llm_grounded_agent.py", line 39, in agen
+    return asyncio.run(go())
+           ^^^^^^^^^^^^^^^^^
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2023/x86-64-v4/Compiler/gcccore/python/3.11.5/lib/python3.11/asyncio/runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2023/x86-64-v4/Compiler/gcccore/python/3.11.5/lib/python3.11/asyncio/runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2023/x86-64-v4/Compiler/gcccore/python/3.11.5/lib/python3.11/asyncio/base_events.py", line 653, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "<workdir>/llm_grounded_agent.py", line 33, in go
+    r = await llm.generate(msgs, temperature=0.0, max_tokens=max_tokens)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<repo>/llm_client.py", line 1758, in generate
+    raise last_exc
+  File "<repo>/llm_client.py", line 1706, in generate
+    resp = await leg.generate(
+           ^^^^^^^^^^^^^^^^^^^
+  File "<repo>/llm_client.py", line 378, in generate
+    resp = await self.client.chat.completions.create(**kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<repo>/.venv/lib/python3.11/site-packages/openai/resources/chat/completions/completions.py", line 2714, in create
+    return await self._post(
+           ^^^^^^^^^^^^^^^^^
+  File "<repo>/.venv/lib/python3.11/site-packages/openai/_base_client.py", line 1913, in post
+    return await self.request(cast_to, opts, stream=stream, stream_cls=stream_cls)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<repo>/.venv/lib/python3.11/site-packages/openai/_base_client.py", line 1698, in request
+    raise self._make_status_error_from_response(err.response) from None
+openai.NotFoundError: Error code: 404 - {'error': {'message': 'Resource not found', 'type': 'not_found_error'}}

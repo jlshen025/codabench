@@ -1,0 +1,42 @@
+# Environment for the COMPARATIVE development experiments only (code/experiments/*).
+# None of this is needed to build, validate or pack the submitted predictor -- see
+# requirements-core.txt for that.
+#
+#   python -m venv venv-exp && . venv-exp/bin/activate && pip install -r requirements-experiments.txt
+#
+# Versions are the ones used in the reported runs (Python 3.11.5), with the
+# distribution-specific local tags removed; the pinned set installs from PyPI on Linux
+# with CUDA 12.x. Transitive dependencies are left to the resolver.
+#
+# System requirements:
+#   * an NVIDIA GPU for feature extraction (CPU works but is ~20x slower)
+#   * an `ffmpeg` binary on PATH -- experiments/audio_scout.py pipes ego audio through it
+#
+# Model weights are downloaded from the HuggingFace hub on first use:
+#   * DINOv2 ViT-B/14  timm  `vit_base_patch14_dinov2.lvd142m`  (facebook/dinov2-base weights)
+#   * bge-m3           HF    `BAAI/bge-m3`
+
+numpy==2.4.2
+scipy==1.17.0
+scikit-learn==1.8.0
+
+# visual features (experiments/extract_features.py, diag_features.py, motion_scout.py,
+# crossview_scout.py, run_knn_cv.py)
+torch==2.5.1
+torchvision==0.20.1
+timm==1.0.24
+decord==0.6.0
+
+# transcript embeddings (experiments/embed_transcripts.py, transcript_diag.py,
+# run_cond.py, run_dialogue.py)
+transformers==4.49.0
+tokenizers==0.21.1
+sentencepiece==0.2.0
+safetensors==0.8.0
+huggingface_hub==0.36.2
+
+# handcrafted audio features (experiments/audio_scout.py)
+librosa==0.11.0
+soundfile==0.13.1
+soxr==0.5.0.post1
+numba==0.65.0

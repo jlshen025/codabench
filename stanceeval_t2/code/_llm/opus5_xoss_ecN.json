@@ -1,0 +1,26 @@
+{
+"506": {
+"label": "Favor",
+"conf": 70
+},
+"501": {
+"label": "Against",
+"conf": 65
+},
+"343": {
+"label": "None",
+"conf": 90
+},
+"374": {
+"label": "Against",
+"conf": 60
+},
+"418": {
+"label": "None",
+"conf": 80
+},
+"342": {
+"label": "None",
+"conf": 70
+}
+}

@@ -1,0 +1,4 @@
+[provider] agnes-2.0-flash -> 1 chat leg(s): ['https://apihub.agnes-ai.com/v1']
+[cfg] model=agnes-2.0-flash n=352 order=file batch=44 reasoning=none samples=1 temp=0.7
+  sample 1/1 done
+[RESULT] {"model": "agnes-2.0-flash", "n": 352, "reasoning": "none", "runtime_sec": 56.3}

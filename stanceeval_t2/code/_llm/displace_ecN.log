@@ -1,0 +1,5 @@
+pool: Ecars champion-None -> 51 rows
+  batch 1/3: parsed 20/20
+  batch 2/3: parsed 20/20
+  batch 3/3: parsed 11/11
+[RESULT] parsed 51/51  DISPLACED=12  -> _llm/displace_ecN_o5.json

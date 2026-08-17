@@ -1,0 +1,14 @@
+{
+  "model": "gpt-5.6-terra",
+  "variant": "r",
+  "fewshot": 0,
+  "n": 619,
+  "n_unparsed": 0,
+  "runtime_sec": 285.7,
+  "gold_none": 59,
+  "base_rate": 0.0953,
+  "prec_at_gold_n": 0.4915,
+  "prec_Women empowerment": 0.6364,
+  "prec_Digital Transformation": 0.5,
+  "prec_Covid Vaccine": 0.5385
+}

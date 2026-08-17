@@ -1,0 +1,22 @@
+{
+  "518": {"label": "Against", "conf": 78, "why": "grudging 'we swallowed it' plus mockery of the EV's ugly look and lost prestige"},
+  "520": {"label": "Against", "conf": 72, "why": "downplays EVs as not the real urban solution, prefers bikes/parks/walkways"},
+  "522": {"label": "Against", "conf": 88, "why": "sarcastic; prays to keep Toyota/Nissan gas cars instead"},
+  "524": {"label": "Against", "conf": 88, "why": "facepalm mockery of driving an EV in Muscat weather"},
+  "526": {"label": "Favor", "conf": 58, "why": "dismisses the EV-bubble-will-burst narrative, i.e. defends EVs against critics"},
+  "527": {"label": "Favor", "conf": 55, "why": "engaged follower of Audi's EV Dakar bid; interest despite the battery-weight setback"},
+  "529": {"label": "Against", "conf": 82, "why": "dismissive sarcasm at people wanting to drive EVs"},
+  "530": {"label": "Against", "conf": 87, "why": "ridicules EVs as unusable on rainy Muscat streets"},
+  "537": {"label": "Favor", "conf": 68, "why": "engaged buyer in an EV thread asking advice despite price/availability complaints"},
+  "543": {"label": "Against", "conf": 85, "why": "sarcastic doubt that EVs would survive Bahrain floodwater"},
+  "545": {"label": "Favor", "conf": 55, "why": "appreciative engaged reply in the EV thread, complaint limited to price/local 4WD taste"},
+  "557": {"label": "Against", "conf": 90, "why": "calls the EV marketing stunt a failure"},
+  "558": {"label": "Against", "conf": 94, "why": "flat declaration that electric cars are a failure"},
+  "559": {"label": "Against", "conf": 85, "why": "calls EVs an overvalued bubble with overpriced cars"},
+  "560": {"label": "Against", "conf": 93, "why": "calls EVs a failed project, 'remind me in 2027'"},
+  "563": {"label": "Favor", "conf": 72, "why": "sympathetic analysis naming only two fixable barriers, hedged with 'currently'"},
+  "572": {"label": "Favor", "conf": 52, "why": "frames EVs as the one real challenger to oil, difficulties noted only in passing"},
+  "579": {"label": "Favor", "conf": 62, "why": "hopeful that the right battery would be the real breakthrough for EVs"},
+  "586": {"label": "Against", "conf": 88, "why": "mocks EV styling as alien and ugly on top of people already being unconvinced"},
+  "587": {"label": "Against", "conf": 90, "why": "attacks EV batteries' rare-mineral mining as polluting and renewables as costly"}
+}

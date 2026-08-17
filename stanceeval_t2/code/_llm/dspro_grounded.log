@@ -1,0 +1,13 @@
+=== [04:35:45] deepseek-v4-pro grounded on DEV (WomenEmp, 1400) ===
+[provider] deepseek wire=deepseek-v4-pro
+[card] 'Women empowerment': def='تمكين المرأة هو عملية تعزيز قدراتها وفرصها في المجالات الاجت' asp='المساواة في الأجور بين الجنسين, تولي المرأة المناصب القيادية'
+[done] 'Women empowerment': 1400 tweets
+[RESULT] {"model": "deepseek-v4-pro", "grounded": true, "n": 1400, "runtime_sec": 997.6, "pooled_Favg2": 86.5, "per_target": {"Women empowerment": 86.5}}
+=== [04:52:25] deepseek-v4-pro grounded on TRAIN LOTO (Covid+Digital, 2721) ===
+[provider] deepseek wire=deepseek-v4-pro
+[card] 'Covid Vaccine': def='لقاح كوفيد-19 هو مستحضر بيولوجي يُعطى لتوفير مناعة مكتسبة ضد' asp='فعالية اللقاح في الوقاية من العدوى, مأمونية اللقاح والآثار ا'
+[card] 'Digital Transformation': def='التحول الرقمي هو عملية دمج التقنيات الرقمية في جميع جوانب ال' asp='تحسين كفاءة الخدمات الحكومية, تعزيز الشفافية ومكافحة الفساد,'
+[done] 'Covid Vaccine': 1373 tweets
+[done] 'Digital Transformation': 1348 tweets
+[RESULT] {"model": "deepseek-v4-pro", "grounded": true, "n": 2721, "runtime_sec": 1948.8, "pooled_Favg2": 83.91, "per_target": {"Covid Vaccine": 90.24, "Digital Transformation": 71.81}}
+=== [05:24:58] DONE ===

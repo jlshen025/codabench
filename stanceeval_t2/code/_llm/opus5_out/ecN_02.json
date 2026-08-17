@@ -1,0 +1,10 @@
+{
+  "521": {"label": "None", "conf": 88, "why": "asks whether a clothing firm's EV pivot is worth watching; no evaluation of EVs"},
+  "523": {"label": "None", "conf": 85, "why": "market question about Chinese competition to US EV stocks, no stance on EVs"},
+  "539": {"label": "None", "conf": 97, "why": "bare topic fragment, no evaluative content"},
+  "541": {"label": "None", "conf": 88, "why": "purely descriptive statement about a lithium battery plant"},
+  "546": {"label": "None", "conf": 95, "why": "generic clarifying question, no stance"},
+  "555": {"label": "None", "conf": 80, "why": "neutral market prediction; negativity targets Evergrande, not EVs"},
+  "575": {"label": "Against", "conf": 62, "why": "demands imported EVs be rain/flood-proofed, voicing fear of EV water vulnerability"},
+  "585": {"label": "None", "conf": 78, "why": "ticker-tagging a stock with EV names, no evaluation of EVs"}
+}

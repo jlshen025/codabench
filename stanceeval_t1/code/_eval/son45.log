@@ -1,0 +1,12 @@
+[card] 'Women Driving': def='قيادة المرأة للسيارة في المجتمعات العربية وما يرتبط بها من ح'
+  batch 1/9 done
+  batch 2/9 done
+  batch 3/9 done
+  batch 4/9 done
+  batch 5/9 done
+  batch 6/9 done
+  batch 7/9 done
+  batch 8/9 done
+  batch 9/9 done
+[done] 'Women Driving': 352 tweets
+[RESULT] {"model": "claude-sonnet-4.5", "grounded": true, "n": 352, "limit": 0, "runtime_sec": 70.3}

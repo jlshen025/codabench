@@ -1,0 +1,2 @@
+[provider] gpt-5.6-luna -> 1 chat leg(s): ['http://40.233.94.194:8080/v1']
+[cfg] model=gpt-5.6-luna n=352 order=file batch=44 reasoning=none samples=3 temp=0.6

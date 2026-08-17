@@ -1,0 +1,17 @@
+[provider] google wire=gemini-3.5-flash
+[card] 'Trimester': def='نظام الفصل الدراسي الذي يقسم العام الدراسي إلى ثلاث فترات در' asp='تقسيم العام الدراسي إلى ثلاثة فصول, تقليل مدة كل فصل دراسي, '
+[card] 'Ecars': def='السيارات الكهربائية هي مركبات تعمل بالطاقة الكهربائية بدلاً ' asp='تقليل الانبعاثات الكربونية، تكلفة التشغيل المنخفضة، البنية ا'
+Traceback (most recent call last):
+  File "<workdir>/llm_grounded.py", line 163, in <module>
+    main()
+  File "<workdir>/llm_grounded.py", line 142, in main
+    pr = classify_target(idxs, texts, cfg, wire, sys_prompt(tg, cards[tg], args.strict_none), args.batch, args.reasoning, args.temperature, args.throttle)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<workdir>/llm_grounded.py", line 80, in classify_target
+    content = call_api(cfg, model, [{"role": "system", "content": sysp},
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<workdir>/llm_predict.py", line 68, in call_api
+    r.raise_for_status()
+  File "<scratch>/.venv/lib/python3.11/site-packages/requests/models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/openai/chat/completions

@@ -1,0 +1,14 @@
+{
+  "model": "claude-sonnet-4.5",
+  "variant": "r",
+  "fewshot": 16,
+  "n": 619,
+  "n_unparsed": 0,
+  "runtime_sec": 83.7,
+  "gold_none": 59,
+  "base_rate": 0.0953,
+  "prec_at_gold_n": 0.1186,
+  "prec_Women empowerment": 0.3636,
+  "prec_Digital Transformation": 0.2273,
+  "prec_Covid Vaccine": 0.3462
+}

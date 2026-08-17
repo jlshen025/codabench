@@ -1,0 +1,8 @@
+{
+  "model": "gemini-2.5-pro",
+  "variant": "r",
+  "fewshot": 0,
+  "n": 352,
+  "n_unparsed": 352,
+  "runtime_sec": 706.6
+}

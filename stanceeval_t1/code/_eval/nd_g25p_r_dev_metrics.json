@@ -1,0 +1,14 @@
+{
+  "model": "gemini-2.5-pro",
+  "variant": "r",
+  "fewshot": 0,
+  "n": 619,
+  "n_unparsed": 619,
+  "runtime_sec": 1329.1,
+  "gold_none": 59,
+  "base_rate": 0.0953,
+  "prec_at_gold_n": 0.1356,
+  "prec_Women empowerment": 0.0909,
+  "prec_Digital Transformation": 0.1818,
+  "prec_Covid Vaccine": 0.1538
+}

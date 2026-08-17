@@ -1,0 +1,66 @@
+{
+"331": {
+"label": "Against",
+"conf": 96
+},
+"340": {
+"label": "Favor",
+"conf": 78
+},
+"343": {
+"label": "None",
+"conf": 97
+},
+"374": {
+"label": "None",
+"conf": 82
+},
+"418": {
+"label": "None",
+"conf": 76
+},
+"501": {
+"label": "None",
+"conf": 96
+},
+"506": {
+"label": "None",
+"conf": 94
+},
+"575": {
+"label": "None",
+"conf": 72
+},
+"321": {
+"label": "None",
+"conf": 96
+},
+"341": {
+"label": "None",
+"conf": 95
+},
+"342": {
+"label": "Favor",
+"conf": 88
+},
+"349": {
+"label": "None",
+"conf": 98
+},
+"355": {
+"label": "None",
+"conf": 99
+},
+"376": {
+"label": "None",
+"conf": 95
+},
+"379": {
+"label": "None",
+"conf": 98
+},
+"523": {
+"label": "None",
+"conf": 94
+}
+}

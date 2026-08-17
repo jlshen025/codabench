@@ -1,0 +1,378 @@
+{
+ "model": "claude-opus-5",
+ "target": "Trimester",
+ "pool": "favor",
+ "n": 74,
+ "res": {
+  "11": {
+   "verdict": "FAVOR",
+   "conf": 75,
+   "aimed_at": "Calls third term best"
+  },
+  "40": {
+   "verdict": "FAVOR",
+   "conf": 80,
+   "aimed_at": "Praises three-term system gratefully"
+  },
+  "42": {
+   "verdict": "FAVOR",
+   "conf": 70,
+   "aimed_at": "Accepts three terms, suggests tweak"
+  },
+  "45": {
+   "verdict": "FAVOR",
+   "conf": 95,
+   "aimed_at": "Explicit \"three terms better\""
+  },
+  "46": {
+   "verdict": "NOT-FAVOR",
+   "conf": 70,
+   "aimed_at": "Mockery, no genuine stance"
+  },
+  "72": {
+   "verdict": "FAVOR",
+   "conf": 85,
+   "aimed_at": "Urges keeping third term"
+  },
+  "97": {
+   "verdict": "FAVOR",
+   "conf": 55,
+   "aimed_at": "Conditional agreement, ambiguous"
+  },
+  "124": {
+   "verdict": "FAVOR",
+   "conf": 85,
+   "aimed_at": "Praises three-semester system benefits"
+  },
+  "130": {
+   "verdict": "FAVOR",
+   "conf": 90,
+   "aimed_at": "Explicit support"
+  },
+  "137": {
+   "verdict": "FAVOR",
+   "conf": 85,
+   "aimed_at": "Defends new system's achievements"
+  },
+  "176": {
+   "verdict": "NOT-FAVOR",
+   "conf": 60,
+   "aimed_at": "Bare remote suggestion, no stance"
+  },
+  "194": {
+   "verdict": "FAVOR",
+   "conf": 75,
+   "aimed_at": "Welcoming three semesters"
+  },
+  "206": {
+   "verdict": "FAVOR",
+   "conf": 70,
+   "aimed_at": "Mocks cancellation demands"
+  },
+  "227": {
+   "verdict": "FAVOR",
+   "conf": 65,
+   "aimed_at": "Constructive proposal, accepts term"
+  },
+  "231": {
+   "verdict": "NOT-FAVOR",
+   "conf": 55,
+   "aimed_at": "Proposes remote, neutral procedural"
+  },
+  "239": {
+   "verdict": "FAVOR",
+   "conf": 95,
+   "aimed_at": "Explicitly supports new system"
+  },
+  "254": {
+   "verdict": "FAVOR",
+   "conf": 90,
+   "aimed_at": "Three terms lighter curriculum"
+  },
+  "255": {
+   "verdict": "FAVOR",
+   "conf": 85,
+   "aimed_at": "Three terms better, light curriculum"
+  },
+  "256": {
+   "verdict": "FAVOR",
+   "conf": 95,
+   "aimed_at": "Explicit comparative preference"
+  },
+  "257": {
+   "verdict": "FAVOR",
+   "conf": 80,
+   "aimed_at": "Agrees with three terms"
+  },
+  "258": {
+   "verdict": "FAVOR",
+   "conf": 92,
+   "aimed_at": "explicit hope system continues"
+  },
+  "259": {
+   "verdict": "FAVOR",
+   "conf": 70,
+   "aimed_at": "proposes three-term structure positively"
+  },
+  "260": {
+   "verdict": "FAVOR",
+   "conf": 90,
+   "aimed_at": "three terms best way"
+  },
+  "261": {
+   "verdict": "FAVOR",
+   "conf": 95,
+   "aimed_at": "explicit liking"
+  },
+  "262": {
+   "verdict": "FAVOR",
+   "conf": 93,
+   "aimed_at": "denies tiring, learn more"
+  },
+  "263": {
+   "verdict": "FAVOR",
+   "conf": 85,
+   "aimed_at": "calls third term best"
+  },
+  "264": {
+   "verdict": "FAVOR",
+   "conf": 88,
+   "aimed_at": "benefit: eases pressure"
+  },
+  "265": {
+   "verdict": "FAVOR",
+   "conf": 70,
+   "aimed_at": "benefit framing, mild"
+  },
+  "266": {
+   "verdict": "FAVOR",
+   "conf": 82,
+   "aimed_at": "benefit: kills boredom"
+  },
+  "267": {
+   "verdict": "NOT-FAVOR",
+   "conf": 55,
+   "aimed_at": "bare neutral fact, unevaluative"
+  },
+  "268": {
+   "verdict": "FAVOR",
+   "conf": 85,
+   "aimed_at": "benefit: more discipline"
+  },
+  "269": {
+   "verdict": "FAVOR",
+   "conf": 88,
+   "aimed_at": "explicit point in favor"
+  },
+  "270": {
+   "verdict": "FAVOR",
+   "conf": 85,
+   "aimed_at": "benefit: breather from pressure"
+  },
+  "271": {
+   "verdict": "FAVOR",
+   "conf": 85,
+   "aimed_at": "benefit: less pressure"
+  },
+  "272": {
+   "verdict": "FAVOR",
+   "conf": 85,
+   "aimed_at": "benefit: keeps students learning"
+  },
+  "273": {
+   "verdict": "FAVOR",
+   "conf": 82,
+   "aimed_at": "benefit: graduate quickly"
+  },
+  "274": {
+   "verdict": "FAVOR",
+   "conf": 90,
+   "aimed_at": "ended nightmare of loads"
+  },
+  "275": {
+   "verdict": "FAVOR",
+   "conf": 93,
+   "aimed_at": "explicitly likes idea"
+  },
+  "276": {
+   "verdict": "FAVOR",
+   "conf": 88,
+   "aimed_at": "liked long weekends, relief"
+  },
+  "277": {
+   "verdict": "FAVOR",
+   "conf": 70,
+   "aimed_at": "humorous positive vacation framing"
+  },
+  "278": {
+   "verdict": "FAVOR",
+   "conf": 92,
+   "aimed_at": "Praises lighter term load"
+  },
+  "279": {
+   "verdict": "FAVOR",
+   "conf": 90,
+   "aimed_at": "Cites benefit of system"
+  },
+  "280": {
+   "verdict": "FAVOR",
+   "conf": 95,
+   "aimed_at": "Explicit advantage listed"
+  },
+  "281": {
+   "verdict": "FAVOR",
+   "conf": 95,
+   "aimed_at": "Explicit advantage listed"
+  },
+  "282": {
+   "verdict": "FAVOR",
+   "conf": 96,
+   "aimed_at": "List of advantages"
+  },
+  "283": {
+   "verdict": "FAVOR",
+   "conf": 95,
+   "aimed_at": "Prefers shorter terms"
+  },
+  "284": {
+   "verdict": "FAVOR",
+   "conf": 94,
+   "aimed_at": "Describes flexibility benefit"
+  },
+  "285": {
+   "verdict": "FAVOR",
+   "conf": 93,
+   "aimed_at": "States advantage"
+  },
+  "286": {
+   "verdict": "FAVOR",
+   "conf": 93,
+   "aimed_at": "States advantage"
+  },
+  "287": {
+   "verdict": "FAVOR",
+   "conf": 93,
+   "aimed_at": "States advantage"
+  },
+  "288": {
+   "verdict": "FAVOR",
+   "conf": 90,
+   "aimed_at": "States advantage"
+  },
+  "289": {
+   "verdict": "FAVOR",
+   "conf": 96,
+   "aimed_at": "Explicit praise"
+  },
+  "290": {
+   "verdict": "FAVOR",
+   "conf": 93,
+   "aimed_at": "Daughter hopes it continues"
+  },
+  "291": {
+   "verdict": "FAVOR",
+   "conf": 95,
+   "aimed_at": "Argues three terms better"
+  },
+  "292": {
+   "verdict": "FAVOR",
+   "conf": 90,
+   "aimed_at": "Calls three terms excellent"
+  },
+  "293": {
+   "verdict": "FAVOR",
+   "conf": 70,
+   "aimed_at": "Good, criticizes breaks only"
+  },
+  "294": {
+   "verdict": "FAVOR",
+   "conf": 60,
+   "aimed_at": "Thanks system, mocks kids"
+  },
+  "295": {
+   "verdict": "FAVOR",
+   "conf": 94,
+   "aimed_at": "Commends benefit to learner"
+  },
+  "296": {
+   "verdict": "FAVOR",
+   "conf": 92,
+   "aimed_at": "Excellent approach, wants adoption"
+  },
+  "297": {
+   "verdict": "FAVOR",
+   "conf": 88,
+   "aimed_at": "Very good with suggestion"
+  },
+  "298": {
+   "verdict": "FAVOR",
+   "conf": 92,
+   "aimed_at": "Praises system as leap"
+  },
+  "299": {
+   "verdict": "FAVOR",
+   "conf": 80,
+   "aimed_at": "Hopes for success, positive"
+  },
+  "300": {
+   "verdict": "FAVOR",
+   "conf": 95,
+   "aimed_at": "Explicit strong praise"
+  },
+  "301": {
+   "verdict": "FAVOR",
+   "conf": 88,
+   "aimed_at": "Trusts benefit for children"
+  },
+  "302": {
+   "verdict": "FAVOR",
+   "conf": 85,
+   "aimed_at": "Calls it excellent"
+  },
+  "303": {
+   "verdict": "FAVOR",
+   "conf": 70,
+   "aimed_at": "Positive with mild query"
+  },
+  "304": {
+   "verdict": "FAVOR",
+   "conf": 93,
+   "aimed_at": "Lists motivating benefits"
+  },
+  "305": {
+   "verdict": "NOT-FAVOR",
+   "conf": 65,
+   "aimed_at": "Criticizes change for change's sake"
+  },
+  "306": {
+   "verdict": "FAVOR",
+   "conf": 94,
+   "aimed_at": "Thanks ministry, cites benefits"
+  },
+  "307": {
+   "verdict": "FAVOR",
+   "conf": 95,
+   "aimed_at": "Believes three better than two"
+  },
+  "308": {
+   "verdict": "FAVOR",
+   "conf": 93,
+   "aimed_at": "Calls it wonderful"
+  },
+  "309": {
+   "verdict": "FAVOR",
+   "conf": 90,
+   "aimed_at": "Happy, reduced workload"
+  },
+  "310": {
+   "verdict": "FAVOR",
+   "conf": 60,
+   "aimed_at": "Vague joking benefit"
+  },
+  "311": {
+   "verdict": "FAVOR",
+   "conf": 88,
+   "aimed_at": "Lists advantages, greater focus"
+  }
+ }
+}

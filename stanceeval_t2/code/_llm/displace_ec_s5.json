@@ -1,0 +1,808 @@
+{
+ "model": "claude-sonnet-5",
+ "target": "Ecars",
+ "pool": "favor",
+ "n": 160,
+ "res": {
+  "312": {
+   "verdict": "DISPLACED",
+   "conf": 75,
+   "aimed_at": "oil market collapse"
+  },
+  "314": {
+   "verdict": "ONTARGET",
+   "conf": 75,
+   "aimed_at": "electric cars"
+  },
+  "316": {
+   "verdict": "DISPLACED",
+   "conf": 80,
+   "aimed_at": "oil market collapse"
+  },
+  "317": {
+   "verdict": "DISPLACED",
+   "conf": 85,
+   "aimed_at": "Egypt government claims"
+  },
+  "318": {
+   "verdict": "DISPLACED",
+   "conf": 70,
+   "aimed_at": "conspiracy theories discourse"
+  },
+  "319": {
+   "verdict": "DISPLACED",
+   "conf": 90,
+   "aimed_at": "Sisi government"
+  },
+  "320": {
+   "verdict": "DISPLACED",
+   "conf": 75,
+   "aimed_at": "Egypt-Morocco industrial project"
+  },
+  "322": {
+   "verdict": "DISPLACED",
+   "conf": 60,
+   "aimed_at": "Egypt achievement"
+  },
+  "323": {
+   "verdict": "DISPLACED",
+   "conf": 92,
+   "aimed_at": "Sisi"
+  },
+  "325": {
+   "verdict": "DISPLACED",
+   "conf": 70,
+   "aimed_at": "Egypt's industrial project"
+  },
+  "326": {
+   "verdict": "DISPLACED",
+   "conf": 88,
+   "aimed_at": "Sisi"
+  },
+  "328": {
+   "verdict": "DISPLACED",
+   "conf": 90,
+   "aimed_at": "Sisi/Egypt"
+  },
+  "329": {
+   "verdict": "DISPLACED",
+   "conf": 88,
+   "aimed_at": "Sisi government"
+  },
+  "330": {
+   "verdict": "DISPLACED",
+   "conf": 85,
+   "aimed_at": "Egypt entrepreneurship"
+  },
+  "333": {
+   "verdict": "DISPLACED",
+   "conf": 75,
+   "aimed_at": "Vietnam achievement"
+  },
+  "334": {
+   "verdict": "ONTARGET",
+   "conf": 65,
+   "aimed_at": "electric cars"
+  },
+  "335": {
+   "verdict": "DISPLACED",
+   "conf": 65,
+   "aimed_at": "tech/investment strategy"
+  },
+  "337": {
+   "verdict": "DISPLACED",
+   "conf": 85,
+   "aimed_at": "Saudi PIF achievements"
+  },
+  "338": {
+   "verdict": "DISPLACED",
+   "conf": 80,
+   "aimed_at": "Jordan patriotism"
+  },
+  "339": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "electric car prices"
+  },
+  "344": {
+   "verdict": "DISPLACED",
+   "conf": 72,
+   "aimed_at": "old ideas reapplied"
+  },
+  "345": {
+   "verdict": "DISPLACED",
+   "conf": 85,
+   "aimed_at": "US-China rivalry"
+  },
+  "351": {
+   "verdict": "ONTARGET",
+   "conf": 92,
+   "aimed_at": "electric cars"
+  },
+  "353": {
+   "verdict": "ONTARGET",
+   "conf": 75,
+   "aimed_at": "electric car price"
+  },
+  "354": {
+   "verdict": "ONTARGET",
+   "conf": 78,
+   "aimed_at": "electric cars"
+  },
+  "357": {
+   "verdict": "DISPLACED",
+   "conf": 80,
+   "aimed_at": "national industrial strategy"
+  },
+  "358": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "Lucid EV"
+  },
+  "360": {
+   "verdict": "ONTARGET",
+   "conf": 65,
+   "aimed_at": "electric cars"
+  },
+  "363": {
+   "verdict": "DISPLACED",
+   "conf": 82,
+   "aimed_at": "word etymology"
+  },
+  "364": {
+   "verdict": "ONTARGET",
+   "conf": 78,
+   "aimed_at": "electric car"
+  },
+  "366": {
+   "verdict": "DISPLACED",
+   "conf": 83,
+   "aimed_at": "government policy hypocrisy"
+  },
+  "367": {
+   "verdict": "DISPLACED",
+   "conf": 80,
+   "aimed_at": "crypto token project"
+  },
+  "368": {
+   "verdict": "ONTARGET",
+   "conf": 70,
+   "aimed_at": "EV environmental impact"
+  },
+  "375": {
+   "verdict": "ONTARGET",
+   "conf": 68,
+   "aimed_at": "Hongqi cars"
+  },
+  "377": {
+   "verdict": "ONTARGET",
+   "conf": 80,
+   "aimed_at": "electric cars"
+  },
+  "380": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "electric car purchase"
+  },
+  "381": {
+   "verdict": "ONTARGET",
+   "conf": 60,
+   "aimed_at": "electric cars"
+  },
+  "382": {
+   "verdict": "DISPLACED",
+   "conf": 65,
+   "aimed_at": "old space-research idea"
+  },
+  "383": {
+   "verdict": "ONTARGET",
+   "conf": 75,
+   "aimed_at": "electric car charging"
+  },
+  "386": {
+   "verdict": "DISPLACED",
+   "conf": 85,
+   "aimed_at": "Elon Musk perseverance"
+  },
+  "388": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "none"
+  },
+  "389": {
+   "verdict": "DISPLACED",
+   "conf": 80,
+   "aimed_at": "future flying cars"
+  },
+  "390": {
+   "verdict": "DISPLACED",
+   "conf": 75,
+   "aimed_at": "German engineering"
+  },
+  "391": {
+   "verdict": "DISPLACED",
+   "conf": 85,
+   "aimed_at": "Kodak/tech disruption"
+  },
+  "393": {
+   "verdict": "ONTARGET",
+   "conf": 60,
+   "aimed_at": "Tesla/Musk environment"
+  },
+  "394": {
+   "verdict": "ONTARGET",
+   "conf": 75,
+   "aimed_at": "global EV race"
+  },
+  "397": {
+   "verdict": "ONTARGET",
+   "conf": 80,
+   "aimed_at": "Saudi EV culture"
+  },
+  "398": {
+   "verdict": "ONTARGET",
+   "conf": 70,
+   "aimed_at": "EV future discussion"
+  },
+  "399": {
+   "verdict": "ONTARGET",
+   "conf": 75,
+   "aimed_at": "none"
+  },
+  "401": {
+   "verdict": "DISPLACED",
+   "conf": 85,
+   "aimed_at": "countries' achievements"
+  },
+  "405": {
+   "verdict": "DISPLACED",
+   "conf": 85,
+   "aimed_at": "national backwardness"
+  },
+  "407": {
+   "verdict": "ONTARGET",
+   "conf": 70,
+   "aimed_at": "emissions reduction policy"
+  },
+  "409": {
+   "verdict": "ONTARGET",
+   "conf": 65,
+   "aimed_at": "price/cost"
+  },
+  "410": {
+   "verdict": "DISPLACED",
+   "conf": 90,
+   "aimed_at": "German genius"
+  },
+  "411": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "EV design"
+  },
+  "412": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "EV vs traditional price"
+  },
+  "413": {
+   "verdict": "ONTARGET",
+   "conf": 80,
+   "aimed_at": "EV battery tech"
+  },
+  "414": {
+   "verdict": "ONTARGET",
+   "conf": 65,
+   "aimed_at": "Tesla stock investment"
+  },
+  "417": {
+   "verdict": "DISPLACED",
+   "conf": 80,
+   "aimed_at": "country's productivity"
+  },
+  "419": {
+   "verdict": "ONTARGET",
+   "conf": 70,
+   "aimed_at": "EV company investment"
+  },
+  "421": {
+   "verdict": "DISPLACED",
+   "conf": 85,
+   "aimed_at": "التطور"
+  },
+  "424": {
+   "verdict": "ONTARGET",
+   "conf": 75,
+   "aimed_at": "تسلا/سوق السيارات"
+  },
+  "425": {
+   "verdict": "DISPLACED",
+   "conf": 80,
+   "aimed_at": "جشع التجار"
+  },
+  "427": {
+   "verdict": "DISPLACED",
+   "conf": 85,
+   "aimed_at": "السعودية/العرب"
+  },
+  "428": {
+   "verdict": "DISPLACED",
+   "conf": 92,
+   "aimed_at": "تركيا"
+  },
+  "430": {
+   "verdict": "DISPLACED",
+   "conf": 88,
+   "aimed_at": "الصناعة العمانية"
+  },
+  "431": {
+   "verdict": "ONTARGET",
+   "conf": 70,
+   "aimed_at": "السيارة الكهربائية"
+  },
+  "432": {
+   "verdict": "DISPLACED",
+   "conf": 75,
+   "aimed_at": "إدارات الشركات"
+  },
+  "434": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "مرسيدس EQXX"
+  },
+  "435": {
+   "verdict": "DISPLACED",
+   "conf": 70,
+   "aimed_at": "صناعة محلية سعودية"
+  },
+  "437": {
+   "verdict": "DISPLACED",
+   "conf": 82,
+   "aimed_at": "الصين وكوريا مقابل تسلا"
+  },
+  "440": {
+   "verdict": "DISPLACED",
+   "conf": 85,
+   "aimed_at": "طموح شخصي/صناعة مصرية"
+  },
+  "441": {
+   "verdict": "ONTARGET",
+   "conf": 80,
+   "aimed_at": "السيارة الكهربائية"
+  },
+  "443": {
+   "verdict": "DISPLACED",
+   "conf": 85,
+   "aimed_at": "الإنتاج التركي"
+  },
+  "444": {
+   "verdict": "DISPLACED",
+   "conf": 93,
+   "aimed_at": "تركيا/فخر وطني"
+  },
+  "446": {
+   "verdict": "DISPLACED",
+   "conf": 80,
+   "aimed_at": "الصين (النجاح الصناعي)"
+  },
+  "447": {
+   "verdict": "DISPLACED",
+   "conf": 88,
+   "aimed_at": "المغرب"
+  },
+  "449": {
+   "verdict": "DISPLACED",
+   "conf": 78,
+   "aimed_at": "تسلا كنموذج ريادة"
+  },
+  "450": {
+   "verdict": "ONTARGET",
+   "conf": 75,
+   "aimed_at": "مواصفات السيارة الكهربائية"
+  },
+  "453": {
+   "verdict": "ONTARGET",
+   "conf": 65,
+   "aimed_at": "خيارات السوق للسيارات"
+  },
+  "456": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "target itself"
+  },
+  "459": {
+   "verdict": "DISPLACED",
+   "conf": 75,
+   "aimed_at": "government incentives/policy"
+  },
+  "461": {
+   "verdict": "ONTARGET",
+   "conf": 75,
+   "aimed_at": "dealership availability"
+  },
+  "463": {
+   "verdict": "DISPLACED",
+   "conf": 85,
+   "aimed_at": "Tesla stock/critics"
+  },
+  "464": {
+   "verdict": "ONTARGET",
+   "conf": 70,
+   "aimed_at": "target itself"
+  },
+  "465": {
+   "verdict": "ONTARGET",
+   "conf": 80,
+   "aimed_at": "Sony's new car"
+  },
+  "466": {
+   "verdict": "DISPLACED",
+   "conf": 85,
+   "aimed_at": "research funding"
+  },
+  "467": {
+   "verdict": "ONTARGET",
+   "conf": 80,
+   "aimed_at": "target itself"
+  },
+  "468": {
+   "verdict": "ONTARGET",
+   "conf": 90,
+   "aimed_at": "target itself"
+  },
+  "469": {
+   "verdict": "DISPLACED",
+   "conf": 70,
+   "aimed_at": "renewable energy infrastructure"
+  },
+  "473": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "target itself"
+  },
+  "474": {
+   "verdict": "DISPLACED",
+   "conf": 80,
+   "aimed_at": "Tesla vs automakers"
+  },
+  "475": {
+   "verdict": "ONTARGET",
+   "conf": 80,
+   "aimed_at": "target itself"
+  },
+  "476": {
+   "verdict": "ONTARGET",
+   "conf": 80,
+   "aimed_at": "target itself"
+  },
+  "478": {
+   "verdict": "ONTARGET",
+   "conf": 90,
+   "aimed_at": "target itself"
+  },
+  "479": {
+   "verdict": "ONTARGET",
+   "conf": 90,
+   "aimed_at": "target itself"
+  },
+  "480": {
+   "verdict": "DISPLACED",
+   "conf": 70,
+   "aimed_at": "Samsung's credibility"
+  },
+  "481": {
+   "verdict": "ONTARGET",
+   "conf": 80,
+   "aimed_at": "target itself"
+  },
+  "483": {
+   "verdict": "DISPLACED",
+   "conf": 85,
+   "aimed_at": "government official's decisions"
+  },
+  "484": {
+   "verdict": "ONTARGET",
+   "conf": 65,
+   "aimed_at": "target itself"
+  },
+  "486": {
+   "verdict": "DISPLACED",
+   "conf": 85,
+   "aimed_at": "توماس اديسون واختراعه"
+  },
+  "488": {
+   "verdict": "ONTARGET",
+   "conf": 90,
+   "aimed_at": "السيارات الكهربائية"
+  },
+  "491": {
+   "verdict": "DISPLACED",
+   "conf": 75,
+   "aimed_at": "بي ام و/الابتكار"
+  },
+  "492": {
+   "verdict": "DISPLACED",
+   "conf": 80,
+   "aimed_at": "سعر السهم"
+  },
+  "494": {
+   "verdict": "DISPLACED",
+   "conf": 92,
+   "aimed_at": "الحكومة المصرية"
+  },
+  "495": {
+   "verdict": "ONTARGET",
+   "conf": 70,
+   "aimed_at": "تصميم السيارات الكهربائية"
+  },
+  "497": {
+   "verdict": "DISPLACED",
+   "conf": 85,
+   "aimed_at": "تسلا كشركة تقنية"
+  },
+  "499": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "السيارات الكهربائية"
+  },
+  "502": {
+   "verdict": "ONTARGET",
+   "conf": 90,
+   "aimed_at": "السيارات الكهربائية"
+  },
+  "505": {
+   "verdict": "DISPLACED",
+   "conf": 70,
+   "aimed_at": "إيلون ماسك"
+  },
+  "508": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "السيارات الكهربائية"
+  },
+  "511": {
+   "verdict": "ONTARGET",
+   "conf": 80,
+   "aimed_at": "السيارات الكهربائية"
+  },
+  "512": {
+   "verdict": "DISPLACED",
+   "conf": 85,
+   "aimed_at": "كارلوس ساينز وفوزه"
+  },
+  "513": {
+   "verdict": "DISPLACED",
+   "conf": 80,
+   "aimed_at": "مرسيدس والوعود"
+  },
+  "514": {
+   "verdict": "DISPLACED",
+   "conf": 80,
+   "aimed_at": "كارلوس ساينز وفوزه"
+  },
+  "515": {
+   "verdict": "ONTARGET",
+   "conf": 90,
+   "aimed_at": "السيارات الكهربائية"
+  },
+  "516": {
+   "verdict": "ONTARGET",
+   "conf": 75,
+   "aimed_at": "السيارات الكهربائية"
+  },
+  "519": {
+   "verdict": "DISPLACED",
+   "conf": 85,
+   "aimed_at": "إيلون ماسك واستثماراته"
+  },
+  "526": {
+   "verdict": "ONTARGET",
+   "conf": 75,
+   "aimed_at": "السيارات الكهربائية"
+  },
+  "528": {
+   "verdict": "DISPLACED",
+   "conf": 70,
+   "aimed_at": "المتحدث/الجهة العاملة"
+  },
+  "531": {
+   "verdict": "DISPLACED",
+   "conf": 92,
+   "aimed_at": "Egypt's backwardness"
+  },
+  "532": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "Chinese EV truck"
+  },
+  "533": {
+   "verdict": "ONTARGET",
+   "conf": 75,
+   "aimed_at": "Saudi EV manufacturing"
+  },
+  "534": {
+   "verdict": "ONTARGET",
+   "conf": 70,
+   "aimed_at": "EV transition impact"
+  },
+  "535": {
+   "verdict": "ONTARGET",
+   "conf": 68,
+   "aimed_at": "American EV comeback"
+  },
+  "536": {
+   "verdict": "ONTARGET",
+   "conf": 82,
+   "aimed_at": "BMW electric cars"
+  },
+  "538": {
+   "verdict": "ONTARGET",
+   "conf": 88,
+   "aimed_at": "EV manufacturing goal"
+  },
+  "540": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "BMW electric car"
+  },
+  "542": {
+   "verdict": "ONTARGET",
+   "conf": 72,
+   "aimed_at": "EV chassis design"
+  },
+  "544": {
+   "verdict": "ONTARGET",
+   "conf": 80,
+   "aimed_at": "Norway EV adoption"
+  },
+  "547": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "EV market trend"
+  },
+  "548": {
+   "verdict": "ONTARGET",
+   "conf": 78,
+   "aimed_at": "cheap Turkish EVs"
+  },
+  "549": {
+   "verdict": "ONTARGET",
+   "conf": 70,
+   "aimed_at": "EV battery material"
+  },
+  "550": {
+   "verdict": "ONTARGET",
+   "conf": 75,
+   "aimed_at": "Porsche electric car"
+  },
+  "551": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "EV charger setup"
+  },
+  "552": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "EV vs traditional cars"
+  },
+  "553": {
+   "verdict": "DISPLACED",
+   "conf": 90,
+   "aimed_at": "Arab dictatorships/infrastructure"
+  },
+  "554": {
+   "verdict": "DISPLACED",
+   "conf": 88,
+   "aimed_at": "shallow government priorities"
+  },
+  "556": {
+   "verdict": "ONTARGET",
+   "conf": 82,
+   "aimed_at": "EV environmental cleanliness"
+  },
+  "561": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "EV market growth"
+  },
+  "562": {
+   "verdict": "ONTARGET",
+   "conf": 75,
+   "aimed_at": "market growth/bans"
+  },
+  "564": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "EV specs/range"
+  },
+  "565": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "EV acceleration performance"
+  },
+  "566": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "EV performance vs mechanical"
+  },
+  "567": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "EV driving comfort"
+  },
+  "568": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "EV maintenance"
+  },
+  "569": {
+   "verdict": "ONTARGET",
+   "conf": 70,
+   "aimed_at": "EV purchase reasons"
+  },
+  "570": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "EV charging/definition"
+  },
+  "571": {
+   "verdict": "ONTARGET",
+   "conf": 80,
+   "aimed_at": "EV advantages/sales"
+  },
+  "573": {
+   "verdict": "ONTARGET",
+   "conf": 70,
+   "aimed_at": "EV sector demand"
+  },
+  "574": {
+   "verdict": "DISPLACED",
+   "conf": 65,
+   "aimed_at": "company competition"
+  },
+  "576": {
+   "verdict": "DISPLACED",
+   "conf": 85,
+   "aimed_at": "oil companies conspiracy"
+  },
+  "577": {
+   "verdict": "ONTARGET",
+   "conf": 55,
+   "aimed_at": "EV adoption growth"
+  },
+  "578": {
+   "verdict": "DISPLACED",
+   "conf": 90,
+   "aimed_at": "China's progress"
+  },
+  "579": {
+   "verdict": "ONTARGET",
+   "conf": 65,
+   "aimed_at": "EV battery technology"
+  },
+  "580": {
+   "verdict": "ONTARGET",
+   "conf": 75,
+   "aimed_at": "Tesla battery tech"
+  },
+  "581": {
+   "verdict": "ONTARGET",
+   "conf": 80,
+   "aimed_at": "EV production growth"
+  },
+  "582": {
+   "verdict": "ONTARGET",
+   "conf": 70,
+   "aimed_at": "EV sector timing"
+  },
+  "584": {
+   "verdict": "DISPLACED",
+   "conf": 70,
+   "aimed_at": "EV company competition/stocks"
+  },
+  "585": {
+   "verdict": "DISPLACED",
+   "conf": 75,
+   "aimed_at": "NAKD stock"
+  }
+ }
+}

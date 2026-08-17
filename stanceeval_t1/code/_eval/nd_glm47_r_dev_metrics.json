@@ -1,0 +1,14 @@
+{
+  "model": "zai-glm-4.7",
+  "variant": "r",
+  "fewshot": 0,
+  "n": 619,
+  "n_unparsed": 576,
+  "runtime_sec": 480.5,
+  "gold_none": 59,
+  "base_rate": 0.0953,
+  "prec_at_gold_n": 0.1864,
+  "prec_Women empowerment": 0.0909,
+  "prec_Digital Transformation": 0.1818,
+  "prec_Covid Vaccine": 0.3077
+}

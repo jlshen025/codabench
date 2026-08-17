@@ -1,0 +1,4 @@
+[provider] deepseek wire=deepseek-v4-flash
+[card] 'Women empowerment': def='تمكين المرأة هو عملية تعزيز قدرات المرأة وزيادة فرصها في الم' asp='المساواة في فرص العمل، الحق في التعليم، المشاركة السياسية، ا'
+[done] 'Women empowerment': 1400 tweets
+[RESULT] {"model": "deepseek-v4-flash", "grounded": true, "n": 1400, "runtime_sec": 71.0, "pooled_Favg2": 86.83, "per_target": {"Women empowerment": 86.83}}

@@ -1,0 +1,22 @@
+# DEVELOPMENT-ONLY dependencies — needed exclusively to re-run the rejected
+# representation-learning experiments in code/dev/ (feat_extract.py, vidprobe.py,
+# vidtrain.py, txt_extract.py). The submitted predictor needs NONE of these
+# (see requirements.txt).
+#
+# Versions are the ones used for the reported development results, with the
+# distribution-specific "+computecanada" local version tags removed so the file is
+# installable anywhere (pip install -r requirements-dev.txt).
+numpy==2.4.2
+torch==2.5.1
+transformers==4.49.0
+sentence-transformers==4.0.2
+decord==0.6.0            # video frame decoding (dev/feat_extract.py only)
+pillow==12.1.0
+safetensors==0.8.0
+tokenizers==0.21.1
+sentencepiece==0.2.0
+
+# Pretrained checkpoints pulled from the HuggingFace hub by those scripts:
+#   facebook/dinov2-small                                              (video features)
+#   sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2        (transcript features)
+# Both are used FROZEN (no fine-tuning) and only in development experiments.

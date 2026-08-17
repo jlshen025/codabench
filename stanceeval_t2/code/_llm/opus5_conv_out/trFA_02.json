@@ -1,0 +1,22 @@
+{
+  "282": {"label": "Favor", "conf": 88, "why": "straight bulleted list of pros under the pros hashtag, no irony markers"},
+  "283": {"label": "Favor", "conf": 90, "why": "reasoned personal preference for 13 weeks over 22, endorses faster graduation"},
+  "284": {"label": "Favor", "conf": 92, "why": "explicit personal benefit plus smiley, no sarcasm cue"},
+  "285": {"label": "Favor", "conf": 85, "why": "single sincere pro item from the same campaign list"},
+  "286": {"label": "Favor", "conf": 85, "why": "single sincere pro item, faster graduation"},
+  "287": {"label": "Favor", "conf": 82, "why": "single sincere pro item, longer breaks"},
+  "288": {"label": "Favor", "conf": 85, "why": "single sincere pro item, shorter term"},
+  "289": {"label": "Favor", "conf": 93, "why": "plain declarative praise of educational environment and knowledge level"},
+  "290": {"label": "Against", "conf": 56, "why": "ironic concession that the only 'pro' is a gutted curriculum, critic framing"},
+  "291": {"label": "Favor", "conf": 92, "why": "explicit defense against a critic, fewer courses means better focus"},
+  "292": {"label": "Favor", "conf": 84, "why": "calls three terms excellent, conditions are prescriptive not oppositional"},
+  "293": {"label": "Favor", "conf": 62, "why": "calls the system good, complaint aimed only at breaks implementation"},
+  "294": {"label": "Against", "conf": 66, "why": "ironic 'thank God' with laughter, target used as mocking punchline"},
+  "295": {"label": "Favor", "conf": 70, "why": "sincere concession that fewer pages make study more focused, warm blessing"},
+  "296": {"label": "Favor", "conf": 91, "why": "calls the split an excellent approach and urges Kuwait to adopt it"},
+  "297": {"label": "Favor", "conf": 88, "why": "very very good, with a tweak request rather than opposition"},
+  "298": {"label": "Favor", "conf": 94, "why": "historic leap credited to the minister, eases pressure"},
+  "299": {"label": "Against", "conf": 58, "why": "sarcastic escalation to four terms while the three have yet to succeed"},
+  "300": {"label": "Favor", "conf": 93, "why": "fantastic calendar, contrasts favorably with the old deadly four-month summer"},
+  "301": {"label": "Favor", "conf": 87, "why": "praises the new calendar for solving the summer childcare problem"}
+}

@@ -1,0 +1,10 @@
+pool: Ecars champion-Favor -> 160 rows
+  batch 1/8: parsed 20/20
+  batch 2/8: parsed 20/20
+  batch 3/8: parsed 20/20
+  batch 4/8: parsed 20/20
+  batch 5/8: parsed 20/20
+  batch 6/8: parsed 20/20
+  batch 7/8: parsed 20/20
+  batch 8/8: parsed 20/20
+[RESULT] parsed 160/160  DISPLACED=58  -> _llm/displace_ec_o5.json

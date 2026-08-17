@@ -1,0 +1,808 @@
+{
+ "model": "claude-opus-5",
+ "target": "Ecars",
+ "pool": "favor",
+ "n": 160,
+ "res": {
+  "312": {
+   "verdict": "FAVOR",
+   "conf": 80,
+   "aimed_at": "Consumer demand for EVs"
+  },
+  "314": {
+   "verdict": "FAVOR",
+   "conf": 65,
+   "aimed_at": "Predicts EV dominance"
+  },
+  "316": {
+   "verdict": "FAVOR",
+   "conf": 85,
+   "aimed_at": "Industry shift news"
+  },
+  "317": {
+   "verdict": "NOT-FAVOR",
+   "conf": 70,
+   "aimed_at": "Mocks unrealistic production claim"
+  },
+  "318": {
+   "verdict": "NOT-FAVOR",
+   "conf": 55,
+   "aimed_at": "Meta-debate, no clear stance"
+  },
+  "319": {
+   "verdict": "FAVOR",
+   "conf": 90,
+   "aimed_at": "National pride, praise"
+  },
+  "320": {
+   "verdict": "FAVOR",
+   "conf": 75,
+   "aimed_at": "Production partnership news"
+  },
+  "322": {
+   "verdict": "FAVOR",
+   "conf": 85,
+   "aimed_at": "Egyptian EV year"
+  },
+  "323": {
+   "verdict": "FAVOR",
+   "conf": 90,
+   "aimed_at": "Presidential announcement praised"
+  },
+  "325": {
+   "verdict": "FAVOR",
+   "conf": 60,
+   "aimed_at": "Hopeful about EV"
+  },
+  "326": {
+   "verdict": "NOT-FAVOR",
+   "conf": 75,
+   "aimed_at": "Sarcastic mockery, no EV"
+  },
+  "328": {
+   "verdict": "FAVOR",
+   "conf": 90,
+   "aimed_at": "Nationalist celebration"
+  },
+  "329": {
+   "verdict": "FAVOR",
+   "conf": 90,
+   "aimed_at": "Nationalist praise"
+  },
+  "330": {
+   "verdict": "FAVOR",
+   "conf": 70,
+   "aimed_at": "Laments lacking EV industry"
+  },
+  "333": {
+   "verdict": "FAVOR",
+   "conf": 75,
+   "aimed_at": "Praises quality EVs"
+  },
+  "334": {
+   "verdict": "FAVOR",
+   "conf": 55,
+   "aimed_at": "Interest in topic"
+  },
+  "335": {
+   "verdict": "FAVOR",
+   "conf": 70,
+   "aimed_at": "Recommends EV sector investment"
+  },
+  "337": {
+   "verdict": "FAVOR",
+   "conf": 80,
+   "aimed_at": "Lucid investment, localization"
+  },
+  "338": {
+   "verdict": "FAVOR",
+   "conf": 70,
+   "aimed_at": "Turkey EV achievement acknowledged"
+  },
+  "339": {
+   "verdict": "FAVOR",
+   "conf": 80,
+   "aimed_at": "EVs will be cheapest"
+  },
+  "344": {
+   "verdict": "FAVOR",
+   "conf": 75,
+   "aimed_at": "Positive about electric car idea"
+  },
+  "345": {
+   "verdict": "FAVOR",
+   "conf": 80,
+   "aimed_at": "Reports EV race, national leadership"
+  },
+  "351": {
+   "verdict": "FAVOR",
+   "conf": 95,
+   "aimed_at": "Explicit praise of capabilities"
+  },
+  "353": {
+   "verdict": "FAVOR",
+   "conf": 70,
+   "aimed_at": "Tax exemptions, minor price caveat"
+  },
+  "354": {
+   "verdict": "FAVOR",
+   "conf": 85,
+   "aimed_at": "Market growth news"
+  },
+  "357": {
+   "verdict": "FAVOR",
+   "conf": 70,
+   "aimed_at": "Supports tech transfer aspiration"
+  },
+  "358": {
+   "verdict": "FAVOR",
+   "conf": 95,
+   "aimed_at": "Pride in Saudi electric car"
+  },
+  "360": {
+   "verdict": "NOT-FAVOR",
+   "conf": 55,
+   "aimed_at": "Neutral observation, no evaluation"
+  },
+  "363": {
+   "verdict": "NOT-FAVOR",
+   "conf": 60,
+   "aimed_at": "Wordplay joke, no stance"
+  },
+  "364": {
+   "verdict": "FAVOR",
+   "conf": 90,
+   "aimed_at": "Attractive electric car praise"
+  },
+  "366": {
+   "verdict": "FAVOR",
+   "conf": 85,
+   "aimed_at": "Urges incentives for EVs"
+  },
+  "367": {
+   "verdict": "FAVOR",
+   "conf": 65,
+   "aimed_at": "Promotes EV charging project"
+  },
+  "368": {
+   "verdict": "FAVOR",
+   "conf": 75,
+   "aimed_at": "Argues EVs reduce environmental damage"
+  },
+  "375": {
+   "verdict": "FAVOR",
+   "conf": 85,
+   "aimed_at": "Admiring electric car showcase"
+  },
+  "377": {
+   "verdict": "FAVOR",
+   "conf": 95,
+   "aimed_at": "Explicit endorsement of future"
+  },
+  "380": {
+   "verdict": "FAVOR",
+   "conf": 85,
+   "aimed_at": "Desire to buy EV"
+  },
+  "381": {
+   "verdict": "FAVOR",
+   "conf": 80,
+   "aimed_at": "Excitement about EV proliferation"
+  },
+  "382": {
+   "verdict": "FAVOR",
+   "conf": 75,
+   "aimed_at": "EVs to save climate"
+  },
+  "383": {
+   "verdict": "NOT-FAVOR",
+   "conf": 55,
+   "aimed_at": "Advises against buying electric"
+  },
+  "386": {
+   "verdict": "FAVOR",
+   "conf": 80,
+   "aimed_at": "Tesla success as inspiration"
+  },
+  "388": {
+   "verdict": "FAVOR",
+   "conf": 80,
+   "aimed_at": "Desire to buy"
+  },
+  "389": {
+   "verdict": "FAVOR",
+   "conf": 85,
+   "aimed_at": "Amazement at innovation"
+  },
+  "390": {
+   "verdict": "FAVOR",
+   "conf": 70,
+   "aimed_at": "Amazed at German EVs"
+  },
+  "391": {
+   "verdict": "FAVOR",
+   "conf": 60,
+   "aimed_at": "Transformation framing, news-like"
+  },
+  "393": {
+   "verdict": "FAVOR",
+   "conf": 80,
+   "aimed_at": "Environmental praise for Tesla"
+  },
+  "394": {
+   "verdict": "FAVOR",
+   "conf": 75,
+   "aimed_at": "Market/production news"
+  },
+  "397": {
+   "verdict": "FAVOR",
+   "conf": 85,
+   "aimed_at": "Advocates EV adoption shift"
+  },
+  "398": {
+   "verdict": "FAVOR",
+   "conf": 75,
+   "aimed_at": "Positive future-of-EVs discussion"
+  },
+  "399": {
+   "verdict": "FAVOR",
+   "conf": 80,
+   "aimed_at": "Optimistic sales projection"
+  },
+  "401": {
+   "verdict": "FAVOR",
+   "conf": 75,
+   "aimed_at": "National-aspiration comparison framing"
+  },
+  "405": {
+   "verdict": "FAVOR",
+   "conf": 85,
+   "aimed_at": "We-lag-behind advanced-world framing"
+  },
+  "407": {
+   "verdict": "FAVOR",
+   "conf": 85,
+   "aimed_at": "Proposes EVs, emissions reduction"
+  },
+  "409": {
+   "verdict": "FAVOR",
+   "conf": 60,
+   "aimed_at": "Marvel but price complaint"
+  },
+  "410": {
+   "verdict": "FAVOR",
+   "conf": 85,
+   "aimed_at": "Praises potential EV excellence"
+  },
+  "411": {
+   "verdict": "FAVOR",
+   "conf": 90,
+   "aimed_at": "Praises EV design"
+  },
+  "412": {
+   "verdict": "FAVOR",
+   "conf": 70,
+   "aimed_at": "Progress and price parity"
+  },
+  "413": {
+   "verdict": "FAVOR",
+   "conf": 85,
+   "aimed_at": "Battery advantages news"
+  },
+  "414": {
+   "verdict": "FAVOR",
+   "conf": 90,
+   "aimed_at": "Urges EV investment, future"
+  },
+  "417": {
+   "verdict": "FAVOR",
+   "conf": 70,
+   "aimed_at": "National-aspiration demand"
+  },
+  "419": {
+   "verdict": "FAVOR",
+   "conf": 85,
+   "aimed_at": "Investing in winning EV companies"
+  },
+  "421": {
+   "verdict": "FAVOR",
+   "conf": 92,
+   "aimed_at": "explicit love for EVs"
+  },
+  "424": {
+   "verdict": "FAVOR",
+   "conf": 72,
+   "aimed_at": "EV market growth news"
+  },
+  "425": {
+   "verdict": "NOT-FAVOR",
+   "conf": 70,
+   "aimed_at": "complains overpriced, unreliable EVs"
+  },
+  "427": {
+   "verdict": "FAVOR",
+   "conf": 93,
+   "aimed_at": "national pride, best EV"
+  },
+  "428": {
+   "verdict": "FAVOR",
+   "conf": 52,
+   "aimed_at": "aspiration to follow Turkey"
+  },
+  "430": {
+   "verdict": "FAVOR",
+   "conf": 90,
+   "aimed_at": "industrial aspiration, EV factory"
+  },
+  "431": {
+   "verdict": "NOT-FAVOR",
+   "conf": 55,
+   "aimed_at": "no evaluation of EVs"
+  },
+  "432": {
+   "verdict": "FAVOR",
+   "conf": 65,
+   "aimed_at": "EV shift inevitable, central"
+  },
+  "434": {
+   "verdict": "FAVOR",
+   "conf": 85,
+   "aimed_at": "product specs, strong competitor"
+  },
+  "435": {
+   "verdict": "FAVOR",
+   "conf": 93,
+   "aimed_at": "EVs future, local production"
+  },
+  "437": {
+   "verdict": "FAVOR",
+   "conf": 60,
+   "aimed_at": "industry competition news"
+  },
+  "440": {
+   "verdict": "FAVOR",
+   "conf": 90,
+   "aimed_at": "national EV industry plan"
+  },
+  "441": {
+   "verdict": "NOT-FAVOR",
+   "conf": 58,
+   "aimed_at": "mocks battery lifespan joke"
+  },
+  "443": {
+   "verdict": "FAVOR",
+   "conf": 92,
+   "aimed_at": "national EV production news"
+  },
+  "444": {
+   "verdict": "FAVOR",
+   "conf": 96,
+   "aimed_at": "proud of local EV"
+  },
+  "446": {
+   "verdict": "FAVOR",
+   "conf": 88,
+   "aimed_at": "defends EV achievement"
+  },
+  "447": {
+   "verdict": "FAVOR",
+   "conf": 88,
+   "aimed_at": "national EV industry future"
+  },
+  "449": {
+   "verdict": "FAVOR",
+   "conf": 65,
+   "aimed_at": "Tesla EV praised, success"
+  },
+  "450": {
+   "verdict": "FAVOR",
+   "conf": 70,
+   "aimed_at": "demands better EV imports"
+  },
+  "453": {
+   "verdict": "FAVOR",
+   "conf": 75,
+   "aimed_at": "recommends EV options available"
+  },
+  "456": {
+   "verdict": "FAVOR",
+   "conf": 72,
+   "aimed_at": "Conditional endorsement of electric cars"
+  },
+  "459": {
+   "verdict": "FAVOR",
+   "conf": 85,
+   "aimed_at": "Explains Tesla success, advanced tech"
+  },
+  "461": {
+   "verdict": "FAVOR",
+   "conf": 75,
+   "aimed_at": "Praises cheap EVs, blames dealers"
+  },
+  "463": {
+   "verdict": "FAVOR",
+   "conf": 80,
+   "aimed_at": "Defends Tesla sales success"
+  },
+  "464": {
+   "verdict": "FAVOR",
+   "conf": 80,
+   "aimed_at": "Reports EV market growth"
+  },
+  "465": {
+   "verdict": "FAVOR",
+   "conf": 85,
+   "aimed_at": "Product news, unique features"
+  },
+  "466": {
+   "verdict": "NOT-FAVOR",
+   "conf": 60,
+   "aimed_at": "Money better spent elsewhere"
+  },
+  "467": {
+   "verdict": "FAVOR",
+   "conf": 80,
+   "aimed_at": "Wants EVs to replace oil"
+  },
+  "468": {
+   "verdict": "FAVOR",
+   "conf": 85,
+   "aimed_at": "Likes the design"
+  },
+  "469": {
+   "verdict": "FAVOR",
+   "conf": 75,
+   "aimed_at": "Investing in charging infrastructure"
+  },
+  "473": {
+   "verdict": "FAVOR",
+   "conf": 70,
+   "aimed_at": "Battery problem, but switch predicted"
+  },
+  "474": {
+   "verdict": "FAVOR",
+   "conf": 75,
+   "aimed_at": "Praises Tesla EV leadership"
+  },
+  "475": {
+   "verdict": "FAVOR",
+   "conf": 85,
+   "aimed_at": "Competition, lower prices, less maintena"
+  },
+  "476": {
+   "verdict": "FAVOR",
+   "conf": 75,
+   "aimed_at": "Predicts EVs sweep market"
+  },
+  "478": {
+   "verdict": "FAVOR",
+   "conf": 90,
+   "aimed_at": "Most beautiful electric car"
+  },
+  "479": {
+   "verdict": "FAVOR",
+   "conf": 90,
+   "aimed_at": "First EV he likes"
+  },
+  "480": {
+   "verdict": "FAVOR",
+   "conf": 70,
+   "aimed_at": "Anticipates Samsung-made car positively"
+  },
+  "481": {
+   "verdict": "FAVOR",
+   "conf": 80,
+   "aimed_at": "Says EVs look better"
+  },
+  "483": {
+   "verdict": "NOT-FAVOR",
+   "conf": 65,
+   "aimed_at": "Criticism of official, not EVs"
+  },
+  "484": {
+   "verdict": "FAVOR",
+   "conf": 80,
+   "aimed_at": "Hopes reliable, breaks Tesla monopoly"
+  },
+  "486": {
+   "verdict": "FAVOR",
+   "conf": 85,
+   "aimed_at": "excited about electric cars"
+  },
+  "488": {
+   "verdict": "FAVOR",
+   "conf": 92,
+   "aimed_at": "praises home-charging advantage"
+  },
+  "491": {
+   "verdict": "FAVOR",
+   "conf": 85,
+   "aimed_at": "expects EVs to outperform"
+  },
+  "492": {
+   "verdict": "FAVOR",
+   "conf": 80,
+   "aimed_at": "positive market news"
+  },
+  "494": {
+   "verdict": "FAVOR",
+   "conf": 75,
+   "aimed_at": "national aspiration framing"
+  },
+  "495": {
+   "verdict": "FAVOR",
+   "conf": 55,
+   "aimed_at": "criticizes Mercedes design, not EVs"
+  },
+  "497": {
+   "verdict": "NOT-FAVOR",
+   "conf": 55,
+   "aimed_at": "Tesla-AI fact, no stance"
+  },
+  "499": {
+   "verdict": "FAVOR",
+   "conf": 75,
+   "aimed_at": "wants to buy EV"
+  },
+  "502": {
+   "verdict": "FAVOR",
+   "conf": 85,
+   "aimed_at": "specs product news"
+  },
+  "505": {
+   "verdict": "FAVOR",
+   "conf": 75,
+   "aimed_at": "positive EV history"
+  },
+  "508": {
+   "verdict": "FAVOR",
+   "conf": 95,
+   "aimed_at": "explicit appreciation, respect"
+  },
+  "511": {
+   "verdict": "FAVOR",
+   "conf": 90,
+   "aimed_at": "low maintenance, long lifespan"
+  },
+  "512": {
+   "verdict": "FAVOR",
+   "conf": 90,
+   "aimed_at": "historic EV achievement"
+  },
+  "513": {
+   "verdict": "NOT-FAVOR",
+   "conf": 65,
+   "aimed_at": "calls their EVs weak"
+  },
+  "514": {
+   "verdict": "FAVOR",
+   "conf": 90,
+   "aimed_at": "victory, new era"
+  },
+  "515": {
+   "verdict": "FAVOR",
+   "conf": 95,
+   "aimed_at": "explicitly better than conventional"
+  },
+  "516": {
+   "verdict": "FAVOR",
+   "conf": 80,
+   "aimed_at": "defends EVs against critics"
+  },
+  "519": {
+   "verdict": "FAVOR",
+   "conf": 70,
+   "aimed_at": "EV sector highest momentum"
+  },
+  "526": {
+   "verdict": "NOT-FAVOR",
+   "conf": 50,
+   "aimed_at": "bubble framing, skeptical"
+  },
+  "528": {
+   "verdict": "NOT-FAVOR",
+   "conf": 60,
+   "aimed_at": "dismissive \"big talk\" mockery"
+  },
+  "531": {
+   "verdict": "FAVOR",
+   "conf": 85,
+   "aimed_at": "Praises Chinese electric truck specs"
+  },
+  "532": {
+   "verdict": "FAVOR",
+   "conf": 75,
+   "aimed_at": "National-lag aspiration framing"
+  },
+  "533": {
+   "verdict": "FAVOR",
+   "conf": 85,
+   "aimed_at": "National manufacturing news, aspiration"
+  },
+  "534": {
+   "verdict": "FAVOR",
+   "conf": 60,
+   "aimed_at": "Neutral news sharing, resolves Favor"
+  },
+  "535": {
+   "verdict": "FAVOR",
+   "conf": 75,
+   "aimed_at": "Expects comeback via EVs"
+  },
+  "536": {
+   "verdict": "NOT-FAVOR",
+   "conf": 70,
+   "aimed_at": "Criticizes BMW's thoughtless electric ca"
+  },
+  "538": {
+   "verdict": "FAVOR",
+   "conf": 80,
+   "aimed_at": "Advocates quality affordable EV making"
+  },
+  "540": {
+   "verdict": "FAVOR",
+   "conf": 85,
+   "aimed_at": "Says made me like EVs"
+  },
+  "542": {
+   "verdict": "FAVOR",
+   "conf": 60,
+   "aimed_at": "Technical explanation, mild criticism BM"
+  },
+  "544": {
+   "verdict": "FAVOR",
+   "conf": 90,
+   "aimed_at": "Praises Norway EV success"
+  },
+  "547": {
+   "verdict": "FAVOR",
+   "conf": 85,
+   "aimed_at": "Things moving in EVs' favor"
+  },
+  "548": {
+   "verdict": "FAVOR",
+   "conf": 85,
+   "aimed_at": "Advocates cheap EVs for poor"
+  },
+  "549": {
+   "verdict": "FAVOR",
+   "conf": 65,
+   "aimed_at": "Good news about EV use"
+  },
+  "550": {
+   "verdict": "FAVOR",
+   "conf": 95,
+   "aimed_at": "Recommends buying electric car"
+  },
+  "551": {
+   "verdict": "FAVOR",
+   "conf": 55,
+   "aimed_at": "Purely practical charger advice"
+  },
+  "552": {
+   "verdict": "FAVOR",
+   "conf": 80,
+   "aimed_at": "Predicts consumers will prefer EVs"
+  },
+  "553": {
+   "verdict": "FAVOR",
+   "conf": 75,
+   "aimed_at": "Progress framing praising Tesla"
+  },
+  "554": {
+   "verdict": "FAVOR",
+   "conf": 60,
+   "aimed_at": "EV project as progress benchmark"
+  },
+  "556": {
+   "verdict": "FAVOR",
+   "conf": 85,
+   "aimed_at": "Praises EVs as clean"
+  },
+  "561": {
+   "verdict": "FAVOR",
+   "conf": 90,
+   "aimed_at": "Enthusiastic about EV market growth"
+  },
+  "562": {
+   "verdict": "FAVOR",
+   "conf": 85,
+   "aimed_at": "Pro-EV sales growth argument"
+  },
+  "564": {
+   "verdict": "FAVOR",
+   "conf": 88,
+   "aimed_at": "Positive specs, range praise"
+  },
+  "565": {
+   "verdict": "FAVOR",
+   "conf": 90,
+   "aimed_at": "Praises acceleration performance"
+  },
+  "566": {
+   "verdict": "FAVOR",
+   "conf": 92,
+   "aimed_at": "Praises performance vs petrol"
+  },
+  "567": {
+   "verdict": "FAVOR",
+   "conf": 92,
+   "aimed_at": "Praises comfort of driving"
+  },
+  "568": {
+   "verdict": "FAVOR",
+   "conf": 90,
+   "aimed_at": "Praises low maintenance"
+  },
+  "569": {
+   "verdict": "FAVOR",
+   "conf": 88,
+   "aimed_at": "Advocating reasons to buy"
+  },
+  "570": {
+   "verdict": "FAVOR",
+   "conf": 70,
+   "aimed_at": "Explanatory definition, mildly positive"
+  },
+  "571": {
+   "verdict": "FAVOR",
+   "conf": 95,
+   "aimed_at": "Explicitly promotes electric cars"
+  },
+  "573": {
+   "verdict": "FAVOR",
+   "conf": 85,
+   "aimed_at": "Demand becoming norm, positive"
+  },
+  "574": {
+   "verdict": "NOT-FAVOR",
+   "conf": 60,
+   "aimed_at": "Neutral question about competition"
+  },
+  "576": {
+   "verdict": "NOT-FAVOR",
+   "conf": 65,
+   "aimed_at": "Conspiracy framing, not evaluative"
+  },
+  "577": {
+   "verdict": "FAVOR",
+   "conf": 65,
+   "aimed_at": "Assumes EV dominance, playful"
+  },
+  "578": {
+   "verdict": "FAVOR",
+   "conf": 85,
+   "aimed_at": "Admiration for China's EVs"
+  },
+  "579": {
+   "verdict": "FAVOR",
+   "conf": 55,
+   "aimed_at": "Battery skepticism, conditional praise"
+  },
+  "580": {
+   "verdict": "FAVOR",
+   "conf": 75,
+   "aimed_at": "Shares positive battery news"
+  },
+  "581": {
+   "verdict": "FAVOR",
+   "conf": 85,
+   "aimed_at": "Production growth figures"
+  },
+  "582": {
+   "verdict": "FAVOR",
+   "conf": 80,
+   "aimed_at": "Time for EV sector"
+  },
+  "584": {
+   "verdict": "FAVOR",
+   "conf": 70,
+   "aimed_at": "Market news, bets on EVs"
+  },
+  "585": {
+   "verdict": "FAVOR",
+   "conf": 55,
+   "aimed_at": "Stock tip, minimal content"
+  }
+ }
+}

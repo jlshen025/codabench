@@ -1,0 +1,58 @@
+{
+"7": {
+"label": "None",
+"conf": 95
+},
+"8": {
+"label": "None",
+"conf": 90
+},
+"9": {
+"label": "Favor",
+"conf": 85
+},
+"15": {
+"label": "None",
+"conf": 95
+},
+"20": {
+"label": "None",
+"conf": 95
+},
+"30": {
+"label": "None",
+"conf": 95
+},
+"36": {
+"label": "None",
+"conf": 95
+},
+"138": {
+"label": "Against",
+"conf": 70
+},
+"139": {
+"label": "None",
+"conf": 80
+},
+"165": {
+"label": "None",
+"conf": 95
+},
+"175": {
+"label": "Against",
+"conf": 85
+},
+"178": {
+"label": "None",
+"conf": 95
+},
+"200": {
+"label": "None",
+"conf": 95
+},
+"220": {
+"label": "None",
+"conf": 95
+}
+}

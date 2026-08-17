@@ -1,0 +1,25 @@
+{
+  "model": "gemini-2.5-pro",
+  "n": 619,
+  "reasoning": "none",
+  "runtime_sec": 1272.0,
+  "pooled_Favg2": 2.44,
+  "pooled_Favg3": 7.47,
+  "per_target": {
+    "Women empowerment": {
+      "Favg2": 1.52,
+      "Favg3": 4.34,
+      "n": 210
+    },
+    "Digital Transformation": {
+      "Favg2": 0.64,
+      "Favg3": 6.97,
+      "n": 203
+    },
+    "Covid Vaccine": {
+      "Favg2": 3.23,
+      "Favg3": 9.72,
+      "n": 206
+    }
+  }
+}

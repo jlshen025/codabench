@@ -1,0 +1,4 @@
+[provider] deepseek wire=deepseek-v4-pro
+[card] 'Digital Transformation': def='التحول الرقمي هو عملية دمج التقنيات الرقمية في جميع جوانب ال' asp='تحديث البنية التحتية التقنية, تحسين الخدمات الحكومية الإلكتر'
+[done] 'Digital Transformation': 283 tweets
+[RESULT] {"model": "deepseek-v4-pro", "grounded": true, "n": 283, "runtime_sec": 36.2, "pooled_Favg2": 42.28, "per_target": {"Digital Transformation": 42.28}}

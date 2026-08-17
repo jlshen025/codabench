@@ -1,0 +1,4 @@
+[provider] glm-4.7-flash -> 1 chat leg(s): ['https://api.z.ai/api/paas/v4']
+[cfg] model=glm-4.7-flash n=352 order=file batch=44 reasoning=none samples=1 temp=0.7
+  sample 1/1 done
+[RESULT] {"model": "glm-4.7-flash", "n": 352, "reasoning": "none", "runtime_sec": 334.6}

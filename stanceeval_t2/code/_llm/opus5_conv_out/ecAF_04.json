@@ -1,0 +1,22 @@
+{
+  "608": {"label": "Against", "conf": 90, "why": "argues an EV is still a car with urban harms; urges reducing car dependence even if electric"},
+  "609": {"label": "Against", "conf": 94, "why": "declares EVs will not succeed and mocks their hypers"},
+  "610": {"label": "Against", "conf": 93, "why": "claims EVs double pollution via oil-fired power plants; sarcastic proverb"},
+  "611": {"label": "Against", "conf": 92, "why": "conspiracy framing: EV support serves Western govts/billionaires; factory emissions worse"},
+  "613": {"label": "Favor", "conf": 58, "why": "complaint aimed at missing electricity/charging supply, not at the car; polite engaged interest"},
+  "614": {"label": "Favor", "conf": 55, "why": "wants grid fixed first then EVs brought in; grievance targets the state, not EVs"},
+  "615": {"label": "Favor", "conf": 52, "why": "sarcasm at the official over infrastructure; still asks that people be provided EVs"},
+  "616": {"label": "Against", "conf": 93, "why": "EVs merely shift pollution to smokestacks and add conversion losses"},
+  "617": {"label": "Against", "conf": 88, "why": "rebuts the lower-emissions claim; says EVs can be more carbon intensive"},
+  "618": {"label": "Against", "conf": 95, "why": "insults EV promoter; breakdowns, heat death, explosion fears"},
+  "619": {"label": "Favor", "conf": 55, "why": "conditional rejection of poor service, implying willingness once maintenance/price improve"},
+  "620": {"label": "Against", "conf": 91, "why": "relays owners' dissatisfaction; an experience they would not repeat"},
+  "621": {"label": "Against", "conf": 95, "why": "blunt insult: all EVs are crap"},
+  "622": {"label": "Favor", "conf": 51, "why": "knowledgeable owner-style detail; concedes EVs suit city commuting despite listed complaints"},
+  "623": {"label": "Favor", "conf": 56, "why": "sole objection is price, the header's engaged price-complaint shape"},
+  "624": {"label": "Against", "conf": 92, "why": "mocks EV value; would rather buy a luxury gas Avalon"},
+  "625": {"label": "Against", "conf": 84, "why": "calls the EV project a failure, only a secondary short-trip option for the rich"},
+  "626": {"label": "Against", "conf": 93, "why": "declares the EV project a complete failure locally with costly maintenance"},
+  "627": {"label": "Favor", "conf": 50, "why": "technical qualification granting EVs work inside cities; limits framed as current Li-ion tech"},
+  "628": {"label": "Against", "conf": 91, "why": "EVs have failed against hydrogen cars, which are the real future"}
+}

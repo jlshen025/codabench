@@ -1,0 +1,16 @@
+{
+  "model": "claude-sonnet-4.5",
+  "variant": "p",
+  "fewshot": 0,
+  "n": 619,
+  "n_unparsed": 0,
+  "runtime_sec": 77.1,
+  "pFavor@20": 0.95,
+  "pFavor@40": 0.975,
+  "pFavor@60": 0.9833,
+  "pFavor@100": 0.99,
+  "pFavor@150": 0.9933,
+  "pAgainst@bottom20": 0.75,
+  "pAgainst@bottom40": 0.775,
+  "pAgainst@bottom60": 0.7833
+}

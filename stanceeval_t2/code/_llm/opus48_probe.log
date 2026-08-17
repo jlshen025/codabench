@@ -1,0 +1,9 @@
+[cards] reusing ['Women empowerment'] from _llm/claude_grounded_devt2_meta.json
+[card] 'Women empowerment': def='تمكين المرأة هو عملية منح المرأة الحقوق والفرص المتساوية في '
+  batch 1/5 done
+  batch 2/5 done
+  batch 3/5 done
+  batch 4/5 done
+  batch 5/5 done
+[done] 'Women empowerment': 200 tweets
+[RESULT] {"model": "claude-opus-4-8", "grounded": true, "n": 200, "limit": 200, "runtime_sec": 24.5, "pooled_Favg2": 91.05, "per_target": {"Women empowerment": 91.05}}

@@ -1,0 +1,15 @@
+{
+  "model": "claude-sonnet-4.5",
+  "n": 1400,
+  "reasoning": "none",
+  "runtime_sec": 137.9,
+  "pooled_Favg2": 86.07,
+  "pooled_Favg3": 69.47,
+  "per_target": {
+    "Women empowerment": {
+      "Favg2": 86.07,
+      "Favg3": 69.47,
+      "n": 1400
+    }
+  }
+}

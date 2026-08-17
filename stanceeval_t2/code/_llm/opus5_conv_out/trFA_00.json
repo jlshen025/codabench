@@ -1,0 +1,22 @@
+{
+  "11": {"label": "Favor", "conf": 63, "why": "defends the third term as calmest and best, redirects the cursing to term two"},
+  "40": {"label": "Against", "conf": 55, "why": "ironic 'thank God we have three terms' plus sarcastic 'we're the pampered ones' 🤣 = complaint"},
+  "42": {"label": "Favor", "conf": 65, "why": "takes three terms as given and offers a constructive tweak (four-day week)"},
+  "45": {"label": "Favor", "conf": 92, "why": "explicit 'three terms are better' with approving emojis"},
+  "46": {"label": "Against", "conf": 52, "why": "mocking register that invokes extending study as a punishment, 🤣🤣🤣"},
+  "72": {"label": "Favor", "conf": 90, "why": "formally petitions the minister NOT to cancel the third term"},
+  "97": {"label": "Favor", "conf": 50, "why": "conditional agreement with studying three terms this way"},
+  "130": {"label": "Favor", "conf": 60, "why": "explicit endorsement, 'yes we support, especially with the three terms'"},
+  "137": {"label": "Favor", "conf": 85, "why": "concedes complaints then defends the new system's talents, inventions, awards"},
+  "176": {"label": "Favor", "conf": 45, "why": "terse demand that the third term run remotely, accepts the term itself"},
+  "194": {"label": "Against", "conf": 55, "why": "bare 'welcome, three semesters' reads as sarcastic fake welcome of a dreaded arrival"},
+  "227": {"label": "Favor", "conf": 62, "why": "constructive proposal to repurpose the third semester rather than remove it"},
+  "239": {"label": "Favor", "conf": 90, "why": "calls it a new idea deserving support and attacks those trying to make it fail"},
+  "254": {"label": "Favor", "conf": 90, "why": "three terms good, lighter curriculum students can grasp"},
+  "255": {"label": "Favor", "conf": 85, "why": "three terms good with light curriculum, only asks breaks be merged"},
+  "256": {"label": "Favor", "conf": 92, "why": "three terms better than two"},
+  "257": {"label": "Favor", "conf": 85, "why": "agrees with three terms, objects only to studying in Ramadan"},
+  "258": {"label": "Favor", "conf": 88, "why": "hopes the three-term system continues, dismisses remote learning"},
+  "259": {"label": "Favor", "conf": 70, "why": "proposes a schedule explicitly built on three terms and three breaks"},
+  "260": {"label": "Favor", "conf": 88, "why": "three terms a year is the best way to teach and convey information"}
+}

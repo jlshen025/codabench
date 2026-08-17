@@ -1,0 +1,22 @@
+{
+  "396": {"label": "Against", "conf": 68, "why": "laughs at (😂) someone urging EVs for Lebanon; mockery of EV adoption"},
+  "416": {"label": "Against", "conf": 84, "why": "fear that F1 goes fully electric = fear of the target"},
+  "420": {"label": "Against", "conf": 86, "why": "blunt insult, EVs look like crap"},
+  "422": {"label": "Against", "conf": 91, "why": "charging-queue complaint with explicit verdict 'EVs are no good'"},
+  "423": {"label": "Against", "conf": 52, "why": "sarcastic 'supposedly electric' jab at unchanged fuel door"},
+  "426": {"label": "Against", "conf": 86, "why": "many problems, charging and price, hasn't surpassed conventional cars"},
+  "429": {"label": "Against", "conf": 78, "why": "pure complaint, range still terrible"},
+  "433": {"label": "Against", "conf": 80, "why": "debunks the green claim, pollution just moves upstream"},
+  "436": {"label": "Favor", "conf": 52, "why": "conditional buyer, rejects only the short-range one, implies wanting a capable EV"},
+  "438": {"label": "Favor", "conf": 60, "why": "attacks Sony/Huawei newcomers, defers to specialized EV giants"},
+  "439": {"label": "Against", "conf": 58, "why": "design complaint, EVs are ugly"},
+  "448": {"label": "Favor", "conf": 50, "why": "sets an 800 km purchase bar, engaged buyer talk despite the vacuum-sound gibe"},
+  "451": {"label": "Against", "conf": 88, "why": "flat verdict, EVs are impractical"},
+  "455": {"label": "Favor", "conf": 45, "why": "playful banter about getting rich off EV scrap 💴, opportunity framing"},
+  "458": {"label": "Against", "conf": 55, "why": "complains EVs are always tied to ugliness"},
+  "460": {"label": "Against", "conf": 92, "why": "rusting bankrupt EV plant plus 'glory to oil'"},
+  "470": {"label": "Against", "conf": 66, "why": "market analysis of viability, infrastructure and reliability limits"},
+  "471": {"label": "Favor", "conf": 50, "why": "accepts EVs are the future and engages technically, battery only as caveat"},
+  "487": {"label": "Against", "conf": 70, "why": "predicts EVs die out absent a battery fix"},
+  "489": {"label": "Favor", "conf": 72, "why": "explicitly credits Tesla service and EV maintenance advantages despite charging drawback"}
+}

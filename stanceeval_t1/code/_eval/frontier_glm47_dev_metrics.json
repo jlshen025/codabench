@@ -1,0 +1,25 @@
+{
+  "model": "zai-glm-4.7",
+  "n": 619,
+  "reasoning": "none",
+  "runtime_sec": 791.2,
+  "pooled_Favg2": 0.0,
+  "pooled_Favg3": 5.8,
+  "per_target": {
+    "Women empowerment": {
+      "Favg2": 0.0,
+      "Favg3": 3.32,
+      "n": 210
+    },
+    "Digital Transformation": {
+      "Favg2": 0.0,
+      "Favg3": 6.52,
+      "n": 203
+    },
+    "Covid Vaccine": {
+      "Favg2": 0.0,
+      "Favg3": 7.47,
+      "n": 206
+    }
+  }
+}

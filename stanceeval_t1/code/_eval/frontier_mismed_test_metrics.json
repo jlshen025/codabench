@@ -1,0 +1,6 @@
+{
+  "model": "mistral-medium",
+  "n": 352,
+  "reasoning": "none",
+  "runtime_sec": 21.8
+}

@@ -1,0 +1,18 @@
+{
+"525": {
+"label": "Favor",
+"conf": 80
+},
+"579": {
+"label": "Favor",
+"conf": 75
+},
+"378": {
+"label": "Against",
+"conf": 85
+},
+"572": {
+"label": "Against",
+"conf": 70
+}
+}

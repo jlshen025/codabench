@@ -1,0 +1,4 @@
+[provider] gemini-3.6-flash -> 1 chat leg(s): ['https://generativelanguage.googleapis.com/v1beta/openai/']
+[cfg] model=gemini-3.6-flash n=20 order=file batch=10 reasoning=none samples=1 temp=0.7
+  sample 1/1 done
+[RESULT] {"model": "gemini-3.6-flash", "n": 20, "reasoning": "none", "runtime_sec": 13.0}

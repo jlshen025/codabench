@@ -1,0 +1,1668 @@
+{
+ "model": "claude-opus-5",
+ "target": "Ecars",
+ "pool": "all",
+ "n": 332,
+ "res": {
+  "312": {
+   "verdict": "NEUTRAL",
+   "conf": 70,
+   "aimed_at": "observational market description"
+  },
+  "313": {
+   "verdict": "NEUTRAL",
+   "conf": 60,
+   "aimed_at": "balanced resigned acceptance"
+  },
+  "314": {
+   "verdict": "NEUTRAL",
+   "conf": 65,
+   "aimed_at": "casual prediction"
+  },
+  "315": {
+   "verdict": "NEGATIVE",
+   "conf": 75,
+   "aimed_at": "\"narrow door\" disappointment emoji"
+  },
+  "316": {
+   "verdict": "NEUTRAL",
+   "conf": 60,
+   "aimed_at": "informational industry news"
+  },
+  "317": {
+   "verdict": "NEGATIVE",
+   "conf": 80,
+   "aimed_at": "mocking unrealistic timeline"
+  },
+  "318": {
+   "verdict": "NEGATIVE",
+   "conf": 65,
+   "aimed_at": "mockery of conspiracy talk"
+  },
+  "319": {
+   "verdict": "POSITIVE",
+   "conf": 90,
+   "aimed_at": "praise for president's promise"
+  },
+  "320": {
+   "verdict": "NEUTRAL",
+   "conf": 65,
+   "aimed_at": "speculative delay commentary"
+  },
+  "321": {
+   "verdict": "POSITIVE",
+   "conf": 60,
+   "aimed_at": "playful admiring joke"
+  },
+  "322": {
+   "verdict": "POSITIVE",
+   "conf": 70,
+   "aimed_at": "proud announcement framing"
+  },
+  "323": {
+   "verdict": "POSITIVE",
+   "conf": 85,
+   "aimed_at": "\"ma sha Allah\" approval"
+  },
+  "324": {
+   "verdict": "NEGATIVE",
+   "conf": 85,
+   "aimed_at": "sarcastic insult buyers"
+  },
+  "325": {
+   "verdict": "NEGATIVE",
+   "conf": 70,
+   "aimed_at": "fear of repeated failure"
+  },
+  "326": {
+   "verdict": "NEGATIVE",
+   "conf": 90,
+   "aimed_at": "mockery insult donkeys"
+  },
+  "327": {
+   "verdict": "NEGATIVE",
+   "conf": 95,
+   "aimed_at": "ridicule accusations theft"
+  },
+  "328": {
+   "verdict": "POSITIVE",
+   "conf": 90,
+   "aimed_at": "celebratory pride Egypt"
+  },
+  "329": {
+   "verdict": "POSITIVE",
+   "conf": 90,
+   "aimed_at": "praise plan long-live"
+  },
+  "330": {
+   "verdict": "NEGATIVE",
+   "conf": 75,
+   "aimed_at": "complaint lacking entrepreneurs"
+  },
+  "331": {
+   "verdict": "NEGATIVE",
+   "conf": 55,
+   "aimed_at": "dismissive denial"
+  },
+  "332": {
+   "verdict": "NEGATIVE",
+   "conf": 70,
+   "aimed_at": "sarcastic belittling remark"
+  },
+  "333": {
+   "verdict": "POSITIVE",
+   "conf": 65,
+   "aimed_at": "praise Vietnamese achievement"
+  },
+  "334": {
+   "verdict": "POSITIVE",
+   "conf": 65,
+   "aimed_at": "hopeful personal intent"
+  },
+  "335": {
+   "verdict": "POSITIVE",
+   "conf": 60,
+   "aimed_at": "admiration investment enthusiasm"
+  },
+  "336": {
+   "verdict": "NEGATIVE",
+   "conf": 75,
+   "aimed_at": "criticism of wrong policies"
+  },
+  "337": {
+   "verdict": "POSITIVE",
+   "conf": 85,
+   "aimed_at": "pride in achievements"
+  },
+  "338": {
+   "verdict": "NEGATIVE",
+   "conf": 70,
+   "aimed_at": "criticizes unacceptable attacking style"
+  },
+  "339": {
+   "verdict": "POSITIVE",
+   "conf": 65,
+   "aimed_at": "optimistic about cheaper batteries"
+  },
+  "340": {
+   "verdict": "NEGATIVE",
+   "conf": 70,
+   "aimed_at": "regrets ended Egyptian project"
+  },
+  "341": {
+   "verdict": "NEGATIVE",
+   "conf": 60,
+   "aimed_at": "mocking laughter tone"
+  },
+  "342": {
+   "verdict": "NEGATIVE",
+   "conf": 65,
+   "aimed_at": "mockery of rival"
+  },
+  "343": {
+   "verdict": "NEUTRAL",
+   "conf": 75,
+   "aimed_at": "simple question"
+  },
+  "344": {
+   "verdict": "POSITIVE",
+   "conf": 70,
+   "aimed_at": "idea worthy of appreciation"
+  },
+  "345": {
+   "verdict": "NEUTRAL",
+   "conf": 60,
+   "aimed_at": "informational news framing"
+  },
+  "346": {
+   "verdict": "NEGATIVE",
+   "conf": 65,
+   "aimed_at": "argumentative accusing ignorance"
+  },
+  "347": {
+   "verdict": "POSITIVE",
+   "conf": 60,
+   "aimed_at": "praises nice article"
+  },
+  "348": {
+   "verdict": "NEGATIVE",
+   "conf": 60,
+   "aimed_at": "dismisses electric car viability"
+  },
+  "349": {
+   "verdict": "NEUTRAL",
+   "conf": 65,
+   "aimed_at": "questioning clarification"
+  },
+  "350": {
+   "verdict": "NEGATIVE",
+   "conf": 85,
+   "aimed_at": "charging problem, doubts success"
+  },
+  "351": {
+   "verdict": "POSITIVE",
+   "conf": 85,
+   "aimed_at": "praises electric car qualities"
+  },
+  "352": {
+   "verdict": "NEUTRAL",
+   "conf": 70,
+   "aimed_at": "describing target segment"
+  },
+  "353": {
+   "verdict": "POSITIVE",
+   "conf": 60,
+   "aimed_at": "tax exemptions, free charging"
+  },
+  "354": {
+   "verdict": "POSITIVE",
+   "conf": 65,
+   "aimed_at": "growth good news framing"
+  },
+  "355": {
+   "verdict": "NEUTRAL",
+   "conf": 85,
+   "aimed_at": "warranty inquiry"
+  },
+  "356": {
+   "verdict": "NEUTRAL",
+   "conf": 70,
+   "aimed_at": "industry news report"
+  },
+  "357": {
+   "verdict": "POSITIVE",
+   "conf": 60,
+   "aimed_at": "agreement, hopeful anticipation"
+  },
+  "358": {
+   "verdict": "POSITIVE",
+   "conf": 85,
+   "aimed_at": "pride in Lucid"
+  },
+  "359": {
+   "verdict": "NEGATIVE",
+   "conf": 90,
+   "aimed_at": "predicts utter failure"
+  },
+  "360": {
+   "verdict": "NEUTRAL",
+   "conf": 55,
+   "aimed_at": "notes nobody discussed it"
+  },
+  "361": {
+   "verdict": "NEUTRAL",
+   "conf": 85,
+   "aimed_at": "poll question"
+  },
+  "362": {
+   "verdict": "NEGATIVE",
+   "conf": 75,
+   "aimed_at": "price barrier concern"
+  },
+  "363": {
+   "verdict": "NEUTRAL",
+   "conf": 70,
+   "aimed_at": "linguistic etymology musing"
+  },
+  "364": {
+   "verdict": "POSITIVE",
+   "conf": 90,
+   "aimed_at": "praises attractive car"
+  },
+  "365": {
+   "verdict": "NEGATIVE",
+   "conf": 80,
+   "aimed_at": "questions pointlessness sarcastically"
+  },
+  "366": {
+   "verdict": "NEGATIVE",
+   "conf": 75,
+   "aimed_at": "criticizes empty publicity"
+  },
+  "367": {
+   "verdict": "POSITIVE",
+   "conf": 85,
+   "aimed_at": "hypes promising project"
+  },
+  "368": {
+   "verdict": "NEUTRAL",
+   "conf": 65,
+   "aimed_at": "explains efficiency argument"
+  },
+  "369": {
+   "verdict": "NEGATIVE",
+   "conf": 70,
+   "aimed_at": "calls it marketing ploy"
+  },
+  "370": {
+   "verdict": "NEGATIVE",
+   "conf": 90,
+   "aimed_at": "battery environmental damage"
+  },
+  "371": {
+   "verdict": "NEGATIVE",
+   "conf": 85,
+   "aimed_at": "mocks clean ads"
+  },
+  "372": {
+   "verdict": "NEGATIVE",
+   "conf": 85,
+   "aimed_at": "derides green fanatics"
+  },
+  "373": {
+   "verdict": "NEGATIVE",
+   "conf": 90,
+   "aimed_at": "calls believers fools"
+  },
+  "374": {
+   "verdict": "NEGATIVE",
+   "conf": 60,
+   "aimed_at": "asks about defects"
+  },
+  "375": {
+   "verdict": "POSITIVE",
+   "conf": 85,
+   "aimed_at": "admires showcased cars"
+  },
+  "376": {
+   "verdict": "NEGATIVE",
+   "conf": 55,
+   "aimed_at": "flat denial"
+  },
+  "377": {
+   "verdict": "POSITIVE",
+   "conf": 70,
+   "aimed_at": "future car optimism"
+  },
+  "378": {
+   "verdict": "NEGATIVE",
+   "conf": 65,
+   "aimed_at": "exemption cuts complaint"
+  },
+  "379": {
+   "verdict": "NEUTRAL",
+   "conf": 70,
+   "aimed_at": "factual no fuel tank"
+  },
+  "380": {
+   "verdict": "POSITIVE",
+   "conf": 85,
+   "aimed_at": "desire to buy"
+  },
+  "381": {
+   "verdict": "POSITIVE",
+   "conf": 80,
+   "aimed_at": "amazed world changing"
+  },
+  "382": {
+   "verdict": "POSITIVE",
+   "conf": 70,
+   "aimed_at": "hopeful tech solution"
+  },
+  "383": {
+   "verdict": "POSITIVE",
+   "conf": 70,
+   "aimed_at": "reassuring charging advice"
+  },
+  "384": {
+   "verdict": "NEGATIVE",
+   "conf": 80,
+   "aimed_at": "annoyed exaggeration criticism"
+  },
+  "385": {
+   "verdict": "NEGATIVE",
+   "conf": 75,
+   "aimed_at": "questions pricing justification"
+  },
+  "386": {
+   "verdict": "POSITIVE",
+   "conf": 90,
+   "aimed_at": "praises perseverance success"
+  },
+  "387": {
+   "verdict": "NEGATIVE",
+   "conf": 72,
+   "aimed_at": "rejects electric cars"
+  },
+  "388": {
+   "verdict": "POSITIVE",
+   "conf": 70,
+   "aimed_at": "expresses desire to buy"
+  },
+  "389": {
+   "verdict": "POSITIVE",
+   "conf": 88,
+   "aimed_at": "excited praise, wow"
+  },
+  "390": {
+   "verdict": "POSITIVE",
+   "conf": 65,
+   "aimed_at": "impressed amusement at Germans"
+  },
+  "391": {
+   "verdict": "NEUTRAL",
+   "conf": 60,
+   "aimed_at": "reflective rhetorical questions"
+  },
+  "392": {
+   "verdict": "NEGATIVE",
+   "conf": 85,
+   "aimed_at": "denies savings, environmental benefit"
+  },
+  "393": {
+   "verdict": "NEUTRAL",
+   "conf": 65,
+   "aimed_at": "informational about motivation"
+  },
+  "394": {
+   "verdict": "NEUTRAL",
+   "conf": 88,
+   "aimed_at": "news headline"
+  },
+  "395": {
+   "verdict": "NEUTRAL",
+   "conf": 75,
+   "aimed_at": "informational coin listing"
+  },
+  "396": {
+   "verdict": "NEGATIVE",
+   "conf": 70,
+   "aimed_at": "mocking, was blocked"
+  },
+  "397": {
+   "verdict": "POSITIVE",
+   "conf": 65,
+   "aimed_at": "hopeful request, flowers"
+  },
+  "398": {
+   "verdict": "POSITIVE",
+   "conf": 85,
+   "aimed_at": "enjoyable enriching discussion"
+  },
+  "399": {
+   "verdict": "POSITIVE",
+   "conf": 80,
+   "aimed_at": "optimistic sales success"
+  },
+  "400": {
+   "verdict": "NEGATIVE",
+   "conf": 55,
+   "aimed_at": "cost cited as obstacle"
+  },
+  "401": {
+   "verdict": "NEGATIVE",
+   "conf": 80,
+   "aimed_at": "sarcastic national comparison"
+  },
+  "402": {
+   "verdict": "NEUTRAL",
+   "conf": 85,
+   "aimed_at": "import regulation question"
+  },
+  "403": {
+   "verdict": "NEUTRAL",
+   "conf": 88,
+   "aimed_at": "import permission question"
+  },
+  "404": {
+   "verdict": "NEUTRAL",
+   "conf": 90,
+   "aimed_at": "plain product statement"
+  },
+  "405": {
+   "verdict": "NEGATIVE",
+   "conf": 85,
+   "aimed_at": "laments backwardness, sad"
+  },
+  "406": {
+   "verdict": "NEGATIVE",
+   "conf": 92,
+   "aimed_at": "accuses Erdogan of fakery"
+  },
+  "407": {
+   "verdict": "NEUTRAL",
+   "conf": 60,
+   "aimed_at": "hypothetical policy with data"
+  },
+  "408": {
+   "verdict": "NEUTRAL",
+   "conf": 85,
+   "aimed_at": "price inquiry"
+  },
+  "409": {
+   "verdict": "NEGATIVE",
+   "conf": 55,
+   "aimed_at": "admires but price unaffordable"
+  },
+  "410": {
+   "verdict": "POSITIVE",
+   "conf": 90,
+   "aimed_at": "praises German genius"
+  },
+  "411": {
+   "verdict": "POSITIVE",
+   "conf": 80,
+   "aimed_at": "admires beautiful design"
+  },
+  "412": {
+   "verdict": "POSITIVE",
+   "conf": 70,
+   "aimed_at": "optimism about price parity"
+  },
+  "413": {
+   "verdict": "POSITIVE",
+   "conf": 65,
+   "aimed_at": "touts battery advantages"
+  },
+  "414": {
+   "verdict": "POSITIVE",
+   "conf": 85,
+   "aimed_at": "enthusiastic investment advice"
+  },
+  "415": {
+   "verdict": "NEUTRAL",
+   "conf": 75,
+   "aimed_at": "reports agreement factually"
+  },
+  "416": {
+   "verdict": "NEGATIVE",
+   "conf": 80,
+   "aimed_at": "expresses fear of change"
+  },
+  "417": {
+   "verdict": "NEGATIVE",
+   "conf": 75,
+   "aimed_at": "mocking sarcastic challenge"
+  },
+  "418": {
+   "verdict": "NEUTRAL",
+   "conf": 70,
+   "aimed_at": "descriptive concept explanation"
+  },
+  "419": {
+   "verdict": "POSITIVE",
+   "conf": 80,
+   "aimed_at": "confident winning investments"
+  },
+  "420": {
+   "verdict": "NEGATIVE",
+   "conf": 90,
+   "aimed_at": "calls looks terrible"
+  },
+  "421": {
+   "verdict": "POSITIVE",
+   "conf": 90,
+   "aimed_at": "great love for progress"
+  },
+  "422": {
+   "verdict": "NEGATIVE",
+   "conf": 90,
+   "aimed_at": "charging waits, useless verdict"
+  },
+  "423": {
+   "verdict": "NEGATIVE",
+   "conf": 70,
+   "aimed_at": "skeptical of claim"
+  },
+  "424": {
+   "verdict": "NEGATIVE",
+   "conf": 60,
+   "aimed_at": "predicts eroding market share"
+  },
+  "425": {
+   "verdict": "NEGATIVE",
+   "conf": 85,
+   "aimed_at": "accuses greedy selfish traders"
+  },
+  "426": {
+   "verdict": "NEGATIVE",
+   "conf": 90,
+   "aimed_at": "many problems, expensive"
+  },
+  "427": {
+   "verdict": "POSITIVE",
+   "conf": 80,
+   "aimed_at": "praises best electric car"
+  },
+  "428": {
+   "verdict": "NEGATIVE",
+   "conf": 85,
+   "aimed_at": "calls it illusion"
+  },
+  "429": {
+   "verdict": "NEGATIVE",
+   "conf": 85,
+   "aimed_at": "range still very poor"
+  },
+  "430": {
+   "verdict": "POSITIVE",
+   "conf": 80,
+   "aimed_at": "ambitious industrial aspiration"
+  },
+  "431": {
+   "verdict": "POSITIVE",
+   "conf": 85,
+   "aimed_at": "admiration and praise"
+  },
+  "432": {
+   "verdict": "NEGATIVE",
+   "conf": 60,
+   "aimed_at": "distrustful questioning of companies"
+  },
+  "433": {
+   "verdict": "NEGATIVE",
+   "conf": 75,
+   "aimed_at": "doubts pollution solution"
+  },
+  "434": {
+   "verdict": "POSITIVE",
+   "conf": 70,
+   "aimed_at": "strong competitor, minor caveat"
+  },
+  "435": {
+   "verdict": "POSITIVE",
+   "conf": 75,
+   "aimed_at": "hopeful local production proposal"
+  },
+  "436": {
+   "verdict": "NEGATIVE",
+   "conf": 80,
+   "aimed_at": "rejects insufficient range"
+  },
+  "437": {
+   "verdict": "NEGATIVE",
+   "conf": 70,
+   "aimed_at": "predicts Tesla will lose"
+  },
+  "438": {
+   "verdict": "NEGATIVE",
+   "conf": 65,
+   "aimed_at": "doubts consumer willingness"
+  },
+  "439": {
+   "verdict": "NEGATIVE",
+   "conf": 85,
+   "aimed_at": "calls EVs ugly"
+  },
+  "440": {
+   "verdict": "POSITIVE",
+   "conf": 75,
+   "aimed_at": "enthusiastic development plans"
+  },
+  "441": {
+   "verdict": "NEUTRAL",
+   "conf": 75,
+   "aimed_at": "asking for recommendations"
+  },
+  "442": {
+   "verdict": "NEUTRAL",
+   "conf": 70,
+   "aimed_at": "informational about resources"
+  },
+  "443": {
+   "verdict": "POSITIVE",
+   "conf": 70,
+   "aimed_at": "hopeful domestic production"
+  },
+  "444": {
+   "verdict": "POSITIVE",
+   "conf": 95,
+   "aimed_at": "expresses pride, applause"
+  },
+  "445": {
+   "verdict": "NEUTRAL",
+   "conf": 85,
+   "aimed_at": "informational investor news"
+  },
+  "446": {
+   "verdict": "POSITIVE",
+   "conf": 70,
+   "aimed_at": "defends China, predicts success"
+  },
+  "447": {
+   "verdict": "POSITIVE",
+   "conf": 75,
+   "aimed_at": "praises Morocco's key role"
+  },
+  "448": {
+   "verdict": "NEGATIVE",
+   "conf": 85,
+   "aimed_at": "dismisses EVs as unfit"
+  },
+  "449": {
+   "verdict": "POSITIVE",
+   "conf": 80,
+   "aimed_at": "admiring Tesla, motivational"
+  },
+  "450": {
+   "verdict": "POSITIVE",
+   "conf": 60,
+   "aimed_at": "desire for European-spec EVs"
+  },
+  "451": {
+   "verdict": "NEGATIVE",
+   "conf": 85,
+   "aimed_at": "calls EVs impractical"
+  },
+  "452": {
+   "verdict": "NEUTRAL",
+   "conf": 60,
+   "aimed_at": "plain descriptive remark"
+  },
+  "453": {
+   "verdict": "POSITIVE",
+   "conf": 60,
+   "aimed_at": "optimistic about EV options"
+  },
+  "454": {
+   "verdict": "NEUTRAL",
+   "conf": 55,
+   "aimed_at": "balanced practical assessment"
+  },
+  "455": {
+   "verdict": "POSITIVE",
+   "conf": 55,
+   "aimed_at": "joking laughter tone"
+  },
+  "456": {
+   "verdict": "NEGATIVE",
+   "conf": 60,
+   "aimed_at": "complains prices, battery limits"
+  },
+  "457": {
+   "verdict": "NEUTRAL",
+   "conf": 65,
+   "aimed_at": "reports bankruptcy factually"
+  },
+  "458": {
+   "verdict": "NEGATIVE",
+   "conf": 80,
+   "aimed_at": "complains EVs always ugly"
+  },
+  "459": {
+   "verdict": "NEUTRAL",
+   "conf": 75,
+   "aimed_at": "explains Tesla's success factors"
+  },
+  "460": {
+   "verdict": "NEGATIVE",
+   "conf": 80,
+   "aimed_at": "mocks EVs, laments thieves"
+  },
+  "461": {
+   "verdict": "NEGATIVE",
+   "conf": 70,
+   "aimed_at": "blames dealers withholding cars"
+  },
+  "462": {
+   "verdict": "NEGATIVE",
+   "conf": 70,
+   "aimed_at": "worries about competition"
+  },
+  "463": {
+   "verdict": "NEGATIVE",
+   "conf": 72,
+   "aimed_at": "mocks pessimistic critic"
+  },
+  "464": {
+   "verdict": "NEUTRAL",
+   "conf": 65,
+   "aimed_at": "projection of statistics"
+  },
+  "465": {
+   "verdict": "POSITIVE",
+   "conf": 70,
+   "aimed_at": "hopes unique capabilities"
+  },
+  "466": {
+   "verdict": "POSITIVE",
+   "conf": 60,
+   "aimed_at": "suggests constructive investment"
+  },
+  "467": {
+   "verdict": "POSITIVE",
+   "conf": 65,
+   "aimed_at": "hopeful demand for progress"
+  },
+  "468": {
+   "verdict": "POSITIVE",
+   "conf": 90,
+   "aimed_at": "likes the design"
+  },
+  "469": {
+   "verdict": "POSITIVE",
+   "conf": 85,
+   "aimed_at": "ambitious investment pledge"
+  },
+  "470": {
+   "verdict": "NEGATIVE",
+   "conf": 75,
+   "aimed_at": "doubts feasibility, infrastructure"
+  },
+  "471": {
+   "verdict": "NEGATIVE",
+   "conf": 70,
+   "aimed_at": "battery is weak point"
+  },
+  "472": {
+   "verdict": "NEGATIVE",
+   "conf": 65,
+   "aimed_at": "invention killed EVs"
+  },
+  "473": {
+   "verdict": "NEGATIVE",
+   "conf": 65,
+   "aimed_at": "battery obstacle, high price"
+  },
+  "474": {
+   "verdict": "NEGATIVE",
+   "conf": 60,
+   "aimed_at": "criticizes legacy automakers' mentality"
+  },
+  "475": {
+   "verdict": "POSITIVE",
+   "conf": 80,
+   "aimed_at": "competition lowers prices"
+  },
+  "476": {
+   "verdict": "POSITIVE",
+   "conf": 70,
+   "aimed_at": "anticipates market dominance"
+  },
+  "477": {
+   "verdict": "NEUTRAL",
+   "conf": 60,
+   "aimed_at": "reports production shift"
+  },
+  "478": {
+   "verdict": "POSITIVE",
+   "conf": 92,
+   "aimed_at": "calls it beautiful"
+  },
+  "479": {
+   "verdict": "POSITIVE",
+   "conf": 92,
+   "aimed_at": "likes first EV"
+  },
+  "480": {
+   "verdict": "POSITIVE",
+   "conf": 60,
+   "aimed_at": "praises expected production"
+  },
+  "481": {
+   "verdict": "POSITIVE",
+   "conf": 75,
+   "aimed_at": "finds design beautiful"
+  },
+  "482": {
+   "verdict": "NEUTRAL",
+   "conf": 70,
+   "aimed_at": "historical explanation"
+  },
+  "483": {
+   "verdict": "NEGATIVE",
+   "conf": 85,
+   "aimed_at": "sadness, distrust of official"
+  },
+  "484": {
+   "verdict": "POSITIVE",
+   "conf": 70,
+   "aimed_at": "enjoyable thread, hopeful reliability"
+  },
+  "485": {
+   "verdict": "NEGATIVE",
+   "conf": 60,
+   "aimed_at": "negative impact on stations"
+  },
+  "486": {
+   "verdict": "POSITIVE",
+   "conf": 55,
+   "aimed_at": "amazed exclamation"
+  },
+  "487": {
+   "verdict": "NEGATIVE",
+   "conf": 72,
+   "aimed_at": "predicts demise, battery problem"
+  },
+  "488": {
+   "verdict": "POSITIVE",
+   "conf": 85,
+   "aimed_at": "praises home-charging convenience"
+  },
+  "489": {
+   "verdict": "NEGATIVE",
+   "conf": 65,
+   "aimed_at": "highlights charging drawback"
+  },
+  "490": {
+   "verdict": "NEUTRAL",
+   "conf": 80,
+   "aimed_at": "valuation question, analytical"
+  },
+  "491": {
+   "verdict": "POSITIVE",
+   "conf": 75,
+   "aimed_at": "expects them to excel"
+  },
+  "492": {
+   "verdict": "POSITIVE",
+   "conf": 82,
+   "aimed_at": "record high, optimism"
+  },
+  "493": {
+   "verdict": "POSITIVE",
+   "conf": 70,
+   "aimed_at": "thanks, praises nice discussion"
+  },
+  "494": {
+   "verdict": "NEGATIVE",
+   "conf": 88,
+   "aimed_at": "absent vision, faltering execution"
+  },
+  "495": {
+   "verdict": "NEGATIVE",
+   "conf": 60,
+   "aimed_at": "criticizes Mercedes design"
+  },
+  "496": {
+   "verdict": "NEUTRAL",
+   "conf": 60,
+   "aimed_at": "describes charger size"
+  },
+  "497": {
+   "verdict": "POSITIVE",
+   "conf": 70,
+   "aimed_at": "admires Tesla's AI strength"
+  },
+  "498": {
+   "verdict": "NEGATIVE",
+   "conf": 92,
+   "aimed_at": "mockery, accuses idea-stealing"
+  },
+  "499": {
+   "verdict": "NEGATIVE",
+   "conf": 55,
+   "aimed_at": "worry about spending money"
+  },
+  "500": {
+   "verdict": "NEUTRAL",
+   "conf": 75,
+   "aimed_at": "asks licensing question"
+  },
+  "501": {
+   "verdict": "NEUTRAL",
+   "conf": 65,
+   "aimed_at": "comparative production statement"
+  },
+  "502": {
+   "verdict": "POSITIVE",
+   "conf": 68,
+   "aimed_at": "admiring spec description"
+  },
+  "503": {
+   "verdict": "NEUTRAL",
+   "conf": 55,
+   "aimed_at": "suggests changing token"
+  },
+  "504": {
+   "verdict": "POSITIVE",
+   "conf": 62,
+   "aimed_at": "copper wealth opportunity"
+  },
+  "505": {
+   "verdict": "NEUTRAL",
+   "conf": 58,
+   "aimed_at": "historical claim"
+  },
+  "506": {
+   "verdict": "NEGATIVE",
+   "conf": 60,
+   "aimed_at": "puzzled, finds it strange"
+  },
+  "507": {
+   "verdict": "NEUTRAL",
+   "conf": 85,
+   "aimed_at": "plain informational note"
+  },
+  "508": {
+   "verdict": "POSITIVE",
+   "conf": 90,
+   "aimed_at": "admiration, respect for leap"
+  },
+  "509": {
+   "verdict": "NEUTRAL",
+   "conf": 50,
+   "aimed_at": "mentions Chinese EVs"
+  },
+  "510": {
+   "verdict": "NEGATIVE",
+   "conf": 65,
+   "aimed_at": "complaint about exhausting ride"
+  },
+  "511": {
+   "verdict": "POSITIVE",
+   "conf": 72,
+   "aimed_at": "praises low maintenance"
+  },
+  "512": {
+   "verdict": "POSITIVE",
+   "conf": 88,
+   "aimed_at": "praise historic win"
+  },
+  "513": {
+   "verdict": "NEGATIVE",
+   "conf": 85,
+   "aimed_at": "criticizes weak offerings"
+  },
+  "514": {
+   "verdict": "POSITIVE",
+   "conf": 85,
+   "aimed_at": "historic win praised"
+  },
+  "515": {
+   "verdict": "POSITIVE",
+   "conf": 80,
+   "aimed_at": "claims clear superiority"
+  },
+  "516": {
+   "verdict": "NEGATIVE",
+   "conf": 65,
+   "aimed_at": "mocking dismissive tone"
+  },
+  "517": {
+   "verdict": "POSITIVE",
+   "conf": 65,
+   "aimed_at": "optimistic about industry"
+  },
+  "518": {
+   "verdict": "NEGATIVE",
+   "conf": 88,
+   "aimed_at": "complains lost prestige"
+  },
+  "519": {
+   "verdict": "NEUTRAL",
+   "conf": 60,
+   "aimed_at": "analytical market commentary"
+  },
+  "520": {
+   "verdict": "NEUTRAL",
+   "conf": 60,
+   "aimed_at": "balanced urban suggestion"
+  },
+  "521": {
+   "verdict": "NEUTRAL",
+   "conf": 70,
+   "aimed_at": "asking investment question"
+  },
+  "522": {
+   "verdict": "NEGATIVE",
+   "conf": 65,
+   "aimed_at": "doubt, prefers Toyota"
+  },
+  "523": {
+   "verdict": "NEUTRAL",
+   "conf": 65,
+   "aimed_at": "speculative question"
+  },
+  "524": {
+   "verdict": "NEGATIVE",
+   "conf": 80,
+   "aimed_at": "frustration facepalm emoji"
+  },
+  "525": {
+   "verdict": "NEUTRAL",
+   "conf": 70,
+   "aimed_at": "technical explanation"
+  },
+  "526": {
+   "verdict": "NEGATIVE",
+   "conf": 70,
+   "aimed_at": "bubble skepticism"
+  },
+  "527": {
+   "verdict": "NEGATIVE",
+   "conf": 70,
+   "aimed_at": "withdrawal battery problem"
+  },
+  "528": {
+   "verdict": "POSITIVE",
+   "conf": 60,
+   "aimed_at": "admiring big talk"
+  },
+  "529": {
+   "verdict": "NEGATIVE",
+   "conf": 60,
+   "aimed_at": "dismissive sarcasm"
+  },
+  "530": {
+   "verdict": "NEGATIVE",
+   "conf": 70,
+   "aimed_at": "worry about rain"
+  },
+  "531": {
+   "verdict": "NEGATIVE",
+   "conf": 70,
+   "aimed_at": "mocking claims"
+  },
+  "532": {
+   "verdict": "NEGATIVE",
+   "conf": 92,
+   "aimed_at": "angry lament backwardness"
+  },
+  "533": {
+   "verdict": "POSITIVE",
+   "conf": 75,
+   "aimed_at": "hopeful local manufacturing"
+  },
+  "534": {
+   "verdict": "POSITIVE",
+   "conf": 60,
+   "aimed_at": "pleasant reading recommendation"
+  },
+  "535": {
+   "verdict": "NEGATIVE",
+   "conf": 65,
+   "aimed_at": "criticizes decline, hopeful return"
+  },
+  "536": {
+   "verdict": "POSITIVE",
+   "conf": 60,
+   "aimed_at": "hopeful new platform"
+  },
+  "537": {
+   "verdict": "NEUTRAL",
+   "conf": 70,
+   "aimed_at": "question seeking advice"
+  },
+  "538": {
+   "verdict": "POSITIVE",
+   "conf": 65,
+   "aimed_at": "desires quality affordable cars"
+  },
+  "539": {
+   "verdict": "NEUTRAL",
+   "conf": 90,
+   "aimed_at": "bare topic mention"
+  },
+  "540": {
+   "verdict": "POSITIVE",
+   "conf": 75,
+   "aimed_at": "praise despite mild disappointment"
+  },
+  "541": {
+   "verdict": "NEUTRAL",
+   "conf": 90,
+   "aimed_at": "factual description"
+  },
+  "542": {
+   "verdict": "NEUTRAL",
+   "conf": 85,
+   "aimed_at": "technical explanation"
+  },
+  "543": {
+   "verdict": "NEGATIVE",
+   "conf": 60,
+   "aimed_at": "mocking flooding remark"
+  },
+  "544": {
+   "verdict": "POSITIVE",
+   "conf": 85,
+   "aimed_at": "calls experience wonderful"
+  },
+  "545": {
+   "verdict": "NEGATIVE",
+   "conf": 60,
+   "aimed_at": "price and low demand"
+  },
+  "546": {
+   "verdict": "NEUTRAL",
+   "conf": 85,
+   "aimed_at": "plain question"
+  },
+  "547": {
+   "verdict": "POSITIVE",
+   "conf": 75,
+   "aimed_at": "favorable trend framing"
+  },
+  "548": {
+   "verdict": "POSITIVE",
+   "conf": 85,
+   "aimed_at": "praise and optimism"
+  },
+  "549": {
+   "verdict": "POSITIVE",
+   "conf": 90,
+   "aimed_at": "explicitly happy news"
+  },
+  "550": {
+   "verdict": "POSITIVE",
+   "conf": 90,
+   "aimed_at": "enthusiastic recommendation"
+  },
+  "551": {
+   "verdict": "NEUTRAL",
+   "conf": 80,
+   "aimed_at": "practical charging instructions"
+  },
+  "552": {
+   "verdict": "POSITIVE",
+   "conf": 70,
+   "aimed_at": "optimistic consumer preference"
+  },
+  "553": {
+   "verdict": "NEGATIVE",
+   "conf": 90,
+   "aimed_at": "anger at regimes"
+  },
+  "554": {
+   "verdict": "NEGATIVE",
+   "conf": 90,
+   "aimed_at": "mockery and disappointment"
+  },
+  "555": {
+   "verdict": "NEUTRAL",
+   "conf": 60,
+   "aimed_at": "measured market analysis"
+  },
+  "556": {
+   "verdict": "POSITIVE",
+   "conf": 75,
+   "aimed_at": "praises cleanliness benefit"
+  },
+  "557": {
+   "verdict": "NEGATIVE",
+   "conf": 85,
+   "aimed_at": "calls marketing failed"
+  },
+  "558": {
+   "verdict": "NEGATIVE",
+   "conf": 95,
+   "aimed_at": "declares cars failures"
+  },
+  "559": {
+   "verdict": "NEGATIVE",
+   "conf": 80,
+   "aimed_at": "bubble overvaluation distrust"
+  },
+  "560": {
+   "verdict": "NEGATIVE",
+   "conf": 95,
+   "aimed_at": "failed project claim"
+  },
+  "561": {
+   "verdict": "POSITIVE",
+   "conf": 85,
+   "aimed_at": "excited about rapid progress"
+  },
+  "562": {
+   "verdict": "POSITIVE",
+   "conf": 70,
+   "aimed_at": "good news growth framing"
+  },
+  "563": {
+   "verdict": "NEGATIVE",
+   "conf": 80,
+   "aimed_at": "lists two big problems"
+  },
+  "564": {
+   "verdict": "POSITIVE",
+   "conf": 65,
+   "aimed_at": "praises range specs"
+  },
+  "565": {
+   "verdict": "POSITIVE",
+   "conf": 85,
+   "aimed_at": "admires amazing acceleration"
+  },
+  "566": {
+   "verdict": "POSITIVE",
+   "conf": 80,
+   "aimed_at": "praises strong performance"
+  },
+  "567": {
+   "verdict": "POSITIVE",
+   "conf": 80,
+   "aimed_at": "driving more comfortable"
+  },
+  "568": {
+   "verdict": "POSITIVE",
+   "conf": 75,
+   "aimed_at": "no maintenance needed"
+  },
+  "569": {
+   "verdict": "POSITIVE",
+   "conf": 70,
+   "aimed_at": "enthusiastic many reasons"
+  },
+  "570": {
+   "verdict": "NEUTRAL",
+   "conf": 85,
+   "aimed_at": "purely descriptive explanation"
+  },
+  "571": {
+   "verdict": "POSITIVE",
+   "conf": 85,
+   "aimed_at": "hopes to encourage sales"
+  },
+  "572": {
+   "verdict": "NEUTRAL",
+   "conf": 60,
+   "aimed_at": "analytical energy competition note"
+  },
+  "573": {
+   "verdict": "NEUTRAL",
+   "conf": 65,
+   "aimed_at": "descriptive sector maturity"
+  },
+  "574": {
+   "verdict": "NEUTRAL",
+   "conf": 60,
+   "aimed_at": "competition question, no tone"
+  },
+  "575": {
+   "verdict": "POSITIVE",
+   "conf": 60,
+   "aimed_at": "blessing plus safety suggestion"
+  },
+  "576": {
+   "verdict": "NEGATIVE",
+   "conf": 80,
+   "aimed_at": "accuses companies of looting"
+  },
+  "577": {
+   "verdict": "POSITIVE",
+   "conf": 60,
+   "aimed_at": "playful optimistic prediction"
+  },
+  "578": {
+   "verdict": "POSITIVE",
+   "conf": 90,
+   "aimed_at": "amazing praise for China"
+  },
+  "579": {
+   "verdict": "NEUTRAL",
+   "conf": 55,
+   "aimed_at": "technical conditional assessment"
+  },
+  "580": {
+   "verdict": "NEUTRAL",
+   "conf": 60,
+   "aimed_at": "informational battery claim"
+  },
+  "581": {
+   "verdict": "NEUTRAL",
+   "conf": 70,
+   "aimed_at": "statistical growth report"
+  },
+  "582": {
+   "verdict": "POSITIVE",
+   "conf": 65,
+   "aimed_at": "sector's time has come"
+  },
+  "583": {
+   "verdict": "NEGATIVE",
+   "conf": 85,
+   "aimed_at": "calls company ridiculous"
+  },
+  "584": {
+   "verdict": "POSITIVE",
+   "conf": 60,
+   "aimed_at": "favorable bet framing"
+  },
+  "585": {
+   "verdict": "NEUTRAL",
+   "conf": 60,
+   "aimed_at": "brief ticker suggestion"
+  },
+  "586": {
+   "verdict": "NEGATIVE",
+   "conf": 90,
+   "aimed_at": "calls design ugly"
+  },
+  "587": {
+   "verdict": "NEGATIVE",
+   "conf": 85,
+   "aimed_at": "complaint about environmental costs"
+  },
+  "588": {
+   "verdict": "NEGATIVE",
+   "conf": 92,
+   "aimed_at": "mocking, doubts infrastructure readiness"
+  },
+  "589": {
+   "verdict": "NEGATIVE",
+   "conf": 82,
+   "aimed_at": "doubts feasibility, environmental harm"
+  },
+  "590": {
+   "verdict": "NEGATIVE",
+   "conf": 85,
+   "aimed_at": "prefers fuel, cites failures"
+  },
+  "591": {
+   "verdict": "NEGATIVE",
+   "conf": 80,
+   "aimed_at": "charging problem complaint"
+  },
+  "592": {
+   "verdict": "NEGATIVE",
+   "conf": 70,
+   "aimed_at": "deems unsuitable for mountains"
+  },
+  "593": {
+   "verdict": "NEGATIVE",
+   "conf": 80,
+   "aimed_at": "against national oil interest"
+  },
+  "594": {
+   "verdict": "NEGATIVE",
+   "conf": 65,
+   "aimed_at": "joking worry about charging"
+  },
+  "595": {
+   "verdict": "NEGATIVE",
+   "conf": 78,
+   "aimed_at": "battery limits, needs time"
+  },
+  "596": {
+   "verdict": "NEGATIVE",
+   "conf": 88,
+   "aimed_at": "calls it an illusion"
+  },
+  "597": {
+   "verdict": "NEGATIVE",
+   "conf": 90,
+   "aimed_at": "predicts failure, many drawbacks"
+  },
+  "598": {
+   "verdict": "NEGATIVE",
+   "conf": 75,
+   "aimed_at": "highlights lithium dangers"
+  },
+  "599": {
+   "verdict": "NEGATIVE",
+   "conf": 85,
+   "aimed_at": "impractical, conspiracy against oil"
+  },
+  "600": {
+   "verdict": "NEGATIVE",
+   "conf": 82,
+   "aimed_at": "impractical remote areas"
+  },
+  "601": {
+   "verdict": "NEGATIVE",
+   "conf": 88,
+   "aimed_at": "costs, maintenance, resale issues"
+  },
+  "602": {
+   "verdict": "NEGATIVE",
+   "conf": 80,
+   "aimed_at": "criticizes bad designs"
+  },
+  "603": {
+   "verdict": "NEGATIVE",
+   "conf": 85,
+   "aimed_at": "predicts impossibility, pollution, cost"
+  },
+  "604": {
+   "verdict": "NEGATIVE",
+   "conf": 80,
+   "aimed_at": "criticizes cartoonish design"
+  },
+  "605": {
+   "verdict": "NEGATIVE",
+   "conf": 75,
+   "aimed_at": "doubts capacity, rising prices"
+  },
+  "606": {
+   "verdict": "NEGATIVE",
+   "conf": 78,
+   "aimed_at": "should be banned from racing"
+  },
+  "607": {
+   "verdict": "NEGATIVE",
+   "conf": 70,
+   "aimed_at": "notes pollution and challenges"
+  },
+  "608": {
+   "verdict": "NEGATIVE",
+   "conf": 72,
+   "aimed_at": "negative urban environmental impacts"
+  },
+  "609": {
+   "verdict": "NEGATIVE",
+   "conf": 88,
+   "aimed_at": "won't succeed, pointless hype"
+  },
+  "610": {
+   "verdict": "NEGATIVE",
+   "conf": 85,
+   "aimed_at": "double pollution complaint"
+  },
+  "611": {
+   "verdict": "NEGATIVE",
+   "conf": 85,
+   "aimed_at": "distrust, accuses political pressure"
+  },
+  "612": {
+   "verdict": "NEGATIVE",
+   "conf": 70,
+   "aimed_at": "revenue decline framing"
+  },
+  "613": {
+   "verdict": "NEGATIVE",
+   "conf": 75,
+   "aimed_at": "sarcasm about electricity shortage"
+  },
+  "614": {
+   "verdict": "NEGATIVE",
+   "conf": 80,
+   "aimed_at": "complaint about infrastructure"
+  },
+  "615": {
+   "verdict": "NEGATIVE",
+   "conf": 90,
+   "aimed_at": "mocking infrastructure failures"
+  },
+  "616": {
+   "verdict": "NEGATIVE",
+   "conf": 85,
+   "aimed_at": "pollution increase criticism"
+  },
+  "617": {
+   "verdict": "NEGATIVE",
+   "conf": 75,
+   "aimed_at": "debunks lower emissions claim"
+  },
+  "618": {
+   "verdict": "NEGATIVE",
+   "conf": 95,
+   "aimed_at": "accusation, deception, danger"
+  },
+  "619": {
+   "verdict": "NEGATIVE",
+   "conf": 92,
+   "aimed_at": "failures, cost, no maintenance"
+  },
+  "620": {
+   "verdict": "NEGATIVE",
+   "conf": 88,
+   "aimed_at": "dissatisfaction, expensive, won't repeat"
+  },
+  "621": {
+   "verdict": "NEGATIVE",
+   "conf": 85,
+   "aimed_at": "crude insult"
+  },
+  "622": {
+   "verdict": "NEGATIVE",
+   "conf": 88,
+   "aimed_at": "performance problems, being deceived"
+  },
+  "623": {
+   "verdict": "NEGATIVE",
+   "conf": 85,
+   "aimed_at": "prices too expensive"
+  },
+  "624": {
+   "verdict": "NEGATIVE",
+   "conf": 85,
+   "aimed_at": "mockery, illogical, discomfort"
+  },
+  "625": {
+   "verdict": "NEGATIVE",
+   "conf": 92,
+   "aimed_at": "failed project"
+  },
+  "626": {
+   "verdict": "NEGATIVE",
+   "conf": 92,
+   "aimed_at": "failed, costly maintenance"
+  },
+  "627": {
+   "verdict": "NEGATIVE",
+   "conf": 70,
+   "aimed_at": "unsuitable for highways/heat"
+  },
+  "628": {
+   "verdict": "NEGATIVE",
+   "conf": 80,
+   "aimed_at": "proven failure versus hydrogen"
+  },
+  "629": {
+   "verdict": "NEGATIVE",
+   "conf": 85,
+   "aimed_at": "costs more, wastes time"
+  },
+  "630": {
+   "verdict": "NEGATIVE",
+   "conf": 55,
+   "aimed_at": "deception yet admiration"
+  },
+  "631": {
+   "verdict": "NEGATIVE",
+   "conf": 85,
+   "aimed_at": "dismissive, keep away"
+  },
+  "632": {
+   "verdict": "NEGATIVE",
+   "conf": 88,
+   "aimed_at": "mockery of forced adoption"
+  },
+  "633": {
+   "verdict": "NEGATIVE",
+   "conf": 85,
+   "aimed_at": "dislike, heat concerns"
+  },
+  "634": {
+   "verdict": "NEGATIVE",
+   "conf": 92,
+   "aimed_at": "biggest lie"
+  },
+  "635": {
+   "verdict": "NEGATIVE",
+   "conf": 90,
+   "aimed_at": "couldn't accept, malfunctions"
+  },
+  "636": {
+   "verdict": "NEGATIVE",
+   "conf": 75,
+   "aimed_at": "sound called psychological problem"
+  },
+  "637": {
+   "verdict": "NEGATIVE",
+   "conf": 88,
+   "aimed_at": "highlights safety danger"
+  },
+  "638": {
+   "verdict": "NEGATIVE",
+   "conf": 82,
+   "aimed_at": "unconvinced, limited options"
+  },
+  "639": {
+   "verdict": "NEGATIVE",
+   "conf": 90,
+   "aimed_at": "calls them weak, unreliable"
+  },
+  "640": {
+   "verdict": "NEGATIVE",
+   "conf": 75,
+   "aimed_at": "bland, unexciting despite acceptance"
+  },
+  "641": {
+   "verdict": "NEGATIVE",
+   "conf": 85,
+   "aimed_at": "mocking buyers' sanity"
+  },
+  "642": {
+   "verdict": "NEGATIVE",
+   "conf": 84,
+   "aimed_at": "charging problems, inexperience"
+  },
+  "643": {
+   "verdict": "NEGATIVE",
+   "conf": 90,
+   "aimed_at": "many problems, expensive"
+  }
+ }
+}

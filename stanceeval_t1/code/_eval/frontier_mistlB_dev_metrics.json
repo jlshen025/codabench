@@ -1,0 +1,25 @@
+{
+  "model": "mistral-large",
+  "n": 619,
+  "reasoning": "none",
+  "runtime_sec": 258.1,
+  "pooled_Favg2": 81.01,
+  "pooled_Favg3": 68.38,
+  "per_target": {
+    "Women empowerment": {
+      "Favg2": 83.46,
+      "Favg3": 71.43,
+      "n": 210
+    },
+    "Digital Transformation": {
+      "Favg2": 71.04,
+      "Favg3": 61.25,
+      "n": 203
+    },
+    "Covid Vaccine": {
+      "Favg2": 81.93,
+      "Favg3": 68.65,
+      "n": 206
+    }
+  }
+}

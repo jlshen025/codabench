@@ -1,0 +1,450 @@
+{
+ "grid": {
+  "protocol": "event-anchored, t_b = onset - 0.25 s, min 2.0 s apart, horizon 2.0 s",
+  "n_sessions": 21,
+  "n_segments": 2591,
+  "n_cells": 5182,
+  "empty_cell_frac": 0.0417,
+  "mean_cell_len": 2.815,
+  "median_cell_len": 3,
+  "dev_grid_n_segments": 127,
+  "dev_grid_n_cells": 254
+ },
+ "pool": {
+  "config": {
+   "n_v": 12,
+   "n_nv": 10,
+   "mix": 5
+  },
+  "n_candidates_total": 147,
+  "by_family": {
+   "empty": 1,
+   "verbal_singleton": 12,
+   "nonverbal_singleton": 10,
+   "mixed_pair": 50,
+   "nonverbal_pair": 20,
+   "nonverbal_repeat": 3,
+   "observed_top25": 20,
+   "observed_modal_per_length": 7,
+   "synthetic_stack": 3,
+   "observed_singleton": 21
+  },
+  "by_length": {
+   "0": 1,
+   "1": 57,
+   "2": 79,
+   "3": 2,
+   "4": 2,
+   "5": 2,
+   "6": 1,
+   "7": 1,
+   "8": 1,
+   "9": 1
+  },
+  "max_length": 9,
+  "frac_len_le_2": 0.932,
+  "modal_verbal_target": "leaflet",
+  "n_events_verbal": 76,
+  "verbal_modes": [
+   [
+    "positive_acknowledgement",
+    "leaflet"
+   ],
+   [
+    "declare_step",
+    "leaflet"
+   ],
+   [
+    "other_acknowledgement",
+    "leaflet"
+   ],
+   [
+    "express_observation",
+    "leaflet"
+   ],
+   [
+    "declare_selection",
+    "leaflet"
+   ],
+   [
+    "seek_confirmation",
+    "leaflet"
+   ],
+   [
+    "express_other",
+    "leaflet"
+   ],
+   [
+    "explain",
+    "leaflet"
+   ],
+   [
+    "clarify",
+    "leaflet"
+   ],
+   [
+    "draw_attention",
+    "leaflet"
+   ],
+   [
+    "discuss",
+    "leaflet"
+   ],
+   [
+    "confirm_selection",
+    "leaflet"
+   ]
+  ],
+  "nonverbal_modes": [
+   [
+    "inspect_check",
+    "look_at",
+    "leaflet"
+   ],
+   [
+    "search",
+    "look_at",
+    "leaflet"
+   ],
+   [
+    "pay_attention",
+    "look_at",
+    "leaflet"
+   ],
+   [
+    "select",
+    "pick_up",
+    "leaflet"
+   ],
+   [
+    "assemble",
+    "attach",
+    "leaflet"
+   ],
+   [
+    "keep",
+    "hold",
+    "leaflet"
+   ],
+   [
+    "search",
+    "spread",
+    "leaflet"
+   ],
+   [
+    "inspect_check",
+    "hold",
+    "leaflet"
+   ],
+   [
+    "relocate",
+    "move",
+    "leaflet"
+   ],
+   [
+    "prepare",
+    "hold",
+    "leaflet"
+   ]
+  ]
+ },
+ "pack": {
+  "alts": [
+   [
+    [
+     "inspect_check",
+     "look_at",
+     "leaflet"
+    ],
+    [
+     "inspect_check",
+     "look_at",
+     "leaflet"
+    ]
+   ],
+   [
+    [
+     "assemble",
+     "attach",
+     "leaflet"
+    ],
+    [
+     "positive_acknowledgement",
+     "leaflet"
+    ]
+   ],
+   [],
+   [
+    [
+     "search",
+     "look_at",
+     "available"
+    ]
+   ],
+   [
+    [
+     "select",
+     "pick_up",
+     "leaflet"
+    ],
+    [
+     "declare_step",
+     "leaflet"
+    ]
+   ]
+  ],
+  "matches_submitted_json": true,
+  "per_alt": [
+   {
+    "index": 0,
+    "events": [
+     [
+      "inspect_check",
+      "look_at",
+      "leaflet"
+     ],
+     [
+      "inspect_check",
+      "look_at",
+      "leaflet"
+     ]
+    ],
+    "solo": {
+     "next_action": 0.2405,
+     "verbal": 0.4645,
+     "nonverbal": 0.2397,
+     "full": 0.2048
+    },
+    "loss_if_dropped": {
+     "next_action": 0.1052,
+     "verbal": 0.0,
+     "nonverbal": 0.1007,
+     "full": 0.0873
+    }
+   },
+   {
+    "index": 1,
+    "events": [
+     [
+      "assemble",
+      "attach",
+      "leaflet"
+     ],
+     [
+      "positive_acknowledgement",
+      "leaflet"
+     ]
+    ],
+    "solo": {
+     "next_action": 0.1031,
+     "verbal": 0.061,
+     "nonverbal": 0.1018,
+     "full": 0.0683
+    },
+    "loss_if_dropped": {
+     "next_action": 0.057,
+     "verbal": 0.0462,
+     "nonverbal": 0.0431,
+     "full": 0.0259
+    }
+   },
+   {
+    "index": 2,
+    "events": [],
+    "solo": {
+     "next_action": 0.0417,
+     "verbal": 0.4645,
+     "nonverbal": 0.0807,
+     "full": 0.0417
+    },
+    "loss_if_dropped": {
+     "next_action": 0.0417,
+     "verbal": 0.0,
+     "nonverbal": 0.0807,
+     "full": 0.0417
+    }
+   },
+   {
+    "index": 3,
+    "events": [
+     [
+      "search",
+      "look_at",
+      "available"
+     ]
+    ],
+    "solo": {
+     "next_action": 0.1741,
+     "verbal": 0.4645,
+     "nonverbal": 0.1709,
+     "full": 0.1374
+    },
+    "loss_if_dropped": {
+     "next_action": 0.0586,
+     "verbal": 0.0,
+     "nonverbal": 0.0472,
+     "full": 0.0355
+    }
+   },
+   {
+    "index": 4,
+    "events": [
+     [
+      "select",
+      "pick_up",
+      "leaflet"
+     ],
+     [
+      "declare_step",
+      "leaflet"
+     ]
+    ],
+    "solo": {
+     "next_action": 0.1008,
+     "verbal": 0.0556,
+     "nonverbal": 0.0956,
+     "full": 0.0668
+    },
+    "loss_if_dropped": {
+     "next_action": 0.0525,
+     "verbal": 0.0408,
+     "nonverbal": 0.0213,
+     "full": 0.0147
+    }
+   }
+  ]
+ },
+ "dev_grid": {
+  "held_out_fit19": {
+   "next_action": 0.3882,
+   "verbal": 0.5678,
+   "nonverbal": 0.4202,
+   "full": 0.2666,
+   "mean": 0.4107
+  },
+  "submitted_pack_fit21": {
+   "next_action": 0.4339,
+   "verbal": 0.5361,
+   "nonverbal": 0.4202,
+   "full": 0.3232,
+   "mean": 0.4283
+  },
+  "flat_K1_best_single": {
+   "next_action": 0.226,
+   "verbal": 0.4488,
+   "nonverbal": 0.222,
+   "full": 0.1887,
+   "mean": 0.2714
+  },
+  "flat_K1_sequence": [
+   [
+    "inspect_check",
+    "look_at",
+    "leaflet"
+   ],
+   [
+    "inspect_check",
+    "look_at",
+    "leaflet"
+   ]
+  ]
+ },
+ "refine": {
+  "fit21_pack_unchanged": true,
+  "fit21_refined_alts": [
+   [
+    [
+     "inspect_check",
+     "look_at",
+     "leaflet"
+    ],
+    [
+     "inspect_check",
+     "look_at",
+     "leaflet"
+    ]
+   ],
+   [
+    [
+     "assemble",
+     "attach",
+     "leaflet"
+    ],
+    [
+     "positive_acknowledgement",
+     "leaflet"
+    ]
+   ],
+   [],
+   [
+    [
+     "search",
+     "look_at",
+     "available"
+    ]
+   ],
+   [
+    [
+     "select",
+     "pick_up",
+     "leaflet"
+    ],
+    [
+     "declare_step",
+     "leaflet"
+    ]
+   ]
+  ]
+ },
+ "oracle": {
+  "verbal_oracle_types_modal_target": 0.9076,
+  "verbal_submitted_pack": 0.5663,
+  "modal_verbal_target": "leaflet",
+  "n_cells": 5182
+ },
+ "loso": {
+  "nv8_nnv8_mix4": {
+   "next_action": 0.4437,
+   "verbal": 0.5703,
+   "nonverbal": 0.4469,
+   "full": 0.3091,
+   "mean": 0.4425
+  },
+  "nv12_nnv10_mix5 (SUBMITTED)": {
+   "next_action": 0.4431,
+   "verbal": 0.5725,
+   "nonverbal": 0.4426,
+   "full": 0.3182,
+   "mean": 0.4441
+  },
+  "nv16_nnv12_mix6": {
+   "next_action": 0.4431,
+   "verbal": 0.5725,
+   "nonverbal": 0.4426,
+   "full": 0.3182,
+   "mean": 0.4441
+  },
+  "observed_pool_only (no rich pool)": {
+   "next_action": 0.4293,
+   "verbal": 0.5183,
+   "nonverbal": 0.4312,
+   "full": 0.3012,
+   "mean": 0.42
+  },
+  "nv12_nnv10_mix5 + refine": {
+   "next_action": 0.4431,
+   "verbal": 0.5718,
+   "nonverbal": 0.4427,
+   "full": 0.3183,
+   "mean": 0.444
+  },
+  "empty_predictor": {
+   "next_action": 0.0417,
+   "verbal": 0.4645,
+   "nonverbal": 0.0807,
+   "full": 0.0417,
+   "mean": 0.1571
+  }
+ },
+ "runtime_sec": 684.6
+}

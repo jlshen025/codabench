@@ -1,0 +1,17 @@
+[provider] magistral-medium -> 1 chat leg(s): ['https://api.mistral.ai/v1']
+[cfg] model=magistral-medium n=20 order=file batch=10 reasoning=none samples=1 temp=0.7
+Traceback (most recent call last):
+  File "<workdir>/llm_predict.py", line 229, in <module>
+    main()
+  File "<workdir>/llm_predict.py", line 206, in main
+    proba = classify(rows, legs, args.reasoning, args.batch, args.samples, args.temperature, demos=demos)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<workdir>/llm_predict.py", line 129, in classify
+    content = call_any(legs, msgs, reasoning, 30 * len(chunk) + 200, temp)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<workdir>/llm_predict.py", line 100, in call_any
+    raise last
+  File "<workdir>/llm_predict.py", line 95, in call_any
+    if c and c.strip():
+             ^^^^^^^
+AttributeError: 'list' object has no attribute 'strip'

@@ -1,0 +1,22 @@
+{
+  "588": {"label": "Favor", "conf": 45, "why": "scorn aimed at the state's 'facade'/compound crowd, not EVs; the EV content is charging-infrastructure questions = engaged interest despite complaints"},
+  "589": {"label": "Against", "conf": 82, "why": "core anti-EV environmental claim: battery manufacturing harms the environment twice as much as oil"},
+  "590": {"label": "Against", "conf": 94, "why": "pro-petroleum: build fuel cars instead, EV firms failed, EVs cost many times more"},
+  "591": {"label": "Favor", "conf": 50, "why": "sole content is a charging-infrastructure complaint with no ideological rejection - the annotator's 'complaints about charging' Favor trigger"},
+  "592": {"label": "Favor", "conf": 48, "why": "grants EVs are the world's next choice and work in flat terrain, only a terrain caveat, and politely invites counter-opinions = engaged interest"},
+  "593": {"label": "Against", "conf": 93, "why": "oil-state interest argument: EVs are not in our interest"},
+  "594": {"label": "Favor", "conf": 52, "why": "self-mocking joke imagining owning one; the complaint is charging habit, not rejection of EVs"},
+  "595": {"label": "Against", "conf": 88, "why": "gasoline indispensable for 50 years; EVs proven unable to do long distances"},
+  "596": {"label": "Against", "conf": 93, "why": "mocks EVs as impractical speed and an 'illusion' that never swept the world"},
+  "597": {"label": "Against", "conf": 93, "why": "predicts failure: city-only, tedious charging, battery death makes the car scrap"},
+  "598": {"label": "Against", "conf": 87, "why": "argues EV harms (lithium extraction) rival conventional cars and a CO2 fix would obsolete them"},
+  "599": {"label": "Against", "conf": 91, "why": "conspiracy framing (invented to strike oil) plus impractical charging"},
+  "600": {"label": "Against", "conf": 93, "why": "remote-area ridicule and explicit 'oil is the foundation, thank God'"},
+  "601": {"label": "Against", "conf": 92, "why": "stacked complaints and a verdict that EVs should be confined to resorts"},
+  "602": {"label": "Favor", "conf": 45, "why": "complaint is only aesthetic design while conceding the electric motor is the point"},
+  "603": {"label": "Against", "conf": 92, "why": "declares EV adoption impossible: energy crisis, more pollution, price, slow charging"},
+  "604": {"label": "Favor", "conf": 58, "why": "constructive design critique wanting EVs to look better and be more desirable - engaged interest, not rejection"},
+  "605": {"label": "Against", "conf": 90, "why": "rebuts an EV proponent on grid capacity, developing countries, and metal prices"},
+  "606": {"label": "Against", "conf": 88, "why": "mocks EVs as toys with nothing mechanical, should be banned from racing"},
+  "607": {"label": "Favor", "conf": 45, "why": "concedes EVs pollute less and frames it as a balanced green-energy-tradeoff share rather than rejection"}
+}

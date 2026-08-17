@@ -1,0 +1,9 @@
+pool: Ecars champion-Against -> 121 rows
+  batch 1/7: parsed 20/20
+  batch 2/7: parsed 20/20
+  batch 3/7: parsed 20/20
+  batch 4/7: parsed 20/20
+  batch 5/7: parsed 20/20
+  batch 6/7: parsed 20/20
+  batch 7/7: parsed 1/1
+[RESULT] parsed 121/121  DISPLACED=17  -> _llm/displace_ecA_o5.json

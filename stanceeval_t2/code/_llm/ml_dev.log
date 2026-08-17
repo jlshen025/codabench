@@ -1,0 +1,185 @@
+[cards] reusing ['Women empowerment', 'Covid Vaccine', 'Digital Transformation', 'Trimester', 'Ecars'] from _llm/fixed_cards.json
+[card] 'Women empowerment': def='تمكين المرأة هو عملية تعزيز قدرات المرأة وزيادة فرصها في الم'
+  batch 1/117 done
+  batch 2/117 done
+  batch 3/117 done
+  batch 4/117 done
+  batch 5/117 done
+  batch 6/117 done
+  [retry 1] RateLimitError: Error code: 429 - {'object': 'error', 'message': 'Rate limit exceeded', 'type': 'rate_limi
+  [retry 2] RateLimitError: Error code: 429 - {'object': 'error', 'message': 'Rate limit exceeded', 'type': 'rate_limi
+  [retry 3] RateLimitError: Error code: 429 - {'object': 'error', 'message': 'Rate limit exceeded', 'type': 'rate_limi
+  batch 7/117 done
+  batch 8/117 done
+  batch 9/117 done
+  [retry 1] RateLimitError: Error code: 429 - {'object': 'error', 'message': 'Rate limit exceeded', 'type': 'rate_limi
+  [retry 2] RateLimitError: Error code: 429 - {'object': 'error', 'message': 'Rate limit exceeded', 'type': 'rate_limi
+  batch 10/117 done
+  batch 11/117 done
+  batch 12/117 done
+  batch 13/117 done
+  [retry 1] RateLimitError: Error code: 429 - {'object': 'error', 'message': 'Rate limit exceeded', 'type': 'rate_limi
+  [retry 2] RateLimitError: Error code: 429 - {'object': 'error', 'message': 'Rate limit exceeded', 'type': 'rate_limi
+  batch 14/117 done
+  batch 15/117 done
+  batch 16/117 done
+  batch 17/117 done
+  [retry 1] RateLimitError: Error code: 429 - {'object': 'error', 'message': 'Rate limit exceeded', 'type': 'rate_limi
+  [retry 2] RateLimitError: Error code: 429 - {'object': 'error', 'message': 'Rate limit exceeded', 'type': 'rate_limi
+  batch 18/117 done
+  batch 19/117 done
+  batch 20/117 done
+  batch 21/117 done
+  [retry 1] RateLimitError: Error code: 429 - {'object': 'error', 'message': 'Rate limit exceeded', 'type': 'rate_limi
+  [retry 2] RateLimitError: Error code: 429 - {'object': 'error', 'message': 'Rate limit exceeded', 'type': 'rate_limi
+  batch 22/117 done
+  batch 23/117 done
+  batch 24/117 done
+  [retry 1] RateLimitError: Error code: 429 - {'object': 'error', 'message': 'Rate limit exceeded', 'type': 'rate_limi
+  [retry 2] RateLimitError: Error code: 429 - {'object': 'error', 'message': 'Rate limit exceeded', 'type': 'rate_limi
+  [retry 3] RateLimitError: Error code: 429 - {'object': 'error', 'message': 'Rate limit exceeded', 'type': 'rate_limi
+  batch 25/117 done
+  batch 26/117 done
+  batch 27/117 done
+  batch 28/117 done
+  [retry 1] RateLimitError: Error code: 429 - {'object': 'error', 'message': 'Rate limit exceeded', 'type': 'rate_limi
+  batch 29/117 done
+  batch 30/117 done
+  batch 31/117 done
+  batch 32/117 done
+  [retry 1] RateLimitError: Error code: 429 - {'object': 'error', 'message': 'Rate limit exceeded', 'type': 'rate_limi
+  [retry 2] RateLimitError: Error code: 429 - {'object': 'error', 'message': 'Rate limit exceeded', 'type': 'rate_limi
+  batch 33/117 done
+  batch 34/117 done
+  batch 35/117 done
+  batch 36/117 done
+  [retry 1] RateLimitError: Error code: 429 - {'object': 'error', 'message': 'Rate limit exceeded', 'type': 'rate_limi
+  [retry 2] RateLimitError: Error code: 429 - {'object': 'error', 'message': 'Rate limit exceeded', 'type': 'rate_limi
+  [retry 3] RateLimitError: Error code: 429 - {'object': 'error', 'message': 'Rate limit exceeded', 'type': 'rate_limi
+  batch 37/117 done
+  batch 38/117 done
+  batch 39/117 done
+  batch 40/117 done
+  [retry 1] RateLimitError: Error code: 429 - {'object': 'error', 'message': 'Rate limit exceeded', 'type': 'rate_limi
+  batch 41/117 done
+  batch 42/117 done
+  batch 43/117 done
+  batch 44/117 done
+  [retry 1] RateLimitError: Error code: 429 - {'object': 'error', 'message': 'Rate limit exceeded', 'type': 'rate_limi
+  [retry 2] RateLimitError: Error code: 429 - {'object': 'error', 'message': 'Rate limit exceeded', 'type': 'rate_limi
+  batch 45/117 done
+  batch 46/117 done
+  batch 47/117 done
+  batch 48/117 done
+  [retry 1] RateLimitError: Error code: 429 - {'object': 'error', 'message': 'Rate limit exceeded', 'type': 'rate_limi
+  [retry 2] RateLimitError: Error code: 429 - {'object': 'error', 'message': 'Rate limit exceeded', 'type': 'rate_limi
+  [retry 3] RateLimitError: Error code: 429 - {'object': 'error', 'message': 'Rate limit exceeded', 'type': 'rate_limi
+  batch 49/117 done
+  batch 50/117 done
+  batch 51/117 done
+  batch 52/117 done
+  batch 53/117 done
+  batch 54/117 done
+  batch 55/117 done
+  [retry 1] RateLimitError: Error code: 429 - {'object': 'error', 'message': 'Rate limit exceeded', 'type': 'rate_limi
+  [retry 2] RateLimitError: Error code: 429 - {'object': 'error', 'message': 'Rate limit exceeded', 'type': 'rate_limi
+  [retry 3] RateLimitError: Error code: 429 - {'object': 'error', 'message': 'Rate limit exceeded', 'type': 'rate_limi
+  batch 56/117 done
+  batch 57/117 done
+  batch 58/117 done
+  batch 59/117 done
+  [retry 1] RateLimitError: Error code: 429 - {'object': 'error', 'message': 'Rate limit exceeded', 'type': 'rate_limi
+  [retry 2] RateLimitError: Error code: 429 - {'object': 'error', 'message': 'Rate limit exceeded', 'type': 'rate_limi
+  batch 60/117 done
+  batch 61/117 done
+  batch 62/117 done
+  batch 63/117 done
+  [retry 1] RateLimitError: Error code: 429 - {'object': 'error', 'message': 'Rate limit exceeded', 'type': 'rate_limi
+  [retry 2] RateLimitError: Error code: 429 - {'object': 'error', 'message': 'Rate limit exceeded', 'type': 'rate_limi
+  batch 64/117 done
+  batch 65/117 done
+  batch 66/117 done
+  batch 67/117 done
+  [retry 1] RateLimitError: Error code: 429 - {'object': 'error', 'message': 'Rate limit exceeded', 'type': 'rate_limi
+  [retry 2] RateLimitError: Error code: 429 - {'object': 'error', 'message': 'Rate limit exceeded', 'type': 'rate_limi
+  [retry 3] RateLimitError: Error code: 429 - {'object': 'error', 'message': 'Rate limit exceeded', 'type': 'rate_limi
+  batch 68/117 done
+  batch 69/117 done
+  batch 70/117 done
+  batch 71/117 done
+  [retry 1] RateLimitError: Error code: 429 - {'object': 'error', 'message': 'Rate limit exceeded', 'type': 'rate_limi
+  [retry 2] RateLimitError: Error code: 429 - {'object': 'error', 'message': 'Rate limit exceeded', 'type': 'rate_limi
+  batch 72/117 done
+  batch 73/117 done
+  batch 74/117 done
+  batch 75/117 done
+  [retry 1] RateLimitError: Error code: 429 - {'object': 'error', 'message': 'Rate limit exceeded', 'type': 'rate_limi
+  [retry 2] RateLimitError: Error code: 429 - {'object': 'error', 'message': 'Rate limit exceeded', 'type': 'rate_limi
+  batch 76/117 done
+  batch 77/117 done
+  batch 78/117 done
+  batch 79/117 done
+  [retry 1] RateLimitError: Error code: 429 - {'object': 'error', 'message': 'Rate limit exceeded', 'type': 'rate_limi
+  batch 80/117 done
+  batch 81/117 done
+  batch 82/117 done
+  batch 83/117 done
+  [retry 1] RateLimitError: Error code: 429 - {'object': 'error', 'message': 'Rate limit exceeded', 'type': 'rate_limi
+  [retry 2] RateLimitError: Error code: 429 - {'object': 'error', 'message': 'Rate limit exceeded', 'type': 'rate_limi
+  [retry 3] RateLimitError: Error code: 429 - {'object': 'error', 'message': 'Rate limit exceeded', 'type': 'rate_limi
+  batch 84/117 done
+  batch 85/117 done
+  batch 86/117 done
+  batch 87/117 done
+  [retry 1] RateLimitError: Error code: 429 - {'object': 'error', 'message': 'Rate limit exceeded', 'type': 'rate_limi
+  batch 88/117 done
+  batch 89/117 done
+  batch 90/117 done
+  batch 91/117 done
+  [retry 1] RateLimitError: Error code: 429 - {'object': 'error', 'message': 'Rate limit exceeded', 'type': 'rate_limi
+  [retry 2] RateLimitError: Error code: 429 - {'object': 'error', 'message': 'Rate limit exceeded', 'type': 'rate_limi
+  batch 92/117 done
+  batch 93/117 done
+  batch 94/117 done
+  batch 95/117 done
+  [retry 1] RateLimitError: Error code: 429 - {'object': 'error', 'message': 'Rate limit exceeded', 'type': 'rate_limi
+  [retry 2] RateLimitError: Error code: 429 - {'object': 'error', 'message': 'Rate limit exceeded', 'type': 'rate_limi
+  [retry 3] RateLimitError: Error code: 429 - {'object': 'error', 'message': 'Rate limit exceeded', 'type': 'rate_limi
+  batch 96/117 done
+  batch 97/117 done
+  batch 98/117 done
+  batch 99/117 done
+  [retry 1] RateLimitError: Error code: 429 - {'object': 'error', 'message': 'Rate limit exceeded', 'type': 'rate_limi
+  [retry 2] RateLimitError: Error code: 429 - {'object': 'error', 'message': 'Rate limit exceeded', 'type': 'rate_limi
+  batch 100/117 done
+  batch 101/117 done
+  batch 102/117 done
+  [retry 1] RateLimitError: Error code: 429 - {'object': 'error', 'message': 'Rate limit exceeded', 'type': 'rate_limi
+  [retry 2] RateLimitError: Error code: 429 - {'object': 'error', 'message': 'Rate limit exceeded', 'type': 'rate_limi
+  batch 103/117 done
+  batch 104/117 done
+  batch 105/117 done
+  batch 106/117 done
+  [retry 1] RateLimitError: Error code: 429 - {'object': 'error', 'message': 'Rate limit exceeded', 'type': 'rate_limi
+  [retry 2] RateLimitError: Error code: 429 - {'object': 'error', 'message': 'Rate limit exceeded', 'type': 'rate_limi
+  batch 107/117 done
+  batch 108/117 done
+  batch 109/117 done
+  [retry 1] RateLimitError: Error code: 429 - {'object': 'error', 'message': 'Rate limit exceeded', 'type': 'rate_limi
+  [retry 2] RateLimitError: Error code: 429 - {'object': 'error', 'message': 'Rate limit exceeded', 'type': 'rate_limi
+  [retry 3] RateLimitError: Error code: 429 - {'object': 'error', 'message': 'Rate limit exceeded', 'type': 'rate_limi
+  batch 110/117 done
+  batch 111/117 done
+  batch 112/117 done
+  batch 113/117 done
+  [retry 1] RateLimitError: Error code: 429 - {'object': 'error', 'message': 'Rate limit exceeded', 'type': 'rate_limi
+  [retry 2] RateLimitError: Error code: 429 - {'object': 'error', 'message': 'Rate limit exceeded', 'type': 'rate_limi
+  batch 114/117 done
+  batch 115/117 done
+  batch 116/117 done
+  [retry 1] RateLimitError: Error code: 429 - {'object': 'error', 'message': 'Rate limit exceeded', 'type': 'rate_limi
+  [retry 2] RateLimitError: Error code: 429 - {'object': 'error', 'message': 'Rate limit exceeded', 'type': 'rate_limi
+  [retry 3] RateLimitError: Error code: 429 - {'object': 'error', 'message': 'Rate limit exceeded', 'type': 'rate_limi
+  batch 117/117 done
+[done] 'Women empowerment': 1400 tweets
+[RESULT] {"model": "mistral-large", "grounded": true, "n": 1400, "limit": 0, "runtime_sec": 1841.5, "pooled_Favg2": 85.68, "per_target": {"Women empowerment": 85.68}}

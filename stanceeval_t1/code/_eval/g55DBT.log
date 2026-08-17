@@ -1,0 +1,5 @@
+[debate] gpt-5.5 legs=['http://40.233.94.194:8080/v1']
+favor pass done
+against pass done
+bits: favorY=163 againstY=167 bothY=9 bothN=31
+dist(argmax, both-Y->Against): {2: 31, 0: 167, 1: 154}

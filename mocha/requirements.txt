@@ -1,0 +1,20 @@
+# INFERENCE — running the submitted artifact needs only these two.
+# The SMPL forward kinematics and the H36M joint regressor are vendored into the archive, so no
+# smplx / timm / sklearn dependency exists at evaluation time.
+torch
+numpy
+
+# TRAINING — additionally needed to re-run the feature-extraction and head-training chain.
+# scipy     # assets/extract_smpl_npz.py (sparse J_regressor in the SMPL pickle)
+# smplx     # training/lib/smpl_fk.py    (linear blend skinning at training time)
+# scikit-learn  # training/lib/scorer.py (macro-F1 / QWK reference scorer)
+
+# Versions used for the ranked entry, as a provenance record rather than a pin. These are the
+# Compute Canada wheelhouse builds; the "+computecanada" local versions are not on PyPI, so
+# install the plain upstream versions elsewhere.
+#   python 3.11.5
+#   torch 2.5.1+computecanada
+#   numpy 2.4.2+computecanada
+#   scipy 1.17.0+computecanada
+#   scikit-learn 1.8.0+computecanada
+#   smplx 0.1.28

@@ -1,0 +1,22 @@
+{
+  "261": {"label": "Favor", "conf": 93, "why": "plain first-person liking of the three-term system"},
+  "262": {"label": "Against", "conf": 52, "why": "hyperbolic denial of fatigue plus minister tag reads as fake praise"},
+  "263": {"label": "Against", "conf": 58, "why": "ironic thanks calling the dreaded third term 'the best term'"},
+  "264": {"label": "Favor", "conf": 85, "why": "states a real benefit, less pressure from more time"},
+  "265": {"label": "Against", "conf": 60, "why": "mock 'benefit': forced to vary things because the year drags on"},
+  "266": {"label": "Favor", "conf": 66, "why": "frames long summer break as boring, system as the cure"},
+  "267": {"label": "Favor", "conf": 68, "why": "terse pro-list item, new subjects presented as a gain"},
+  "268": {"label": "Favor", "conf": 82, "why": "credits the third term with better student discipline"},
+  "269": {"label": "Favor", "conf": 88, "why": "explicitly calls the shorter term a point in its favor"},
+  "270": {"label": "Favor", "conf": 82, "why": "long weekends praised as relief from study pressure"},
+  "271": {"label": "Favor", "conf": 85, "why": "fewer subjects means less pressure, stated as a gain"},
+  "272": {"label": "Favor", "conf": 83, "why": "praises keeping students attached to learning"},
+  "273": {"label": "Favor", "conf": 85, "why": "faster graduation cited as the main advantage"},
+  "274": {"label": "Favor", "conf": 87, "why": "credits the new system with ending the heavy-load nightmare"},
+  "275": {"label": "Favor", "conf": 94, "why": "explicit 'I like the idea' with a stated reason"},
+  "276": {"label": "Favor", "conf": 90, "why": "says the long weekends pleased and relieved the writer"},
+  "278": {"label": "Favor", "conf": 62, "why": "only three subjects per term framed as a cushy treat"},
+  "279": {"label": "Favor", "conf": 78, "why": "long breaks before exams listed as a positive change"},
+  "280": {"label": "Favor", "conf": 88, "why": "names the quick-ending term as an advantage"},
+  "281": {"label": "Favor", "conf": 90, "why": "likes being able to graduate sooner"}
+}

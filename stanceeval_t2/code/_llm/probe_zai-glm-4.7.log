@@ -1,0 +1,5 @@
+[cards] reusing ['Women empowerment', 'Covid Vaccine', 'Digital Transformation', 'Trimester', 'Ecars'] from _llm/fixed_cards.json
+[card] 'Trimester': def='نظام الفصل الدراسي الذي يقسم العام الدراسي إلى ثلاث فترات در'
+  batch 1/1 done
+[done] 'Trimester': 8 tweets
+[RESULT] {"model": "zai-glm-4.7", "grounded": true, "n": 8, "limit": 8, "runtime_sec": 3.2}

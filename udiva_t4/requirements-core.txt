@@ -1,0 +1,12 @@
+# Minimal portable environment for the SUBMITTED method (hedge-pack) and its validation.
+#
+#   python -m venv venv && . venv/bin/activate && pip install -r requirements-core.txt
+#
+# Python >= 3.8. Everything that builds, validates and packs the submission
+# (run_hedge2.py, run_report.py, make_test_sub_fixed.py, the udiva.{io,metric,cv,pack,
+# baselines} modules) runs on the standard library alone -- no GPU, no pretrained model,
+# a few minutes on one CPU core.
+#
+# numpy is required ONLY by the optional hill-climb refinement path
+# (GreedyK5Predictor(refine=True), step 5 of run_hedge2.py).
+numpy>=1.21

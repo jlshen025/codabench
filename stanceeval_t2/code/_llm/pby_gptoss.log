@@ -1,0 +1,6 @@
+[provider] cerebras wire=gpt-oss-120b
+[card] 'Trimester': def='نظام الفصل الدراسي الذي يقسم العام الدراسي إلى ثلاث فترات در' asp='تقسيم العام الدراسي إلى ثلاثة فصول, تقليل مدة كل فصل دراسي, '
+[card] 'Ecars': def='السيارات الكهربائية هي مركبات تعمل بالطاقة الكهربائية بدلاً ' asp='تقليل الانبعاثات الكربونية، تكلفة التشغيل المنخفضة، البنية ا'
+[done] 'Trimester': 8 tweets
+[done] 'Ecars': 8 tweets
+[RESULT] {"model": "gpt-oss-120b", "grounded": true, "n": 16, "runtime_sec": 2.0}

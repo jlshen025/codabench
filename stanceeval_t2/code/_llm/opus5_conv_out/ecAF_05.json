@@ -1,0 +1,17 @@
+{
+  "629": {"label": "Against", "conf": 92, "why": "savings claim mocked: pay multiples plus wasted charging time"},
+  "630": {"label": "Favor", "conf": 52, "why": "calls EVs a Musk trick but closes with explicit admiration + flower emoji"},
+  "631": {"label": "Against", "conf": 93, "why": "mockery: sell them in appliance stores, not car dealerships"},
+  "632": {"label": "Against", "conf": 94, "why": "sarcastic laughter at forced EVs and lithium-battery pollution"},
+  "633": {"label": "Against", "conf": 89, "why": "dislikes looks, doubts 50C heat and long-distance viability"},
+  "634": {"label": "Against", "conf": 95, "why": "flat dismissal: the biggest lie"},
+  "635": {"label": "Against", "conf": 92, "why": "cannot stomach them; 6h charging and update lockouts"},
+  "636": {"label": "Against", "conf": 84, "why": "their sound alone is a psychological problem for him"},
+  "637": {"label": "Against", "conf": 78, "why": "flags silence as a biggest drawback endangering pedestrians"},
+  "638": {"label": "Against", "conf": 74, "why": "still not convinced by any EV; available range too limited"},
+  "639": {"label": "Against", "conf": 90, "why": "still weak and unreliable in 50C climate"},
+  "640": {"label": "Against", "conf": 58, "why": "agrees they are bland and unexciting; only resigned to the trend"},
+  "641": {"label": "Against", "conf": 93, "why": "rhetorical mockery: no sane person would buy one"},
+  "642": {"label": "Against", "conf": 62, "why": "problem framing: scarce charge points plus inexperienced operators"},
+  "643": {"label": "Against", "conf": 91, "why": "many problems: charging, high price, still inferior to conventional"}
+}

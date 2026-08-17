@@ -1,0 +1,262 @@
+{
+"320": {
+"label": "Favor",
+"conf": 85
+},
+"321": {
+"label": "None",
+"conf": 95
+},
+"331": {
+"label": "Against",
+"conf": 90
+},
+"340": {
+"label": "None",
+"conf": 80
+},
+"341": {
+"label": "None",
+"conf": 90
+},
+"342": {
+"label": "Against",
+"conf": 85
+},
+"343": {
+"label": "None",
+"conf": 95
+},
+"346": {
+"label": "None",
+"conf": 90
+},
+"349": {
+"label": "None",
+"conf": 85
+},
+"352": {
+"label": "None",
+"conf": 90
+},
+"355": {
+"label": "None",
+"conf": 95
+},
+"356": {
+"label": "None",
+"conf": 80
+},
+"360": {
+"label": "Favor",
+"conf": 75
+},
+"361": {
+"label": "None",
+"conf": 95
+},
+"363": {
+"label": "Favor",
+"conf": 70
+},
+"374": {
+"label": "None",
+"conf": 90
+},
+"376": {
+"label": "None",
+"conf": 95
+},
+"379": {
+"label": "None",
+"conf": 95
+},
+"391": {
+"label": "Favor",
+"conf": 80
+},
+"394": {
+"label": "Favor",
+"conf": 90
+},
+"395": {
+"label": "None",
+"conf": 90
+},
+"400": {
+"label": "None",
+"conf": 85
+},
+"402": {
+"label": "None",
+"conf": 95
+},
+"403": {
+"label": "None",
+"conf": 95
+},
+"404": {
+"label": "None",
+"conf": 90
+},
+"408": {
+"label": "None",
+"conf": 95
+},
+"415": {
+"label": "Favor",
+"conf": 80
+},
+"418": {
+"label": "None",
+"conf": 85
+},
+"424": {
+"label": "None",
+"conf": 90
+},
+"437": {
+"label": "Favor",
+"conf": 75
+},
+"441": {
+"label": "Favor",
+"conf": 70
+},
+"442": {
+"label": "None",
+"conf": 85
+},
+"445": {
+"label": "Favor",
+"conf": 80
+},
+"452": {
+"label": "None",
+"conf": 90
+},
+"472": {
+"label": "None",
+"conf": 85
+},
+"477": {
+"label": "Favor",
+"conf": 85
+},
+"482": {
+"label": "None",
+"conf": 90
+},
+"485": {
+"label": "None",
+"conf": 85
+},
+"490": {
+"label": "Favor",
+"conf": 75
+},
+"493": {
+"label": "None",
+"conf": 90
+},
+"495": {
+"label": "None",
+"conf": 85
+},
+"496": {
+"label": "None",
+"conf": 90
+},
+"497": {
+"label": "Favor",
+"conf": 70
+},
+"498": {
+"label": "None",
+"conf": 80
+},
+"500": {
+"label": "None",
+"conf": 95
+},
+"501": {
+"label": "None",
+"conf": 85
+},
+"503": {
+"label": "None",
+"conf": 90
+},
+"504": {
+"label": "Favor",
+"conf": 65
+},
+"505": {
+"label": "Favor",
+"conf": 75
+},
+"506": {
+"label": "None",
+"conf": 80
+},
+"507": {
+"label": "None",
+"conf": 90
+},
+"509": {
+"label": "None",
+"conf": 85
+},
+"510": {
+"label": "None",
+"conf": 90
+},
+"517": {
+"label": "None",
+"conf": 85
+},
+"521": {
+"label": "None",
+"conf": 80
+},
+"523": {
+"label": "None",
+"conf": 75
+},
+"534": {
+"label": "Favor",
+"conf": 80
+},
+"539": {
+"label": "None",
+"conf": 95
+},
+"541": {
+"label": "Favor",
+"conf": 70
+},
+"542": {
+"label": "None",
+"conf": 85
+},
+"546": {
+"label": "None",
+"conf": 90
+},
+"555": {
+"label": "None",
+"conf": 85
+},
+"574": {
+"label": "Favor",
+"conf": 70
+},
+"575": {
+"label": "None",
+"conf": 80
+},
+"585": {
+"label": "None",
+"conf": 95
+}
+}

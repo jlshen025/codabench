@@ -1,0 +1,6 @@
+[provider] deepseek wire=deepseek-v4-flash
+[card] 'Covid Vaccine': def='اللقاح المضاد لفيروس كورونا هو مستحضر طبي يهدف إلى تحفيز الم' asp='فعالية اللقاح في الوقاية من العدوى, سلامة اللقاح وآثاره الجا'
+[card] 'Digital Transformation': def='التحول الرقمي هو عملية تبني التقنيات الرقمية لتغيير نماذج ال' asp='تطوير البنية التحتية الرقمية، تحسين الخدمات الحكومية الإلكتر'
+[done] 'Covid Vaccine': 1373 tweets
+[done] 'Digital Transformation': 1348 tweets
+[RESULT] {"model": "deepseek-v4-flash", "grounded": true, "n": 2721, "runtime_sec": 142.1, "pooled_Favg2": 84.32, "per_target": {"Covid Vaccine": 90.42, "Digital Transformation": 72.85}}

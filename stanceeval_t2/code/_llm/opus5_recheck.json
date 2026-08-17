@@ -1,0 +1,3674 @@
+{
+"313": {
+"label": "Against",
+"conf": 74,
+"why": "agrees EVs have no flavor or thrill, only resigned adaptation",
+"pool": "ecA"
+},
+"315": {
+"label": "Against",
+"conf": 70,
+"why": "sad-face dismay that the Italian marque returns only via an electric car",
+"pool": "ecA"
+},
+"324": {
+"label": "Against",
+"conf": 95,
+"why": "rhetorical question that no sane person would buy an EV",
+"pool": "ecA"
+},
+"327": {
+"label": "Against",
+"conf": 58,
+"why": "mocks the EV-manufacturing boast as lying bragging, cites stolen batteries",
+"pool": "ecA"
+},
+"332": {
+"label": "Against",
+"conf": 55,
+"why": "sarcastic mock-pity at someone jumping straight to an electric car",
+"pool": "ecA"
+},
+"336": {
+"label": "Against",
+"conf": 85,
+"why": "calls EVs' effect on oil demand a mistaken belief, renewables rush reckless",
+"pool": "ecA"
+},
+"347": {
+"label": "Against",
+"conf": 62,
+"why": "endorses article criticizing privately owned EVs and their silver-bullet framing",
+"pool": "ecA"
+},
+"348": {
+"label": "Against",
+"conf": 88,
+"why": "argues EVs never became an oil alternative, praises the Camry instead",
+"pool": "ecA"
+},
+"350": {
+"label": "Against",
+"conf": 90,
+"why": "charging time unsolved, expects no big success as buyers return to fuel",
+"pool": "ecA"
+},
+"359": {
+"label": "Against",
+"conf": 96,
+"why": "predicts miserable failure from maintenance problems",
+"pool": "ecA"
+},
+"362": {
+"label": "Against",
+"conf": 56,
+"why": "prices stay extremely high and suit only a few, a barrier to adoption",
+"pool": "ecA"
+},
+"365": {
+"label": "Against",
+"conf": 92,
+"why": "rhetorical: pointless when charged from burning tyres",
+"pool": "ecA"
+},
+"369": {
+"label": "Against",
+"conf": 87,
+"why": "frames the EV switch as purely commercial marketing to new customers",
+"pool": "ecA"
+},
+"370": {
+"label": "Against",
+"conf": 93,
+"why": "battery mining and disposal poison soil and groundwater",
+"pool": "ecA"
+},
+"371": {
+"label": "Against",
+"conf": 90,
+"why": "mocks clean-environment ads, EVs charged from fossil-fuel electricity",
+"pool": "ecA"
+},
+"372": {
+"label": "Against",
+"conf": 92,
+"why": "sarcasm about selling a clear conscience to green fanatics",
+"pool": "ecA"
+},
+"373": {
+"label": "Against",
+"conf": 93,
+"why": "believers in EV greenwashing are gullible, e-cigarette analogy",
+"pool": "ecA"
+},
+"378": {
+"label": "Favor",
+"conf": 45,
+"why": "resigned 'and of course' lament at cancelling hybrid/EV exemptions implies wanting the incentives kept",
+"pool": "ecA"
+},
+"384": {
+"label": "None",
+"conf": 60,
+"why": "argues about a stadium medical cart and media fuss, no evaluation of EVs",
+"pool": "ecA"
+},
+"385": {
+"label": "Against",
+"conf": 58,
+"why": "questions what justifies the EV company's high prices and added value",
+"pool": "ecA"
+},
+"387": {
+"label": "Against",
+"conf": 93,
+"why": "would never buy an EV in our summer heat, prefers hybrid",
+"pool": "ecA"
+},
+"392": {
+"label": "Against",
+"conf": 95,
+"why": "denies EVs save money or protect the environment",
+"pool": "ecA"
+},
+"396": {
+"label": "Against",
+"conf": 72,
+"why": "replied with a laughing emoji, mocking the call to bring EVs to Lebanon",
+"pool": "ecA"
+},
+"409": {
+"label": "Favor",
+"conf": 55,
+"why": "admires a solar EV that crosses the desert without charging; only gripe is its price",
+"pool": "ecA"
+},
+"416": {
+"label": "Against",
+"conf": 90,
+"why": "fears Formula One turning fully electric",
+"pool": "ecA"
+},
+"420": {
+"label": "Against",
+"conf": 95,
+"why": "says EVs look like crap",
+"pool": "ecA"
+},
+"422": {
+"label": "Against",
+"conf": 96,
+"why": "charging queues; concludes EVs are no good",
+"pool": "ecA"
+},
+"423": {
+"label": "Against",
+"conf": 78,
+"why": "sneers that the unchanged fuel door shows it is not really electric",
+"pool": "ecA"
+},
+"426": {
+"label": "Against",
+"conf": 96,
+"why": "many problems, charging and price; still inferior to conventional cars",
+"pool": "ecA"
+},
+"429": {
+"label": "Against",
+"conf": 94,
+"why": "range still terrible",
+"pool": "ecA"
+},
+"433": {
+"label": "Against",
+"conf": 88,
+"why": "rhetorical questions denying EVs actually remove pollution",
+"pool": "ecA"
+},
+"436": {
+"label": "Against",
+"conf": 72,
+"why": "flatly does not want an EV that cannot do the Medina-Jeddah trip",
+"pool": "ecA"
+},
+"438": {
+"label": "Against",
+"conf": 62,
+"why": "rhetorical question framing buying such an EV as a gamble",
+"pool": "ecA"
+},
+"439": {
+"label": "Against",
+"conf": 90,
+"why": "complains EVs are ugly and badly designed",
+"pool": "ecA"
+},
+"448": {
+"label": "Against",
+"conf": 90,
+"why": "under-800 km EVs are useless; mocks their vacuum-cleaner sound",
+"pool": "ecA"
+},
+"451": {
+"label": "Against",
+"conf": 96,
+"why": "EVs are impractical",
+"pool": "ecA"
+},
+"454": {
+"label": "Against",
+"conf": 70,
+"why": "no capable off-road EVs, Gulf travel hard; prefers hybrids for now",
+"pool": "ecA"
+},
+"455": {
+"label": "Against",
+"conf": 55,
+"why": "banter joking they will end up as EV scrap dealers",
+"pool": "ecA"
+},
+"456": {
+"label": "Favor",
+"conf": 58,
+"why": "is waiting to buy: once price, fast charging and 600+ km range arrive, EVs will be worth it",
+"pool": "ecA"
+},
+"457": {
+"label": "None",
+"conf": 52,
+"why": "bare factual caption about a bankrupt maker's cars, no evaluation",
+"pool": "ecA"
+},
+"458": {
+"label": "Against",
+"conf": 88,
+"why": "asks why EVs are always tied to ugliness",
+"pool": "ecA"
+},
+"460": {
+"label": "Against",
+"conf": 92,
+"why": "gloats over rusting EVs and glorifies oil",
+"pool": "ecA"
+},
+"462": {
+"label": "None",
+"conf": 56,
+"why": "critiques one maker's luxury-segment strategy and rivals, not EVs themselves",
+"pool": "ecA"
+},
+"470": {
+"label": "Against",
+"conf": 72,
+"why": "doubts economic viability, charging infrastructure and reliability/safety",
+"pool": "ecA"
+},
+"471": {
+"label": "Against",
+"conf": 78,
+"why": "denies the eco-friendly premise and calls the battery the Achilles' heel",
+"pool": "ecA"
+},
+"487": {
+"label": "Against",
+"conf": 86,
+"why": "predicts EVs will die out over unsolved batteries",
+"pool": "ecA"
+},
+"489": {
+"label": "Against",
+"conf": 82,
+"why": "concedes some merits but argues customers still prefer fuel cars; charging is a killer flaw",
+"pool": "ecA"
+},
+"518": {
+"label": "Against",
+"conf": 62,
+"why": "grudgingly 'swallowed' the EV then mocks its looks and lost prestige",
+"pool": "ecA"
+},
+"520": {
+"label": "Against",
+"conf": 60,
+"why": "downplays EVs as not the answer, pushes bikes and walkable cities instead",
+"pool": "ecA"
+},
+"522": {
+"label": "Against",
+"conf": 76,
+"why": "expects the same fault in EVs and praises gas-car brands instead",
+"pool": "ecA"
+},
+"524": {
+"label": "Against",
+"conf": 82,
+"why": "facepalm sarcasm at the idea of an EV in local weather",
+"pool": "ecA"
+},
+"525": {
+"label": "Favor",
+"conf": 62,
+"why": "rebuts an outdated critical article by citing recent battery breakthroughs and a maturing market",
+"pool": "ecA"
+},
+"526": {
+"label": "Against",
+"conf": 74,
+"why": "frames EVs as a bubble people refuse to see bursting",
+"pool": "ecA"
+},
+"527": {
+"label": "Against",
+"conf": 66,
+"why": "ironic juxtaposition of hype vs race withdrawal from battery weight",
+"pool": "ecA"
+},
+"529": {
+"label": "Against",
+"conf": 62,
+"why": "dismissive sarcasm at people now wanting EVs",
+"pool": "ecA"
+},
+"530": {
+"label": "Against",
+"conf": 82,
+"why": "rhetorical doubt about driving EVs in rain and floods",
+"pool": "ecA"
+},
+"537": {
+"label": "Against",
+"conf": 74,
+"why": "cites new market, low demand, high prices and leans toward hybrids instead",
+"pool": "ecA"
+},
+"543": {
+"label": "Against",
+"conf": 78,
+"why": "sarcastic doubt that EVs survive floodwater",
+"pool": "ecA"
+},
+"545": {
+"label": "Against",
+"conf": 76,
+"why": "argues EVs are pricier so demand will be low; locals prefer 4WDs",
+"pool": "ecA"
+},
+"557": {
+"label": "Against",
+"conf": 85,
+"why": "calls the EV marketing stunt a failure",
+"pool": "ecA"
+},
+"558": {
+"label": "Against",
+"conf": 95,
+"why": "flat declaration that EVs are a failure",
+"pool": "ecA"
+},
+"559": {
+"label": "Against",
+"conf": 80,
+"why": "calls the EV sector an overvalued bubble with overpriced cars",
+"pool": "ecA"
+},
+"560": {
+"label": "Against",
+"conf": 95,
+"why": "calls EVs a failed project and dares a 2027 check-back",
+"pool": "ecA"
+},
+"563": {
+"label": "Against",
+"conf": 58,
+"why": "enumerates price and home-charging/station problems as the big blockers",
+"pool": "ecA"
+},
+"572": {
+"label": "None",
+"conf": 55,
+"why": "descriptive energy-market comparison of oil and gas competitors, no evaluative stance",
+"pool": "ecA"
+},
+"579": {
+"label": "Favor",
+"conf": 54,
+"why": "conditional praise: such a battery would be the real breakthrough for EV manufacturing",
+"pool": "ecA"
+},
+"583": {
+"label": "Against",
+"conf": 58,
+"why": "sarcastic dismissal of a clothes firm's sudden EV pivot",
+"pool": "ecA"
+},
+"586": {
+"label": "Against",
+"conf": 90,
+"why": "EVs are ugly and people are already unconvinced",
+"pool": "ecA"
+},
+"587": {
+"label": "Against",
+"conf": 92,
+"why": "battery minerals pollute and renewables cost too much",
+"pool": "ecA"
+},
+"588": {
+"label": "Against",
+"conf": 88,
+"why": "no charging capacity, adoption is a facade for show",
+"pool": "ecA"
+},
+"589": {
+"label": "Against",
+"conf": 88,
+"why": "battery making harms environment twice as much as oil",
+"pool": "ecA"
+},
+"590": {
+"label": "Against",
+"conf": 95,
+"why": "prefers petrol cars, EVs failed and cost far more",
+"pool": "ecA"
+},
+"591": {
+"label": "Against",
+"conf": 90,
+"why": "rhetorical question about missing charging infrastructure",
+"pool": "ecA"
+},
+"592": {
+"label": "Against",
+"conf": 87,
+"why": "judged unfit for mountainous terrain, lacks propulsion",
+"pool": "ecA"
+},
+"593": {
+"label": "Against",
+"conf": 93,
+"why": "EVs not in the interest of an oil-producing country",
+"pool": "ecA"
+},
+"594": {
+"label": "Against",
+"conf": 62,
+"why": "joke implying EV charging would be an unmanageable chore",
+"pool": "ecA"
+},
+"595": {
+"label": "Against",
+"conf": 90,
+"why": "can't do long distances, gasoline needed for 50 years",
+"pool": "ecA"
+},
+"596": {
+"label": "Against",
+"conf": 92,
+"why": "impractical speed, calls EVs an illusion",
+"pool": "ecA"
+},
+"597": {
+"label": "Against",
+"conf": 93,
+"why": "city-only, tedious charging, battery death kills the car",
+"pool": "ecA"
+},
+"598": {
+"label": "Against",
+"conf": 85,
+"why": "EV harms incl. lithium extraction rival conventional cars",
+"pool": "ecA"
+},
+"599": {
+"label": "Against",
+"conf": 90,
+"why": "invented to strike at oil, not practical",
+"pool": "ecA"
+},
+"600": {
+"label": "Against",
+"conf": 92,
+"why": "stranded in remote areas, oil is the foundation",
+"pool": "ecA"
+},
+"601": {
+"label": "Against",
+"conf": 93,
+"why": "charging, maintenance, price, resale loss; resorts only",
+"pool": "ecA"
+},
+"602": {
+"label": "Against",
+"conf": 74,
+"why": "EV makers' designs are usually bad, only motor matters",
+"pool": "ecA"
+},
+"603": {
+"label": "Against",
+"conf": 93,
+"why": "predicts failure: energy crisis, pollution, price, slow charge",
+"pool": "ecA"
+},
+"604": {
+"label": "Against",
+"conf": 60,
+"why": "faults EVs for cartoonish design, wants it changed",
+"pool": "ecA"
+},
+"605": {
+"label": "Against",
+"conf": 90,
+"why": "grid can't supply charging, EVs doubled metal prices",
+"pool": "ecA"
+},
+"606": {
+"label": "Against",
+"conf": 90,
+"why": "mocks EVs as remote-control toys, wants them banned from racing",
+"pool": "ecA"
+},
+"607": {
+"label": "Against",
+"conf": 70,
+"why": "stresses EVs still pollute and mining/disposal harms; critical framing",
+"pool": "ecA"
+},
+"608": {
+"label": "Against",
+"conf": 88,
+"why": "an EV is still a car with negative urban effects; urges less car dependence",
+"pool": "ecA"
+},
+"609": {
+"label": "Against",
+"conf": 95,
+"why": "EVs won't succeed, hype is pointless",
+"pool": "ecA"
+},
+"610": {
+"label": "Against",
+"conf": 92,
+"why": "claims EVs cause double the pollution via oil-fired power plants",
+"pool": "ecA"
+},
+"611": {
+"label": "Against",
+"conf": 90,
+"why": "EV support framed as pandering to billionaires; factory emissions worse",
+"pool": "ecA"
+},
+"612": {
+"label": "None",
+"conf": 55,
+"why": "hedged ceteris-paribus economic mechanism, no evaluative stance",
+"pool": "ecA"
+},
+"613": {
+"label": "Against",
+"conf": 75,
+"why": "sarcastic: nothing to charge with, get electricity first",
+"pool": "ecA"
+},
+"614": {
+"label": "Against",
+"conf": 76,
+"why": "EVs premature; supply homes with power first",
+"pool": "ecA"
+},
+"615": {
+"label": "Against",
+"conf": 85,
+"why": "mocks the idea, demands infrastructure fixes before EVs",
+"pool": "ecA"
+},
+"616": {
+"label": "Against",
+"conf": 90,
+"why": "EVs merely relocate pollution and add conversion losses",
+"pool": "ecA"
+},
+"617": {
+"label": "Against",
+"conf": 80,
+"why": "rebuts lower-emission claim, says EVs can be more carbon intensive",
+"pool": "ecA"
+},
+"618": {
+"label": "Against",
+"conf": 95,
+"why": "insults promoter; breakdowns, heat danger, explosion fear",
+"pool": "ecA"
+},
+"619": {
+"label": "Against",
+"conf": 85,
+"why": "unproven, costly, no maintenance; does not want them arriving so",
+"pool": "ecA"
+},
+"620": {
+"label": "Against",
+"conf": 80,
+"why": "relays owners' dissatisfaction, an experience not to repeat",
+"pool": "ecA"
+},
+"621": {
+"label": "Against",
+"conf": 96,
+"why": "blunt insult, all EVs are crap",
+"pool": "ecA"
+},
+"622": {
+"label": "Against",
+"conf": 85,
+"why": "range/AC/speed failings; city-only, others are deceiving you",
+"pool": "ecA"
+},
+"623": {
+"label": "Against",
+"conf": 78,
+"why": "price framed as the problem, no desire expressed",
+"pool": "ecA"
+},
+"624": {
+"label": "Against",
+"conf": 90,
+"why": "mocks paying 165k to cramp lifestyle instead of a luxury car",
+"pool": "ecA"
+},
+"625": {
+"label": "Against",
+"conf": 90,
+"why": "failed project, only a secondary short-trip car for the rich",
+"pool": "ecA"
+},
+"626": {
+"label": "Against",
+"conf": 93,
+"why": "total failure locally, very costly maintenance",
+"pool": "ecA"
+},
+"627": {
+"label": "Against",
+"conf": 72,
+"why": "no good for highways in our heat, city-only limitation",
+"pool": "ecA"
+},
+"628": {
+"label": "Against",
+"conf": 88,
+"why": "declares EVs failed versus hydrogen cars",
+"pool": "ecA"
+},
+"629": {
+"label": "Against",
+"conf": 95,
+"why": "claims EV price and charging time wipe out any fuel savings",
+"pool": "ecA"
+},
+"630": {
+"label": "Against",
+"conf": 78,
+"why": "calls EVs a Musk 'trick/deception'; praise is for Musk, not the cars",
+"pool": "ecA"
+},
+"631": {
+"label": "Against",
+"conf": 95,
+"why": "mocks EVs as appliances that don't belong in car showrooms",
+"pool": "ecA"
+},
+"632": {
+"label": "Against",
+"conf": 96,
+"why": "sarcastic dismissal of the climate rationale and lithium-battery pollution",
+"pool": "ecA"
+},
+"633": {
+"label": "Against",
+"conf": 96,
+"why": "dislikes their looks and doubts they survive 50C heat and long distances",
+"pool": "ecA"
+},
+"634": {
+"label": "Against",
+"conf": 97,
+"why": "flatly calls electric cars the biggest lie",
+"pool": "ecA"
+},
+"635": {
+"label": "Against",
+"conf": 97,
+"why": "rejects 6-hour charging, constant updates and software lockouts",
+"pool": "ecA"
+},
+"636": {
+"label": "Against",
+"conf": 86,
+"why": "says the sound of EVs alone is a psychological problem for him",
+"pool": "ecA"
+},
+"637": {
+"label": "Against",
+"conf": 83,
+"why": "frames silent operation as a biggest drawback and a danger to pedestrians",
+"pool": "ecA"
+},
+"638": {
+"label": "Against",
+"conf": 89,
+"why": "unconvinced by any EV; available models too limited and impractical",
+"pool": "ecA"
+},
+"639": {
+"label": "Against",
+"conf": 96,
+"why": "calls them still weak and unreliable in 50C+ local climate",
+"pool": "ecA"
+},
+"640": {
+"label": "Against",
+"conf": 84,
+"why": "agrees EVs are bland and unexciting; adaptation is resignation, not endorsement",
+"pool": "ecA"
+},
+"641": {
+"label": "Against",
+"conf": 95,
+"why": "rhetorical jab that no sane person would buy an EV",
+"pool": "ecA"
+},
+"642": {
+"label": "Against",
+"conf": 74,
+"why": "reports EV problems: scarce charging points plus inexperienced charging-station operators",
+"pool": "ecA"
+},
+"643": {
+"label": "Against",
+"conf": 96,
+"why": "many problems, charging and high price, still not better than conventional cars",
+"pool": "ecA"
+},
+"312": {
+"label": "Favor",
+"conf": 65,
+"why": "frames EVs as the awaited, desirable purchase buyers hold out for",
+"pool": "ecF"
+},
+"314": {
+"label": "Favor",
+"conf": 55,
+"why": "embraces EV takeover as the near future",
+"pool": "ecF"
+},
+"316": {
+"label": "Favor",
+"conf": 58,
+"why": "cites automakers' shift to EVs approvingly as the trend ending oil",
+"pool": "ecF"
+},
+"317": {
+"label": "None",
+"conf": 55,
+"why": "sarcasm aimed at Egypt's one-year timeline, no evaluation of EVs themselves",
+"pool": "ecF"
+},
+"318": {
+"label": "Favor",
+"conf": 52,
+"why": "ridicules anti-EV conspiracy claims, mild defense of EVs",
+"pool": "ecF"
+},
+"319": {
+"label": "Favor",
+"conf": 85,
+"why": "calls the Egyptian EV promise an ambitious step for development",
+"pool": "ecF"
+},
+"322": {
+"label": "None",
+"conf": 62,
+"why": "bare news headline plus URL, no evaluative lean by author",
+"pool": "ecF"
+},
+"323": {
+"label": "Favor",
+"conf": 75,
+"why": "relays EV announcement with approving \u0645\u0627 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647",
+"pool": "ecF"
+},
+"325": {
+"label": "Favor",
+"conf": 70,
+"why": "hopes the new electric car avoids Ramses' failure",
+"pool": "ecF"
+},
+"326": {
+"label": "Favor",
+"conf": 60,
+"why": "disappointed Egypt is not building an EV like Turkey, implying support",
+"pool": "ecF"
+},
+"328": {
+"label": "Favor",
+"conf": 85,
+"why": "celebrates first Egyptian EV with mashallah and flag",
+"pool": "ecF"
+},
+"329": {
+"label": "Favor",
+"conf": 80,
+"why": "praises EV manufacturing as part of the climate plan",
+"pool": "ecF"
+},
+"330": {
+"label": "Favor",
+"conf": 75,
+"why": "wishes local businesspeople would build EVs and localize the tech",
+"pool": "ecF"
+},
+"333": {
+"label": "Favor",
+"conf": 70,
+"why": "admires Vietnam making high-quality EVs for export",
+"pool": "ecF"
+},
+"334": {
+"label": "Favor",
+"conf": 55,
+"why": "announces intent to devote coming period to EVs, positive engagement",
+"pool": "ecF"
+},
+"335": {
+"label": "Favor",
+"conf": 70,
+"why": "recommends allocating a quarter of a portfolio to the EV sector",
+"pool": "ecF"
+},
+"337": {
+"label": "Favor",
+"conf": 75,
+"why": "boasts of Lucid gains and EV-tech localization as national achievement",
+"pool": "ecF"
+},
+"338": {
+"label": "Favor",
+"conf": 62,
+"why": "grants that producing an electric car is a real achievement",
+"pool": "ecF"
+},
+"339": {
+"label": "Favor",
+"conf": 72,
+"why": "expects EVs cheapest by 2025 and prefers them over hybrids for peace of mind",
+"pool": "ecF"
+},
+"344": {
+"label": "Favor",
+"conf": 58,
+"why": "cites EVs as an old idea rightly reappreciated and implemented",
+"pool": "ecF"
+},
+"351": {
+"label": "Favor",
+"conf": 90,
+"why": "praises EV power, acceleration, reliability, stability and comfort",
+"pool": "ecF"
+},
+"353": {
+"label": "Favor",
+"conf": 52,
+"why": "highlights tax exemption and free charging, treating only price as the remaining obstacle",
+"pool": "ecF"
+},
+"354": {
+"label": "None",
+"conf": 62,
+"why": "pure market-size/forecast report on charging equipment, no authorial evaluation",
+"pool": "ecF"
+},
+"357": {
+"label": "Favor",
+"conf": 60,
+"why": "agrees with bringing EV manufacturing technology to the country",
+"pool": "ecF"
+},
+"358": {
+"label": "Favor",
+"conf": 95,
+"why": "calls Lucid eco-friendly par excellence and a pride of the EV industry",
+"pool": "ecF"
+},
+"364": {
+"label": "Favor",
+"conf": 90,
+"why": "praises the car's looks and that it is electric, not petrol-dependent",
+"pool": "ecF"
+},
+"366": {
+"label": "Favor",
+"conf": 90,
+"why": "urges tax cuts and incentive loans to switch to electric cars",
+"pool": "ecF"
+},
+"367": {
+"label": "None",
+"conf": 55,
+"why": "crypto-token promo; praise aimed at the coin, not at electric cars",
+"pool": "ecF"
+},
+"368": {
+"label": "Favor",
+"conf": 78,
+"why": "defends EVs as environmentally better even on fossil-generated power",
+"pool": "ecF"
+},
+"375": {
+"label": "Favor",
+"conf": 65,
+"why": "admiring showcase of the fully electric Hongqi E-HS9 ('soooo comfortable')",
+"pool": "ecF"
+},
+"377": {
+"label": "Favor",
+"conf": 72,
+"why": "endorses electric as the car of the future",
+"pool": "ecF"
+},
+"380": {
+"label": "Favor",
+"conf": 88,
+"why": "states purchase intent for an electric car",
+"pool": "ecF"
+},
+"381": {
+"label": "Favor",
+"conf": 75,
+"why": "marvels at the flood of EVs and the world changing",
+"pool": "ecF"
+},
+"382": {
+"label": "Favor",
+"conf": 85,
+"why": "calls for developing EV motors to help save the planet",
+"pool": "ecF"
+},
+"383": {
+"label": "Favor",
+"conf": 55,
+"why": "qualified endorsement: home charging is fine, 400 km overnight, all makers now offer EVs",
+"pool": "ecF"
+},
+"386": {
+"label": "Favor",
+"conf": 80,
+"why": "holds up Tesla's EV success as an inspiring model",
+"pool": "ecF"
+},
+"388": {
+"label": "Favor",
+"conf": 90,
+"why": "says we have to buy an electric car",
+"pool": "ecF"
+},
+"389": {
+"label": "Favor",
+"conf": 85,
+"why": "wow-admiration for BMW's color-changing electric car",
+"pool": "ecF"
+},
+"390": {
+"label": "Favor",
+"conf": 70,
+"why": "impressed that the Germans are going all-in on EVs",
+"pool": "ecF"
+},
+"393": {
+"label": "Favor",
+"conf": 55,
+"why": "frames Tesla EVs positively as born of environmental concern",
+"pool": "ecF"
+},
+"397": {
+"label": "Favor",
+"conf": 85,
+"why": "wants EV culture to take root and dismisses those calling it temporary",
+"pool": "ecF"
+},
+"399": {
+"label": "Favor",
+"conf": 68,
+"why": "hopes the electric car succeeds with huge sales",
+"pool": "ecF"
+},
+"401": {
+"label": "Favor",
+"conf": 68,
+"why": "lists adopting EVs among admirable achievements, sarcasm aimed at Kuwait",
+"pool": "ecF"
+},
+"405": {
+"label": "Favor",
+"conf": 68,
+"why": "laments being left behind while others advance on electric cars",
+"pool": "ecF"
+},
+"406": {
+"label": "None",
+"conf": 58,
+"why": "mocks Erdogan's fake achievement; no stance on EVs themselves",
+"pool": "ecF"
+},
+"407": {
+"label": "Favor",
+"conf": 88,
+"why": "advocates government-wide EV adoption for lower emissions",
+"pool": "ecF"
+},
+"410": {
+"label": "Favor",
+"conf": 62,
+"why": "sure Germany would excel in EVs; positive framing of the field",
+"pool": "ecF"
+},
+"411": {
+"label": "Favor",
+"conf": 90,
+"why": "admires how beautifully all EVs are designed",
+"pool": "ecF"
+},
+"412": {
+"label": "Favor",
+"conf": 55,
+"why": "notes major EV progress and imminent price parity",
+"pool": "ecF"
+},
+"413": {
+"label": "None",
+"conf": 55,
+"why": "relays sodium-ion battery news with no author evaluation",
+"pool": "ecF"
+},
+"414": {
+"label": "Favor",
+"conf": 92,
+"why": "urges investing in EVs as the future, cites Tesla",
+"pool": "ecF"
+},
+"417": {
+"label": "Favor",
+"conf": 55,
+"why": "names EV production as a desired achievement to await",
+"pool": "ecF"
+},
+"419": {
+"label": "Favor",
+"conf": 85,
+"why": "invested in top EV firms, expects them to win the future",
+"pool": "ecF"
+},
+"421": {
+"label": "Favor",
+"conf": 95,
+"why": "declares attraction and love for every electric car",
+"pool": "ecF"
+},
+"425": {
+"label": "Favor",
+"conf": 50,
+"why": "holds EVs could be affordable and durable; blames greedy dealers",
+"pool": "ecF"
+},
+"427": {
+"label": "Favor",
+"conf": 78,
+"why": "calls Saudi-owned Lucid the best upcoming EV",
+"pool": "ecF"
+},
+"428": {
+"label": "Favor",
+"conf": 52,
+"why": "wishes his country would be next after Turkey's EV",
+"pool": "ecF"
+},
+"430": {
+"label": "Favor",
+"conf": 88,
+"why": "plans a Tesla-like EV factory as the industrial future",
+"pool": "ecF"
+},
+"431": {
+"label": "Favor",
+"conf": 62,
+"why": "admiration plus a wish to own such a car",
+"pool": "ecF"
+},
+"432": {
+"label": "Favor",
+"conf": 55,
+"why": "treats the EV shift as imminent, faults legacy makers for missing it",
+"pool": "ecF"
+},
+"434": {
+"label": "Favor",
+"conf": 62,
+"why": "impressed by 1000 km range, calls it a very strong competitor",
+"pool": "ecF"
+},
+"435": {
+"label": "Favor",
+"conf": 90,
+"why": "EVs are the future; urges launching a local EV",
+"pool": "ecF"
+},
+"440": {
+"label": "Favor",
+"conf": 80,
+"why": "plan to design an Egyptian EV and localize battery making",
+"pool": "ecF"
+},
+"443": {
+"label": "Favor",
+"conf": 55,
+"why": "celebrates first batch of 100% Turkish-developed EVs",
+"pool": "ecF"
+},
+"444": {
+"label": "Favor",
+"conf": 95,
+"why": "explicitly proud of the locally made electric car",
+"pool": "ecF"
+},
+"446": {
+"label": "Favor",
+"conf": 85,
+"why": "defends the Chinese EV achievement against overblown criticism",
+"pool": "ecF"
+},
+"447": {
+"label": "None",
+"conf": 60,
+"why": "headline-style claim about Morocco's role, no author evaluation of EVs",
+"pool": "ecF"
+},
+"449": {
+"label": "Favor",
+"conf": 60,
+"why": "cites Tesla's EV as a successfully improved, market-winning product",
+"pool": "ecF"
+},
+"450": {
+"label": "Favor",
+"conf": 85,
+"why": "demands EVs with European specs be brought in",
+"pool": "ecF"
+},
+"453": {
+"label": "Favor",
+"conf": 65,
+"why": "normalizes EVs as a viable option, says market is full of suitable ones",
+"pool": "ecF"
+},
+"459": {
+"label": "Favor",
+"conf": 55,
+"why": "credits advanced EV tech and government incentives for Tesla's success",
+"pool": "ecF"
+},
+"461": {
+"label": "Favor",
+"conf": 85,
+"why": "EVs meet all his needs and are cheaper; blames dealers for blocking them",
+"pool": "ecF"
+},
+"463": {
+"label": "Favor",
+"conf": 80,
+"why": "defends Tesla/EV investment against those wishing it failure",
+"pool": "ecF"
+},
+"465": {
+"label": "None",
+"conf": 70,
+"why": "pure news report of Sony's EV plans, no author stance",
+"pool": "ecF"
+},
+"466": {
+"label": "Favor",
+"conf": 70,
+"why": "urges spending the money on an EV research center",
+"pool": "ecF"
+},
+"467": {
+"label": "Favor",
+"conf": 90,
+"why": "demands long-range EVs so we can abandon oil",
+"pool": "ecF"
+},
+"468": {
+"label": "Favor",
+"conf": 85,
+"why": "praises the EV's design",
+"pool": "ecF"
+},
+"469": {
+"label": "Favor",
+"conf": 65,
+"why": "commits to huge investment in EV charging stations and renewables",
+"pool": "ecF"
+},
+"473": {
+"label": "Favor",
+"conf": 60,
+"why": "frames battery cost as the one solvable barrier to rapid EV adoption",
+"pool": "ecF"
+},
+"474": {
+"label": "Favor",
+"conf": 65,
+"why": "casts EVs as the disruptive paradigm shift legacy makers can't match",
+"pool": "ecF"
+},
+"475": {
+"label": "Favor",
+"conf": 90,
+"why": "more EV competition means lower prices; EVs need less maintenance",
+"pool": "ecF"
+},
+"476": {
+"label": "Favor",
+"conf": 60,
+"why": "anticipates EVs sweeping the market once range improves",
+"pool": "ecF"
+},
+"478": {
+"label": "Favor",
+"conf": 85,
+"why": "calls it the most beautiful EV so far",
+"pool": "ecF"
+},
+"479": {
+"label": "Favor",
+"conf": 90,
+"why": "first EV he likes, and a pickup, best thing",
+"pool": "ecF"
+},
+"481": {
+"label": "Favor",
+"conf": 75,
+"why": "finds it good-looking and says EVs look better this way",
+"pool": "ecF"
+},
+"483": {
+"label": "Favor",
+"conf": 65,
+"why": "laments the lost E70 electric-car deal as a failure of judgment",
+"pool": "ecF"
+},
+"484": {
+"label": "Favor",
+"conf": 75,
+"why": "welcomes reliable new EVs breaking Tesla's monopoly",
+"pool": "ecF"
+},
+"486": {
+"label": "Favor",
+"conf": 75,
+"why": "excited admiration that electric cars are now available",
+"pool": "ecF"
+},
+"488": {
+"label": "Favor",
+"conf": 95,
+"why": "praises home charging as a big EV advantage",
+"pool": "ecF"
+},
+"491": {
+"label": "Favor",
+"conf": 65,
+"why": "eagerly expects EV focus to make BMW win",
+"pool": "ecF"
+},
+"494": {
+"label": "Favor",
+"conf": 65,
+"why": "insists an Egyptian EV is achievable; blames govt, not EVs",
+"pool": "ecF"
+},
+"499": {
+"label": "Favor",
+"conf": 80,
+"why": "saving up to buy an EV = purchase intent",
+"pool": "ecF"
+},
+"502": {
+"label": "None",
+"conf": 55,
+"why": "spec-sheet product report, no author lean on EVs",
+"pool": "ecF"
+},
+"508": {
+"label": "Favor",
+"conf": 93,
+"why": "explicit appreciation and respect for the EV leap",
+"pool": "ecF"
+},
+"511": {
+"label": "Favor",
+"conf": 88,
+"why": "extols EV low maintenance and long lifespan",
+"pool": "ecF"
+},
+"512": {
+"label": "Favor",
+"conf": 72,
+"why": "author's own celebratory framing of an EV first",
+"pool": "ecF"
+},
+"513": {
+"label": "Favor",
+"conf": 58,
+"why": "wants real EVs released; criticism aimed at Mercedes",
+"pool": "ecF"
+},
+"514": {
+"label": "None",
+"conf": 55,
+"why": "relayed newspaper report/quote, no author evaluation",
+"pool": "ecF"
+},
+"515": {
+"label": "Favor",
+"conf": 92,
+"why": "EVs far better than conventional at torque distribution",
+"pool": "ecF"
+},
+"516": {
+"label": "Favor",
+"conf": 80,
+"why": "mocks the claim that EVs fail off-road, defending them",
+"pool": "ecF"
+},
+"519": {
+"label": "Favor",
+"conf": 52,
+"why": "frames EV sector as the highest-momentum market",
+"pool": "ecF"
+},
+"528": {
+"label": "Favor",
+"conf": 52,
+"why": "impressed they are also working on EVs",
+"pool": "ecF"
+},
+"531": {
+"label": "Favor",
+"conf": 75,
+"why": "admires the Chinese electric truck's real capability",
+"pool": "ecF"
+},
+"532": {
+"label": "Favor",
+"conf": 55,
+"why": "treats EV manufacturing as the goal we lag behind on",
+"pool": "ecF"
+},
+"533": {
+"label": "Favor",
+"conf": 62,
+"why": "hopeful anticipation of Lucid EVs built locally",
+"pool": "ecF"
+},
+"535": {
+"label": "Favor",
+"conf": 60,
+"why": "hopes EVs bring an American comeback",
+"pool": "ecF"
+},
+"536": {
+"label": "Favor",
+"conf": 55,
+"why": "hopes next BMW EVs are good; brand-level critique only",
+"pool": "ecF"
+},
+"538": {
+"label": "Favor",
+"conf": 70,
+"why": "calls for efficient affordable EV manufacturing",
+"pool": "ecF"
+},
+"540": {
+"label": "Favor",
+"conf": 85,
+"why": "says he was won over to liking electric cars",
+"pool": "ecF"
+},
+"544": {
+"label": "Favor",
+"conf": 90,
+"why": "calls Norway's EV shift fantastic, petrol a dead end",
+"pool": "ecF"
+},
+"547": {
+"label": "Favor",
+"conf": 72,
+"why": "approving observation that trends run in EVs' favor",
+"pool": "ecF"
+},
+"548": {
+"label": "Favor",
+"conf": 92,
+"why": "blessing plus hope for a cheap EV that many need",
+"pool": "ecF"
+},
+"549": {
+"label": "Favor",
+"conf": 82,
+"why": "calls the EV-related news joyful",
+"pool": "ecF"
+},
+"550": {
+"label": "Favor",
+"conf": 96,
+"why": "urges buying an EV outright from experience",
+"pool": "ecF"
+},
+"552": {
+"label": "Favor",
+"conf": 88,
+"why": "asks to give EVs a chance; predicts consumers will prefer them",
+"pool": "ecF"
+},
+"553": {
+"label": "Favor",
+"conf": 64,
+"why": "frames Tesla EV success as progress against local ruin",
+"pool": "ecF"
+},
+"554": {
+"label": "Favor",
+"conf": 58,
+"why": "mocks officials; an EV project is the advanced ideal he wanted",
+"pool": "ecF"
+},
+"556": {
+"label": "Favor",
+"conf": 84,
+"why": "praises EV cleanliness, swapping petrol lets the planet breathe",
+"pool": "ecF"
+},
+"561": {
+"label": "Favor",
+"conf": 88,
+"why": "enthusiastic about explosive EV progress and solid-state batteries",
+"pool": "ecF"
+},
+"562": {
+"label": "Favor",
+"conf": 66,
+"why": "bans and sales growth cited as enumerated pro-EV argument",
+"pool": "ecF"
+},
+"564": {
+"label": "Favor",
+"conf": 70,
+"why": "touts long range as an EV selling point in his advocacy thread",
+"pool": "ecF"
+},
+"565": {
+"label": "Favor",
+"conf": 87,
+"why": "calls EV acceleration figures incredible",
+"pool": "ecF"
+},
+"566": {
+"label": "Favor",
+"conf": 89,
+"why": "praises blistering EV performance versus petrol",
+"pool": "ecF"
+},
+"567": {
+"label": "Favor",
+"conf": 87,
+"why": "says driving an EV is more comfortable",
+"pool": "ecF"
+},
+"568": {
+"label": "Favor",
+"conf": 88,
+"why": "highlights that EVs need virtually no maintenance",
+"pool": "ecF"
+},
+"569": {
+"label": "Favor",
+"conf": 85,
+"why": "asks why buy an EV and promises many reasons",
+"pool": "ecF"
+},
+"571": {
+"label": "Favor",
+"conf": 96,
+"why": "explicitly argues EVs are better and hopes to boost sales",
+"pool": "ecF"
+},
+"573": {
+"label": "Favor",
+"conf": 60,
+"why": "approving note that EV demand has matured into the norm",
+"pool": "ecF"
+},
+"576": {
+"label": "Favor",
+"conf": 56,
+"why": "casts EVs as a good invention suppressed by oil companies",
+"pool": "ecF"
+},
+"577": {
+"label": "Favor",
+"conf": 60,
+"why": "joke presuming EV dominance with petrol cars as leftovers",
+"pool": "ecF"
+},
+"578": {
+"label": "Favor",
+"conf": 78,
+"why": "admires China's electric driverless cars and buses",
+"pool": "ecF"
+},
+"580": {
+"label": "Favor",
+"conf": 55,
+"why": "volunteers Tesla's long-life battery as a supporting example",
+"pool": "ecF"
+},
+"582": {
+"label": "Favor",
+"conf": 88,
+"why": "declares now is the EV sector's time, endorsing it",
+"pool": "ecF"
+},
+"584": {
+"label": "Favor",
+"conf": 66,
+"why": "news plus author's own bullish bet on EV makers' future",
+"pool": "ecF"
+},
+"321": {
+"label": "None",
+"conf": 82,
+"why": "joke listing car attributes for a TV character, no evaluation of EVs",
+"pool": "ecN"
+},
+"331": {
+"label": "Against",
+"conf": 62,
+"why": "derides the vehicle as a donkey cart rather than an electric car",
+"pool": "ecN"
+},
+"340": {
+"label": "Favor",
+"conf": 48,
+"why": "laments Egypt ending its first electric car, implying support for EVs",
+"pool": "ecN"
+},
+"341": {
+"label": "None",
+"conf": 62,
+"why": "sarcasm aimed at a person, Tesla only incidental scenery",
+"pool": "ecN"
+},
+"342": {
+"label": "None",
+"conf": 55,
+"why": "uses a stage win to mock a rival driver, not to evaluate EVs",
+"pool": "ecN"
+},
+"343": {
+"label": "Against",
+"conf": 55,
+"why": "incredulous rhetorical question dismissing what is shown as electric cars",
+"pool": "ecN"
+},
+"346": {
+"label": "None",
+"conf": 85,
+"why": "EVs cited only as an example of unavailable technology in an argument about ignorance",
+"pool": "ecN"
+},
+"349": {
+"label": "None",
+"conf": 58,
+"why": "question about Tesla's pioneer status, no evaluation of EVs themselves",
+"pool": "ecN"
+},
+"352": {
+"label": "None",
+"conf": 75,
+"why": "speculation about the targeted market segment, purely descriptive",
+"pool": "ecN"
+},
+"355": {
+"label": "None",
+"conf": 88,
+"why": "warranty question about an electric fuel pump, unrelated to EVs",
+"pool": "ecN"
+},
+"356": {
+"label": "None",
+"conf": 80,
+"why": "factual news report on hydrogen fuel-cell production plans",
+"pool": "ecN"
+},
+"361": {
+"label": "None",
+"conf": 82,
+"why": "neutral poll question about EV price factors",
+"pool": "ecN"
+},
+"374": {
+"label": "Against",
+"conf": 52,
+"why": "insists on knowing EV drawbacks first, wary framing",
+"pool": "ecN"
+},
+"376": {
+"label": "None",
+"conf": 78,
+"why": "flat factual correction that the cars are electric",
+"pool": "ecN"
+},
+"379": {
+"label": "None",
+"conf": 80,
+"why": "factual statement that EVs have no fuel tank",
+"pool": "ecN"
+},
+"395": {
+"label": "None",
+"conf": 72,
+"why": "informational note about a crypto coin for EV charging",
+"pool": "ecN"
+},
+"400": {
+"label": "None",
+"conf": 68,
+"why": "analytical remark that EVs are old tech now trending, no evaluation",
+"pool": "ecN"
+},
+"402": {
+"label": "None",
+"conf": 85,
+"why": "regulatory question about importing used EVs",
+"pool": "ecN"
+},
+"403": {
+"label": "None",
+"conf": 85,
+"why": "regulatory question about importing used EVs",
+"pool": "ecN"
+},
+"404": {
+"label": "None",
+"conf": 65,
+"why": "descriptive identification of a Turkish-made EV brand",
+"pool": "ecN"
+},
+"408": {
+"label": "None",
+"conf": 88,
+"why": "prices of children's toy electric cars, unrelated to the target",
+"pool": "ecN"
+},
+"415": {
+"label": "None",
+"conf": 62,
+"why": "reports a manufacturing agreement without endorsing or opposing it",
+"pool": "ecN"
+},
+"418": {
+"label": "Favor",
+"conf": 55,
+"why": "defends the EV concept car's different look against implied criticism",
+"pool": "ecN"
+},
+"442": {
+"label": "None",
+"conf": 90,
+"why": "factual note on cobalt reserves and German economic interest",
+"pool": "ecN"
+},
+"445": {
+"label": "None",
+"conf": 92,
+"why": "news headline about companies entering the EV sector",
+"pool": "ecN"
+},
+"452": {
+"label": "None",
+"conf": 85,
+"why": "bare descriptive remark that it looks like an electric car",
+"pool": "ecN"
+},
+"472": {
+"label": "None",
+"conf": 72,
+"why": "historical statement that an invention ended EVs back then",
+"pool": "ecN"
+},
+"477": {
+"label": "None",
+"conf": 88,
+"why": "news relay about Sony shifting to electric cars",
+"pool": "ecN"
+},
+"482": {
+"label": "None",
+"conf": 58,
+"why": "historical explanation of why gasoline beat EVs at the time",
+"pool": "ecN"
+},
+"485": {
+"label": "None",
+"conf": 70,
+"why": "prediction of impact on gas stations, no evaluation of EVs",
+"pool": "ecN"
+},
+"490": {
+"label": "None",
+"conf": 90,
+"why": "stock valuation math, EV entry mentioned as a factor",
+"pool": "ecN"
+},
+"493": {
+"label": "None",
+"conf": 52,
+"why": "discussion questions to a Space host; doubt aimed at 2060 ambitions, not EVs",
+"pool": "ecN"
+},
+"496": {
+"label": "None",
+"conf": 85,
+"why": "practical remark about sizing an EV charger",
+"pool": "ecN"
+},
+"497": {
+"label": "None",
+"conf": 62,
+"why": "praise aimed at Tesla's AI/robotics, explicitly not its EV side",
+"pool": "ecN"
+},
+"498": {
+"label": "None",
+"conf": 65,
+"why": "mockery targets Musk's originality, not electric cars",
+"pool": "ecN"
+},
+"500": {
+"label": "None",
+"conf": 82,
+"why": "open question about licensing rules for EVs",
+"pool": "ecN"
+},
+"501": {
+"label": "Against",
+"conf": 62,
+"why": "downplays EV growth by claiming petrol-car output grows more",
+"pool": "ecN"
+},
+"503": {
+"label": "None",
+"conf": 88,
+"why": "joke about a crypto coin used in EV charging",
+"pool": "ecN"
+},
+"504": {
+"label": "None",
+"conf": 78,
+"why": "copper-mining investment case citing future EV demand",
+"pool": "ecN"
+},
+"506": {
+"label": "Against",
+"conf": 78,
+"why": "sarcastic rhetorical question mocking EVs' claimed effect on oil",
+"pool": "ecN"
+},
+"507": {
+"label": "None",
+"conf": 90,
+"why": "descriptive pointer to another car from the same company",
+"pool": "ecN"
+},
+"509": {
+"label": "None",
+"conf": 68,
+"why": "bare winking mention of Chinese EVs, direction unclear",
+"pool": "ecN"
+},
+"510": {
+"label": "None",
+"conf": 55,
+"why": "garbled anecdote about a detour; complaint not clearly about EVs",
+"pool": "ecN"
+},
+"517": {
+"label": "None",
+"conf": 85,
+"why": "Egyptian industrial-policy point listing EVs as a sector",
+"pool": "ecN"
+},
+"521": {
+"label": "None",
+"conf": 88,
+"why": "asks whether a clothing firm's EV pivot is worth watching; no evaluation of EVs",
+"pool": "ecN"
+},
+"523": {
+"label": "None",
+"conf": 85,
+"why": "market question about Chinese competition to US EV stocks, no stance on EVs",
+"pool": "ecN"
+},
+"539": {
+"label": "None",
+"conf": 97,
+"why": "bare topic fragment, no evaluative content",
+"pool": "ecN"
+},
+"541": {
+"label": "None",
+"conf": 88,
+"why": "purely descriptive statement about a lithium battery plant",
+"pool": "ecN"
+},
+"546": {
+"label": "None",
+"conf": 95,
+"why": "generic clarifying question, no stance",
+"pool": "ecN"
+},
+"555": {
+"label": "None",
+"conf": 80,
+"why": "neutral market prediction; negativity targets Evergrande, not EVs",
+"pool": "ecN"
+},
+"575": {
+"label": "Against",
+"conf": 62,
+"why": "demands imported EVs be rain/flood-proofed, voicing fear of EV water vulnerability",
+"pool": "ecN"
+},
+"585": {
+"label": "None",
+"conf": 78,
+"why": "ticker-tagging a stock with EV names, no evaluation of EVs",
+"pool": "ecN"
+},
+"0": {
+"label": "Against",
+"conf": 88,
+"why": "already dreading the third term (skull emoji)",
+"pool": "trA"
+},
+"1": {
+"label": "Against",
+"conf": 95,
+"why": "claims students' mental energy cannot sustain three terms",
+"pool": "trA"
+},
+"2": {
+"label": "Against",
+"conf": 66,
+"why": "demands shorter school day because three terms are too heavy",
+"pool": "trA"
+},
+"3": {
+"label": "Against",
+"conf": 97,
+"why": "says cancelling the third term is the only real positive change",
+"pool": "trA"
+},
+"4": {
+"label": "Against",
+"conf": 94,
+"why": "bare demand to cancel the third term",
+"pool": "trA"
+},
+"5": {
+"label": "Against",
+"conf": 96,
+"why": "system was only nice for two days; asks officials to reconsider",
+"pool": "trA"
+},
+"6": {
+"label": "Against",
+"conf": 94,
+"why": "demand to cancel the third term",
+"pool": "trA"
+},
+"10": {
+"label": "Against",
+"conf": 80,
+"why": "counts down to the end and wants a 'solution' for the third term",
+"pool": "trA"
+},
+"12": {
+"label": "Against",
+"conf": 82,
+"why": "blames the three terms for absenteeism and cites widespread complaints",
+"pool": "trA"
+},
+"13": {
+"label": "Against",
+"conf": 96,
+"why": "three terms exhaust students and teachers and drive absences up",
+"pool": "trA"
+},
+"14": {
+"label": "Against",
+"conf": 97,
+"why": "prays for cancellation; exhausted by the calendar chaos",
+"pool": "trA"
+},
+"16": {
+"label": "Against",
+"conf": 97,
+"why": "demands return of two terms and a decree cancelling the third",
+"pool": "trA"
+},
+"17": {
+"label": "Against",
+"conf": 98,
+"why": "calls the three-term system deadly and passion-killing",
+"pool": "trA"
+},
+"18": {
+"label": "Against",
+"conf": 84,
+"why": "sarcasm at how fast third-term textbooks were handed out",
+"pool": "trA"
+},
+"19": {
+"label": "Against",
+"conf": 96,
+"why": "pleads with leadership to cancel the third term",
+"pool": "trA"
+},
+"21": {
+"label": "Against",
+"conf": 68,
+"why": "demands the third term be pushed past Ramadan, rejecting the current calendar",
+"pool": "trA"
+},
+"22": {
+"label": "Against",
+"conf": 72,
+"why": "bitter sarcasm that two terms are a pipe dream and study drags on endlessly",
+"pool": "trA"
+},
+"23": {
+"label": "Against",
+"conf": 66,
+"why": "mocking call to just announce the third term is cancelled",
+"pool": "trA"
+},
+"24": {
+"label": "Against",
+"conf": 92,
+"why": "lists cancelling the third term among hoped-for good news",
+"pool": "trA"
+},
+"25": {
+"label": "Against",
+"conf": 95,
+"why": "school became boring due to scattered breaks and the three-term system",
+"pool": "trA"
+},
+"26": {
+"label": "Against",
+"conf": 68,
+"why": "demands the third term start only after Ramadan",
+"pool": "trA"
+},
+"27": {
+"label": "Against",
+"conf": 96,
+"why": "argues long three terms breed boredom, apathy and absence",
+"pool": "trA"
+},
+"28": {
+"label": "Against",
+"conf": 95,
+"why": "explicitly wishes the third term were canceled",
+"pool": "trA"
+},
+"29": {
+"label": "Against",
+"conf": 96,
+"why": "calls the three-term system a disaster that drains and sickens students",
+"pool": "trA"
+},
+"31": {
+"label": "Against",
+"conf": 92,
+"why": "curricula unsuited to three terms, exhausting exam/assignment load",
+"pool": "trA"
+},
+"32": {
+"label": "Against",
+"conf": 90,
+"why": "asks for relief from three terms, blames them for financial strain",
+"pool": "trA"
+},
+"33": {
+"label": "Against",
+"conf": 96,
+"why": "declares the third term an absolute failure",
+"pool": "trA"
+},
+"34": {
+"label": "Against",
+"conf": 66,
+"why": "implies nationwide relief if third term went remote, i.e. it is a burden",
+"pool": "trA"
+},
+"35": {
+"label": "Against",
+"conf": 72,
+"why": "mocks authorities for sneaking the third term in to force acceptance",
+"pool": "trA"
+},
+"37": {
+"label": "Against",
+"conf": 91,
+"why": "three terms with unchanged course plans make the load unbearable",
+"pool": "trA"
+},
+"38": {
+"label": "Against",
+"conf": 94,
+"why": "pleads to cancel the third term and Ramadan schooling",
+"pool": "trA"
+},
+"39": {
+"label": "Against",
+"conf": 70,
+"why": "says things went downhill since the three-term decision despite scolding complainers",
+"pool": "trA"
+},
+"41": {
+"label": "Against",
+"conf": 93,
+"why": "three-semester system causes pressure, hatred of study, fear of depression",
+"pool": "trA"
+},
+"43": {
+"label": "Against",
+"conf": 55,
+"why": "rhetorical question pushing for a return-to-two-semesters option",
+"pool": "trA"
+},
+"44": {
+"label": "Against",
+"conf": 95,
+"why": "demands cancellation, blames three terms for harming health and family life",
+"pool": "trA"
+},
+"47": {
+"label": "Against",
+"conf": 88,
+"why": "endorses canceling the third semester",
+"pool": "trA"
+},
+"48": {
+"label": "Against",
+"conf": 90,
+"why": "requests the third semester be reconsidered or canceled",
+"pool": "trA"
+},
+"49": {
+"label": "Against",
+"conf": 90,
+"why": "laments three semesters with distress emojis",
+"pool": "trA"
+},
+"50": {
+"label": "Against",
+"conf": 80,
+"why": "likens the three terms to exhaustion, joking even Elon is tired",
+"pool": "trA"
+},
+"51": {
+"label": "Against",
+"conf": 52,
+"why": "wishes the third term were shrunk/changed, cryptic but non-supportive",
+"pool": "trA"
+},
+"52": {
+"label": "Against",
+"conf": 85,
+"why": "hopes for a directive canceling the three terms",
+"pool": "trA"
+},
+"53": {
+"label": "Against",
+"conf": 94,
+"why": "prays for cancellation and a return to two semesters",
+"pool": "trA"
+},
+"54": {
+"label": "Against",
+"conf": 97,
+"why": "explicitly backs the #Against_Three_School_Semesters hashtag",
+"pool": "trA"
+},
+"55": {
+"label": "Against",
+"conf": 93,
+"why": "says three semesters harm mental health and waste money, mocks claimed benefits",
+"pool": "trA"
+},
+"57": {
+"label": "Against",
+"conf": 88,
+"why": "wants news of canceling the third term as good news",
+"pool": "trA"
+},
+"58": {
+"label": "Against",
+"conf": 95,
+"why": "three terms exhausting, two terms were a blessing",
+"pool": "trA"
+},
+"59": {
+"label": "Against",
+"conf": 96,
+"why": "system drives teachers/students away, absences rose",
+"pool": "trA"
+},
+"60": {
+"label": "Against",
+"conf": 94,
+"why": "demands cancellation of the third term over illness",
+"pool": "trA"
+},
+"61": {
+"label": "Against",
+"conf": 93,
+"why": "third term is unnecessary and costly for parents",
+"pool": "trA"
+},
+"62": {
+"label": "Against",
+"conf": 92,
+"why": "asks when the three-term system will be removed",
+"pool": "trA"
+},
+"63": {
+"label": "Against",
+"conf": 90,
+"why": "promotes a cancel-the-third-term hashtag",
+"pool": "trA"
+},
+"64": {
+"label": "Against",
+"conf": 76,
+"why": "lost all motivation over the third-term schedule",
+"pool": "trA"
+},
+"65": {
+"label": "Against",
+"conf": 95,
+"why": "no benefit from three terms, only lost motivation",
+"pool": "trA"
+},
+"67": {
+"label": "Against",
+"conf": 93,
+"why": "flat demand to cancel the three terms",
+"pool": "trA"
+},
+"68": {
+"label": "Against",
+"conf": 82,
+"why": "calls the three-term system one nobody liked",
+"pool": "trA"
+},
+"69": {
+"label": "Against",
+"conf": 96,
+"why": "pointless, children came to hate school because of it",
+"pool": "trA"
+},
+"70": {
+"label": "Against",
+"conf": 62,
+"why": "cites sleeplessness, sickness and pressure from three terms as harm",
+"pool": "trA"
+},
+"71": {
+"label": "Against",
+"conf": 94,
+"why": "hopes the university three-term system is abolished",
+"pool": "trA"
+},
+"73": {
+"label": "Against",
+"conf": 96,
+"why": "demands cancellation over psychological and physical strain",
+"pool": "trA"
+},
+"74": {
+"label": "Against",
+"conf": 88,
+"why": "sarcastic jab that three terms exhaust students",
+"pool": "trA"
+},
+"75": {
+"label": "Against",
+"conf": 91,
+"why": "explicit call to cancel the third term",
+"pool": "trA"
+},
+"76": {
+"label": "Against",
+"conf": 90,
+"why": "canceling the third term beats any other break",
+"pool": "trA"
+},
+"77": {
+"label": "Against",
+"conf": 87,
+"why": "three terms exhausting, forces rote memorization",
+"pool": "trA"
+},
+"78": {
+"label": "Against",
+"conf": 90,
+"why": "two halves suffice, three terms exhaust society",
+"pool": "trA"
+},
+"79": {
+"label": "Against",
+"conf": 89,
+"why": "wishes the three terms gone",
+"pool": "trA"
+},
+"80": {
+"label": "Against",
+"conf": 90,
+"why": "urges petitioning the minister to cancel the third term",
+"pool": "trA"
+},
+"81": {
+"label": "Against",
+"conf": 94,
+"why": "wants the person who proposed three terms gone",
+"pool": "trA"
+},
+"82": {
+"label": "Against",
+"conf": 96,
+"why": "calls the three-term system maximally exhausting",
+"pool": "trA"
+},
+"83": {
+"label": "Against",
+"conf": 78,
+"why": "says three terms already drains the life out of teachers",
+"pool": "trA"
+},
+"84": {
+"label": "Against",
+"conf": 96,
+"why": "warns of cumulative physical/psychological burden of three terms",
+"pool": "trA"
+},
+"85": {
+"label": "Against",
+"conf": 87,
+"why": "demands not to exhaust students with the third term",
+"pool": "trA"
+},
+"86": {
+"label": "Against",
+"conf": 92,
+"why": "recalls two years of unheeded demands to abolish the three terms",
+"pool": "trA"
+},
+"87": {
+"label": "Against",
+"conf": 95,
+"why": "lists midterm-to-final crush as a downside of the three terms",
+"pool": "trA"
+},
+"88": {
+"label": "Against",
+"conf": 93,
+"why": "sarcastically mocks imposing three terms then preaching against exam strain",
+"pool": "trA"
+},
+"89": {
+"label": "Against",
+"conf": 84,
+"why": "complains exams are crammed despite the three-term year",
+"pool": "trA"
+},
+"90": {
+"label": "Against",
+"conf": 95,
+"why": "tells officials to cancel the third term and ease the exam load",
+"pool": "trA"
+},
+"91": {
+"label": "Against",
+"conf": 95,
+"why": "blames the ministry's three terms for boredom and lost motivation",
+"pool": "trA"
+},
+"93": {
+"label": "Against",
+"conf": 96,
+"why": "calls the three-term system a failed decision",
+"pool": "trA"
+},
+"94": {
+"label": "Against",
+"conf": 97,
+"why": "calls it an ordeal and calamity, prays to be rid of it",
+"pool": "trA"
+},
+"95": {
+"label": "Against",
+"conf": 95,
+"why": "exhausted, wishes the third term canceled",
+"pool": "trA"
+},
+"96": {
+"label": "Against",
+"conf": 95,
+"why": "prays against those who approved the three-term system",
+"pool": "trA"
+},
+"98": {
+"label": "Against",
+"conf": 60,
+"why": "invokes three terms' costs as an already-excessive burden on parents",
+"pool": "trA"
+},
+"99": {
+"label": "Against",
+"conf": 94,
+"why": "longs for news that the third term is canceled",
+"pool": "trA"
+},
+"100": {
+"label": "Against",
+"conf": 95,
+"why": "urges officials to cancel the third term",
+"pool": "trA"
+},
+"101": {
+"label": "Against",
+"conf": 94,
+"why": "invokes God against the three terms amid pile-up of deadlines",
+"pool": "trA"
+},
+"102": {
+"label": "Against",
+"conf": 97,
+"why": "declares the three-term system a proven failure",
+"pool": "trA"
+},
+"103": {
+"label": "Against",
+"conf": 72,
+"why": "says its benefit is economic, not educational",
+"pool": "trA"
+},
+"104": {
+"label": "Against",
+"conf": 96,
+"why": "hopes the decider never holds office again over the rushed pace",
+"pool": "trA"
+},
+"105": {
+"label": "Against",
+"conf": 88,
+"why": "no enjoyment at all in a full year of three terms",
+"pool": "trA"
+},
+"106": {
+"label": "Against",
+"conf": 96,
+"why": "calls three-term system exhausting, boring, pointless",
+"pool": "trA"
+},
+"107": {
+"label": "Against",
+"conf": 80,
+"why": "author's own proposal is to cancel the third term",
+"pool": "trA"
+},
+"108": {
+"label": "Against",
+"conf": 97,
+"why": "explicitly calls the three-term system a failure",
+"pool": "trA"
+},
+"109": {
+"label": "Against",
+"conf": 82,
+"why": "frames three terms as suffering",
+"pool": "trA"
+},
+"110": {
+"label": "Against",
+"conf": 72,
+"why": "one grade benefit but net complaint about relentless race",
+"pool": "trA"
+},
+"111": {
+"label": "Against",
+"conf": 95,
+"why": "prays for the third term to be cancelled",
+"pool": "trA"
+},
+"112": {
+"label": "Against",
+"conf": 93,
+"why": "third term brings exhaustion; praises UAE for abolishing it",
+"pool": "trA"
+},
+"113": {
+"label": "Against",
+"conf": 90,
+"why": "sarcastic jab at stretching the year into three terms",
+"pool": "trA"
+},
+"114": {
+"label": "Against",
+"conf": 94,
+"why": "blames third term for stress and depression, wants it abolished",
+"pool": "trA"
+},
+"115": {
+"label": "Against",
+"conf": 88,
+"why": "sympathetic image of a child broken by the third term",
+"pool": "trA"
+},
+"116": {
+"label": "Against",
+"conf": 94,
+"why": "ranks three terms worst: exhausting and costly",
+"pool": "trA"
+},
+"117": {
+"label": "Against",
+"conf": 90,
+"why": "wants the three-term system reconsidered, proposes two terms",
+"pool": "trA"
+},
+"118": {
+"label": "Against",
+"conf": 85,
+"why": "despairs that the third term will not be cancelled",
+"pool": "trA"
+},
+"119": {
+"label": "Against",
+"conf": 80,
+"why": "third term leaves students with zero motivation",
+"pool": "trA"
+},
+"120": {
+"label": "Against",
+"conf": 94,
+"why": "urges prayers to cancel the third term, we are suffocating",
+"pool": "trA"
+},
+"121": {
+"label": "Against",
+"conf": 92,
+"why": "rhetorical questions concluding the extra term added only boredom",
+"pool": "trA"
+},
+"122": {
+"label": "Against",
+"conf": 95,
+"why": "three terms are boring with more downsides",
+"pool": "trA"
+},
+"123": {
+"label": "Against",
+"conf": 92,
+"why": "officials should revisit the three-term decision, motivation lowest",
+"pool": "trA"
+},
+"124": {
+"label": "Favor",
+"conf": 58,
+"why": "playfully praises a benefit of the three-term system",
+"pool": "trA"
+},
+"125": {
+"label": "Against",
+"conf": 84,
+"why": "everyone is fed up with the three terms",
+"pool": "trA"
+},
+"126": {
+"label": "Against",
+"conf": 95,
+"why": "curses whoever invented the three-term idea",
+"pool": "trA"
+},
+"127": {
+"label": "Against",
+"conf": 93,
+"why": "students exhausted, refuses to support mandatory third term",
+"pool": "trA"
+},
+"128": {
+"label": "Against",
+"conf": 72,
+"why": "jokes that the third term should be 'out'",
+"pool": "trA"
+},
+"129": {
+"label": "Against",
+"conf": 93,
+"why": "three terms are too many and exhausting",
+"pool": "trA"
+},
+"131": {
+"label": "Against",
+"conf": 96,
+"why": "calls three terms destructive for students and families",
+"pool": "trA"
+},
+"132": {
+"label": "Against",
+"conf": 95,
+"why": "wants to be spared the misery of the third term",
+"pool": "trA"
+},
+"133": {
+"label": "Against",
+"conf": 72,
+"why": "three terms already exhaust mothers",
+"pool": "trA"
+},
+"134": {
+"label": "Against",
+"conf": 66,
+"why": "dismisses three terms as an empty slogan with no action",
+"pool": "trA"
+},
+"135": {
+"label": "Against",
+"conf": 95,
+"why": "demands return to the old two-term system",
+"pool": "trA"
+},
+"136": {
+"label": "Against",
+"conf": 95,
+"why": "asks to reverse third-term decision over negative impact",
+"pool": "trA"
+},
+"140": {
+"label": "Against",
+"conf": 88,
+"why": "system boring and exhausting, needs urgent review",
+"pool": "trA"
+},
+"142": {
+"label": "Against",
+"conf": 95,
+"why": "third term draining, makes students hate school, useless",
+"pool": "trA"
+},
+"143": {
+"label": "Against",
+"conf": 55,
+"why": "weary resignation to the recurring term-period ordeal",
+"pool": "trA"
+},
+"145": {
+"label": "Against",
+"conf": 78,
+"why": "endorses scrapping the three-term system, return to two",
+"pool": "trA"
+},
+"146": {
+"label": "Against",
+"conf": 90,
+"why": "hopes the third term is cancelled",
+"pool": "trA"
+},
+"147": {
+"label": "Against",
+"conf": 75,
+"why": "advocates cancelling the third term",
+"pool": "trA"
+},
+"148": {
+"label": "Against",
+"conf": 96,
+"why": "enumerates harms of the three-semester system",
+"pool": "trA"
+},
+"149": {
+"label": "Against",
+"conf": 95,
+"why": "wants three terms removed, calls them pointless",
+"pool": "trA"
+},
+"150": {
+"label": "Against",
+"conf": 70,
+"why": "dismayed rhetorical question about the third term",
+"pool": "trA"
+},
+"151": {
+"label": "Against",
+"conf": 96,
+"why": "calls it the ministry's worst decision",
+"pool": "trA"
+},
+"152": {
+"label": "Favor",
+"conf": 55,
+"why": "dialect 'mudabta' = still on good terms/fine with the third term",
+"pool": "trA"
+},
+"153": {
+"label": "Against",
+"conf": 78,
+"why": "wishlist includes cancelling the third term",
+"pool": "trA"
+},
+"154": {
+"label": "Against",
+"conf": 75,
+"why": "endorses unanimous preference to cancel the third term",
+"pool": "trA"
+},
+"155": {
+"label": "Against",
+"conf": 85,
+"why": "lists boredom of year-round study, overcrowding, food lines as harms of three semesters",
+"pool": "trA"
+},
+"156": {
+"label": "Against",
+"conf": 96,
+"why": "explicitly demands cancelling the third semester",
+"pool": "trA"
+},
+"157": {
+"label": "Against",
+"conf": 80,
+"why": "rhetorical jab at the decision-maker behind the three-semester rule",
+"pool": "trA"
+},
+"159": {
+"label": "Against",
+"conf": 92,
+"why": "calls for cancellation, cites daily traffic burden",
+"pool": "trA"
+},
+"160": {
+"label": "Against",
+"conf": 93,
+"why": "adds cancelling the third semester to a list of demands",
+"pool": "trA"
+},
+"161": {
+"label": "Against",
+"conf": 97,
+"why": "begs the minister to cancel it; exhaustion of parents and children",
+"pool": "trA"
+},
+"162": {
+"label": "Against",
+"conf": 94,
+"why": "asks not to burden students and parents with three semesters",
+"pool": "trA"
+},
+"163": {
+"label": "Against",
+"conf": 95,
+"why": "cancel the three terms and the exhaustion ends",
+"pool": "trA"
+},
+"164": {
+"label": "Against",
+"conf": 55,
+"why": "elliptical reply wishing the whole third semester away/remote",
+"pool": "trA"
+},
+"166": {
+"label": "Against",
+"conf": 96,
+"why": "demands cancellation of the exhausting third semester",
+"pool": "trA"
+},
+"167": {
+"label": "Against",
+"conf": 92,
+"why": "prefers remote and says cancelling the third semester is far better",
+"pool": "trA"
+},
+"168": {
+"label": "Against",
+"conf": 85,
+"why": "sarcastic exhaustion at third-semester registration",
+"pool": "trA"
+},
+"169": {
+"label": "Against",
+"conf": 93,
+"why": "mocks ministry contradiction of imposing three semesters",
+"pool": "trA"
+},
+"170": {
+"label": "Against",
+"conf": 72,
+"why": "says one can barely keep up with the three terms",
+"pool": "trA"
+},
+"171": {
+"label": "Against",
+"conf": 97,
+"why": "invokes God against whoever devised the three-term system",
+"pool": "trA"
+},
+"172": {
+"label": "Against",
+"conf": 85,
+"why": "rhetorically challenges the legitimacy of the third-semester decision",
+"pool": "trA"
+},
+"174": {
+"label": "Against",
+"conf": 88,
+"why": "asserts people are fed up with the three-semester system",
+"pool": "trA"
+},
+"177": {
+"label": "Against",
+"conf": 95,
+"why": "three terms plus Ramadan schooling exhausted everyone",
+"pool": "trA"
+},
+"179": {
+"label": "Against",
+"conf": 70,
+"why": "tallies overwhelming opposition and amplifies public discontent",
+"pool": "trA"
+},
+"180": {
+"label": "Against",
+"conf": 97,
+"why": "emphatic yes to cancelling the third semester",
+"pool": "trA"
+},
+"181": {
+"label": "Against",
+"conf": 78,
+"why": "calls the year-long schooling boring, wants third semester made remote",
+"pool": "trA"
+},
+"182": {
+"label": "Against",
+"conf": 93,
+"why": "calls three terms a waste of time with repeated content",
+"pool": "trA"
+},
+"183": {
+"label": "Against",
+"conf": 95,
+"why": "complains extra semester harms honors, demands regulations change",
+"pool": "trA"
+},
+"184": {
+"label": "Against",
+"conf": 97,
+"why": "calls system unfair/exhausting, asks to return to two semesters",
+"pool": "trA"
+},
+"185": {
+"label": "Against",
+"conf": 95,
+"why": "same complaint about extra semester hurting honors standing",
+"pool": "trA"
+},
+"186": {
+"label": "Against",
+"conf": 93,
+"why": "says the three terms have exhausted them",
+"pool": "trA"
+},
+"187": {
+"label": "Against",
+"conf": 94,
+"why": "rebuts a defender, denies any measurable benefit after two years",
+"pool": "trA"
+},
+"188": {
+"label": "Against",
+"conf": 78,
+"why": "mocks arrival of third-semester books as ill-timed",
+"pool": "trA"
+},
+"189": {
+"label": "Against",
+"conf": 85,
+"why": "sarcastic 'mashallah' at three terms plus exhaustion rebuke",
+"pool": "trA"
+},
+"190": {
+"label": "Against",
+"conf": 98,
+"why": "calls it a failed decision harming students and economy",
+"pool": "trA"
+},
+"191": {
+"label": "Against",
+"conf": 90,
+"why": "sarcastic acceptance undercut by 'good morning, coercion'",
+"pool": "trA"
+},
+"192": {
+"label": "Against",
+"conf": 94,
+"why": "exhaustion hit teachers, students and parents under three terms",
+"pool": "trA"
+},
+"193": {
+"label": "Against",
+"conf": 92,
+"why": "awaits and hopes for the cancellation decision",
+"pool": "trA"
+},
+"195": {
+"label": "Against",
+"conf": 97,
+"why": "calls the third semester a proven failure, demands cancellation",
+"pool": "trA"
+},
+"196": {
+"label": "Against",
+"conf": 88,
+"why": "dismay at receiving third-semester books",
+"pool": "trA"
+},
+"197": {
+"label": "Against",
+"conf": 93,
+"why": "demands cancelling the third semester",
+"pool": "trA"
+},
+"198": {
+"label": "Against",
+"conf": 96,
+"why": "wants officials behind the third-semester decision gone",
+"pool": "trA"
+},
+"199": {
+"label": "Against",
+"conf": 91,
+"why": "mocks liking three terms, year-round study with no rest",
+"pool": "trA"
+},
+"201": {
+"label": "Against",
+"conf": 90,
+"why": "morale at zero because third semester follows immediately",
+"pool": "trA"
+},
+"202": {
+"label": "Against",
+"conf": 93,
+"why": "says cancelling the third semester would be better",
+"pool": "trA"
+},
+"203": {
+"label": "Against",
+"conf": 95,
+"why": "no benefit from the system, students are its victims",
+"pool": "trA"
+},
+"204": {
+"label": "Against",
+"conf": 92,
+"why": "prays for cancellation via the cancel hashtag",
+"pool": "trA"
+},
+"205": {
+"label": "Against",
+"conf": 95,
+"why": "begs Crown Prince to cancel it, school year too long",
+"pool": "trA"
+},
+"206": {
+"label": "Favor",
+"conf": 55,
+"why": "mocks the cancellation campaigners as futile since books already distributed",
+"pool": "trA"
+},
+"207": {
+"label": "Against",
+"conf": 96,
+"why": "calls three semesters exhausting and off-putting",
+"pool": "trA"
+},
+"208": {
+"label": "Against",
+"conf": 97,
+"why": "demands cancellation of the third semester",
+"pool": "trA"
+},
+"209": {
+"label": "Against",
+"conf": 93,
+"why": "cancel-hashtag plus congestion and chaos complaints",
+"pool": "trA"
+},
+"210": {
+"label": "Against",
+"conf": 92,
+"why": "blames three-term system for everyone's mental state",
+"pool": "trA"
+},
+"212": {
+"label": "Against",
+"conf": 96,
+"why": "prays for the third semester to be cancelled",
+"pool": "trA"
+},
+"213": {
+"label": "Against",
+"conf": 95,
+"why": "curses and demands cancellation, exhausted",
+"pool": "trA"
+},
+"214": {
+"label": "Against",
+"conf": 74,
+"why": "angry complaint that the term drags on and drains them",
+"pool": "trA"
+},
+"215": {
+"label": "Against",
+"conf": 60,
+"why": "dread emoji at only nine days off before the third term",
+"pool": "trA"
+},
+"216": {
+"label": "Against",
+"conf": 95,
+"why": "third semester made kids hate school, curses its author",
+"pool": "trA"
+},
+"217": {
+"label": "Against",
+"conf": 92,
+"why": "argues the third semester is educationally useless",
+"pool": "trA"
+},
+"218": {
+"label": "Against",
+"conf": 96,
+"why": "imprecation against whoever invented the third semester",
+"pool": "trA"
+},
+"221": {
+"label": "Against",
+"conf": 90,
+"why": "calls year-round study a mistake causing congestion",
+"pool": "trA"
+},
+"222": {
+"label": "Against",
+"conf": 95,
+"why": "asks to scrap it, we are exhausted",
+"pool": "trA"
+},
+"223": {
+"label": "Against",
+"conf": 88,
+"why": "cites absences, boredom and wasted effort as its effects",
+"pool": "trA"
+},
+"224": {
+"label": "Against",
+"conf": 76,
+"why": "sarcastic plan to slack off through the third semester",
+"pool": "trA"
+},
+"225": {
+"label": "Against",
+"conf": 66,
+"why": "wants the whole third semester moved remote",
+"pool": "trA"
+},
+"226": {
+"label": "None",
+"conf": 55,
+"why": "argues about traffic and remote-study logistics, no stance on the system",
+"pool": "trA"
+},
+"228": {
+"label": "Against",
+"conf": 82,
+"why": "excuses the complaint by blaming three terms",
+"pool": "trA"
+},
+"229": {
+"label": "Against",
+"conf": 94,
+"why": "problem of children studying eleven months a year",
+"pool": "trA"
+},
+"230": {
+"label": "Against",
+"conf": 93,
+"why": "exhausted and fed up, wants a break instead",
+"pool": "trA"
+},
+"231": {
+"label": "Against",
+"conf": 62,
+"why": "rhetorical proposal implying the third term should not be in person",
+"pool": "trA"
+},
+"232": {
+"label": "Against",
+"conf": 96,
+"why": "calls three terms a waste of energy and well-being",
+"pool": "trA"
+},
+"233": {
+"label": "Against",
+"conf": 99,
+"why": "calls it the worst/failed system, doubled pressure, curriculum won't fit 13 weeks",
+"pool": "trA"
+},
+"234": {
+"label": "Against",
+"conf": 96,
+"why": "explicitly names this as a downside of the three-term system",
+"pool": "trA"
+},
+"235": {
+"label": "Against",
+"conf": 95,
+"why": "wishes the third term were canceled, no energy left",
+"pool": "trA"
+},
+"236": {
+"label": "Against",
+"conf": 94,
+"why": "demands cancellation of the third term",
+"pool": "trA"
+},
+"237": {
+"label": "Against",
+"conf": 97,
+"why": "blames the three-term system for job burnout",
+"pool": "trA"
+},
+"240": {
+"label": "Against",
+"conf": 76,
+"why": "asserts an overwhelming majority wants the third term canceled, endorsing that camp",
+"pool": "trA"
+},
+"241": {
+"label": "Against",
+"conf": 62,
+"why": "pushes remote study during Ramadan as the fix for the third term's clash with Ramadan",
+"pool": "trA"
+},
+"243": {
+"label": "Against",
+"conf": 95,
+"why": "says the third term should be canceled and breaks increased",
+"pool": "trA"
+},
+"244": {
+"label": "Against",
+"conf": 97,
+"why": "calls the three-term system unfair for university students",
+"pool": "trA"
+},
+"245": {
+"label": "Against",
+"conf": 70,
+"why": "uses the end of the third term as shorthand for misery with sad emojis",
+"pool": "trA"
+},
+"246": {
+"label": "Against",
+"conf": 97,
+"why": "says the third term is more negative than positive, absences and falling performance",
+"pool": "trA"
+},
+"247": {
+"label": "Against",
+"conf": 94,
+"why": "wants the third term compressed now and canceled next year",
+"pool": "trA"
+},
+"248": {
+"label": "Against",
+"conf": 66,
+"why": "consoling 'it shall pass' with teary emojis implies the term is an ordeal",
+"pool": "trA"
+},
+"249": {
+"label": "Against",
+"conf": 90,
+"why": "jokes about being defeated by third-term textbooks",
+"pool": "trA"
+},
+"250": {
+"label": "Against",
+"conf": 88,
+"why": "complains the promised lighter workload never materialized",
+"pool": "trA"
+},
+"251": {
+"label": "Against",
+"conf": 99,
+"why": "prays it be canceled at all levels, exhausting with no benefit",
+"pool": "trA"
+},
+"252": {
+"label": "Against",
+"conf": 97,
+"why": "calls imposing three terms an unsuccessful idea causing widespread frustration",
+"pool": "trA"
+},
+"253": {
+"label": "Against",
+"conf": 94,
+"why": "celebrates the break and hopes the third term gets canceled",
+"pool": "trA"
+},
+"277": {
+"label": "Against",
+"conf": 92,
+"why": "sarcastic '#benefits_of_three_terms' over losing the long summer trip home",
+"pool": "trA"
+},
+"11": {
+"label": "Favor",
+"conf": 70,
+"why": "defends the third term as the calmest and best, deflecting curses onto the second",
+"pool": "trF"
+},
+"40": {
+"label": "Favor",
+"conf": 52,
+"why": "dismisses a non-student critic and says 'we have three terms, alhamdulillah' with mock-spoiled banter",
+"pool": "trF"
+},
+"42": {
+"label": "Favor",
+"conf": 60,
+"why": "accepts the three terms and proposes tuning them (4 days/week, drop long weekends)",
+"pool": "trF"
+},
+"45": {
+"label": "Favor",
+"conf": 92,
+"why": "explicitly says three terms are better, with approving emojis",
+"pool": "trF"
+},
+"46": {
+"label": "Favor",
+"conf": 60,
+"why": "mocks a critic's spelling, treating more schooling than three terms as the needed remedy",
+"pool": "trF"
+},
+"72": {
+"label": "Favor",
+"conf": 93,
+"why": "formally petitions the minister NOT to cancel the third term",
+"pool": "trF"
+},
+"97": {
+"label": "Favor",
+"conf": 52,
+"why": "conditional endorsement: if study goes this way for three terms, I agree with you",
+"pool": "trF"
+},
+"130": {
+"label": "Favor",
+"conf": 60,
+"why": "states explicit support, especially with the three-semester system",
+"pool": "trF"
+},
+"137": {
+"label": "Favor",
+"conf": 82,
+"why": "concedes complaints then argues the new system truly produced talents, inventions and awards",
+"pool": "trF"
+},
+"176": {
+"label": "Favor",
+"conf": 52,
+"why": "asks for the third term to run remotely, presupposing and accepting its continuation",
+"pool": "trF"
+},
+"194": {
+"label": "Favor",
+"conf": 65,
+"why": "welcomes the three semesters",
+"pool": "trF"
+},
+"227": {
+"label": "Favor",
+"conf": 62,
+"why": "constructive proposal to make the third term a remote tech/refresher term, keeping it",
+"pool": "trF"
+},
+"239": {
+"label": "Favor",
+"conf": 95,
+"why": "calls it a new idea deserving support that eased burdens, criticizing those who want it to fail",
+"pool": "trF"
+},
+"254": {
+"label": "Favor",
+"conf": 92,
+"why": "three terms are good, lighter curriculum students can absorb, unlike two terms",
+"pool": "trF"
+},
+"255": {
+"label": "Favor",
+"conf": 90,
+"why": "three terms are good with a light curriculum, only asks to merge the long weekends",
+"pool": "trF"
+},
+"256": {
+"label": "Favor",
+"conf": 93,
+"why": "three terms are better than two",
+"pool": "trF"
+},
+"257": {
+"label": "Favor",
+"conf": 88,
+"why": "agrees with three terms while objecting only to studying in Ramadan",
+"pool": "trF"
+},
+"258": {
+"label": "Favor",
+"conf": 90,
+"why": "hopes the three-term system continues, preferring in-person over remote",
+"pool": "trF"
+},
+"259": {
+"label": "Favor",
+"conf": 75,
+"why": "proposes a calendar built on three terms and three breaks",
+"pool": "trF"
+},
+"260": {
+"label": "Favor",
+"conf": 92,
+"why": "calls three terms a year the best way to teach and convey information",
+"pool": "trF"
+},
+"261": {
+"label": "Favor",
+"conf": 95,
+"why": "says plainly that he likes the three-term system",
+"pool": "trF"
+},
+"262": {
+"label": "Favor",
+"conf": 78,
+"why": "argues three terms cause no fatigue and you learn more, addressed to the minister",
+"pool": "trF"
+},
+"263": {
+"label": "Favor",
+"conf": 78,
+"why": "calls the third term 'the best term' with \u0627\u0644\u062d\u0645\u062f\u0644\u0644\u0647, no irony marker",
+"pool": "trF"
+},
+"264": {
+"label": "Favor",
+"conf": 92,
+"why": "states the system eases pressure by giving more time",
+"pool": "trF"
+},
+"265": {
+"label": "Favor",
+"conf": 58,
+"why": "listed as a benefit (forced variety), though '\u0637\u0648\u0644 \u0627\u0644\u062f\u0631\u0627\u0633\u0629' echoes a common complaint",
+"pool": "trF"
+},
+"266": {
+"label": "Favor",
+"conf": 68,
+"why": "credits the system with killing long-summer-vacation boredom",
+"pool": "trF"
+},
+"267": {
+"label": "Favor",
+"conf": 62,
+"why": "cites newly added subjects as a benefit of the reform",
+"pool": "trF"
+},
+"268": {
+"label": "Favor",
+"conf": 80,
+"why": "credits the third term with improved student discipline",
+"pool": "trF"
+},
+"269": {
+"label": "Favor",
+"conf": 93,
+"why": "shorter term explicitly called a point in its favor",
+"pool": "trF"
+},
+"270": {
+"label": "Favor",
+"conf": 88,
+"why": "praises the many long breaks as relief from study pressure",
+"pool": "trF"
+},
+"271": {
+"label": "Favor",
+"conf": 90,
+"why": "fewer subjects means less pressure",
+"pool": "trF"
+},
+"272": {
+"label": "Favor",
+"conf": 82,
+"why": "keeps students engaged with learning",
+"pool": "trF"
+},
+"273": {
+"label": "Favor",
+"conf": 88,
+"why": "names fast graduation as the top benefit",
+"pool": "trF"
+},
+"274": {
+"label": "Favor",
+"conf": 90,
+"why": "says the 'horror story' of heavy loads ended with the three-term system",
+"pool": "trF"
+},
+"275": {
+"label": "Favor",
+"conf": 96,
+"why": "explicitly says he likes the three-term idea",
+"pool": "trF"
+},
+"276": {
+"label": "Favor",
+"conf": 93,
+"why": "explicitly liked and felt relieved by the long breaks",
+"pool": "trF"
+},
+"278": {
+"label": "Favor",
+"conf": 78,
+"why": "only three subjects per term framed as a luxury",
+"pool": "trF"
+},
+"279": {
+"label": "Favor",
+"conf": 72,
+"why": "extended breaks before exams offered as a benefit",
+"pool": "trF"
+},
+"280": {
+"label": "Favor",
+"conf": 90,
+"why": "quick term completion named an advantage",
+"pool": "trF"
+},
+"281": {
+"label": "Favor",
+"conf": 93,
+"why": "explicitly liked being able to graduate sooner",
+"pool": "trF"
+},
+"282": {
+"label": "Favor",
+"conf": 94,
+"why": "bulleted list of pros of the system",
+"pool": "trF"
+},
+"283": {
+"label": "Favor",
+"conf": 90,
+"why": "prefers 13 pressured weeks over 22 and faster graduation",
+"pool": "trF"
+},
+"284": {
+"label": "Favor",
+"conf": 93,
+"why": "splitting credit hours eases schedule; term ends fast, with smiley",
+"pool": "trF"
+},
+"285": {
+"label": "Favor",
+"conf": 88,
+"why": "cites easing of course load as a pro",
+"pool": "trF"
+},
+"286": {
+"label": "Favor",
+"conf": 85,
+"why": "lists faster graduation as a pro under the pros hashtag",
+"pool": "trF"
+},
+"287": {
+"label": "Favor",
+"conf": 80,
+"why": "cites extended breaks as a benefit of the three terms",
+"pool": "trF"
+},
+"288": {
+"label": "Favor",
+"conf": 78,
+"why": "short term length offered as a positive",
+"pool": "trF"
+},
+"289": {
+"label": "Favor",
+"conf": 95,
+"why": "explicit claim it improves the educational environment",
+"pool": "trF"
+},
+"290": {
+"label": "Favor",
+"conf": 82,
+"why": "endorses daughter's wish that the system continue, lighter workload",
+"pool": "trF"
+},
+"291": {
+"label": "Favor",
+"conf": 93,
+"why": "argues three terms are better, fewer courses, better focus",
+"pool": "trF"
+},
+"292": {
+"label": "Favor",
+"conf": 76,
+"why": "calls three terms excellent, conditioned on good teaching strategies",
+"pool": "trF"
+},
+"293": {
+"label": "Favor",
+"conf": 70,
+"why": "system called good, criticism aimed only at how breaks are scheduled",
+"pool": "trF"
+},
+"294": {
+"label": "Favor",
+"conf": 68,
+"why": "glad school runs three terms; the teasing targets the addressees, not the system",
+"pool": "trF"
+},
+"295": {
+"label": "Favor",
+"conf": 92,
+"why": "concedes the system benefits learners, fewer pages, focused study",
+"pool": "trF"
+},
+"296": {
+"label": "Favor",
+"conf": 88,
+"why": "calls the three-term split an excellent approach and wants Kuwait to adopt it",
+"pool": "trF"
+},
+"297": {
+"label": "Favor",
+"conf": 84,
+"why": "very good system, only asks the last term be shortened",
+"pool": "trF"
+},
+"298": {
+"label": "Favor",
+"conf": 95,
+"why": "historic qualitative leap credited to the minister",
+"pool": "trF"
+},
+"299": {
+"label": "Favor",
+"conf": 55,
+"why": "wishes for four terms and awaits the three succeeding; escalation reads jokey but hopeful",
+"pool": "trF"
+},
+"300": {
+"label": "Favor",
+"conf": 92,
+"why": "calls the new calendar fantastic and modeled on advanced systems",
+"pool": "trF"
+},
+"301": {
+"label": "Favor",
+"conf": 82,
+"why": "welcomes children being in school instead of costly summer centers",
+"pool": "trF"
+},
+"302": {
+"label": "Favor",
+"conf": 88,
+"why": "excellent, three terms, adds a wish for a vocational term",
+"pool": "trF"
+},
+"303": {
+"label": "Against",
+"conf": 56,
+"why": "ironic certainty about thorough studies plus same-tools-same-results aphorism dismisses the reform as cosmetic",
+"pool": "trF"
+},
+"304": {
+"label": "Favor",
+"conf": 92,
+"why": "short varied breaks praised for breaking monotony and motivating students",
+"pool": "trF"
+},
+"305": {
+"label": "Favor",
+"conf": 55,
+"why": "calls it an excellent idea though warns it may be change for change's sake",
+"pool": "trF"
+},
+"306": {
+"label": "Favor",
+"conf": 94,
+"why": "thanks the ministry, system lets weak students recover across terms",
+"pool": "trF"
+},
+"307": {
+"label": "Favor",
+"conf": 95,
+"why": "states three terms are better than two and lists benefits",
+"pool": "trF"
+},
+"308": {
+"label": "Favor",
+"conf": 72,
+"why": "emphatic doubled praise '\u0631\u0627\u0626\u0639 \u0631\u0627\u0626\u0639' with no ironic contrast",
+"pool": "trF"
+},
+"309": {
+"label": "Favor",
+"conf": 93,
+"why": "explicitly happy because course pressure is reduced",
+"pool": "trF"
+},
+"310": {
+"label": "Favor",
+"conf": 60,
+"why": "hedged but names a real upside (only three courses), playful not bitter",
+"pool": "trF"
+},
+"311": {
+"label": "Favor",
+"conf": 95,
+"why": "lists advantages of the three-term system: fewer courses, more focus",
+"pool": "trF"
+},
+"7": {
+"label": "None",
+"conf": 88,
+"why": "factual correction of a number, no evaluation of the system",
+"pool": "trN"
+},
+"8": {
+"label": "Against",
+"conf": 62,
+"why": "incredulous/sarcastic: third term is empty since second-term grades are reused",
+"pool": "trN"
+},
+"9": {
+"label": "None",
+"conf": 55,
+"why": "constructive proposal for volunteer weeks, no judgement of the trimester itself",
+"pool": "trN"
+},
+"15": {
+"label": "None",
+"conf": 90,
+"why": "logistical question about sessions continuing",
+"pool": "trN"
+},
+"20": {
+"label": "None",
+"conf": 92,
+"why": "bare factual reply stating three terms",
+"pool": "trN"
+},
+"30": {
+"label": "None",
+"conf": 90,
+"why": "descriptive university admission/system info, no evaluation",
+"pool": "trN"
+},
+"36": {
+"label": "None",
+"conf": 90,
+"why": "clarifying question about timing",
+"pool": "trN"
+},
+"138": {
+"label": "Against",
+"conf": 57,
+"why": "dismissive listing of the three-term meeting/decisions as irrelevant",
+"pool": "trN"
+},
+"139": {
+"label": "None",
+"conf": 72,
+"why": "speculation about an upcoming announcement, no evaluative stance",
+"pool": "trN"
+},
+"165": {
+"label": "None",
+"conf": 92,
+"why": "numeric factual reply",
+"pool": "trN"
+},
+"175": {
+"label": "None",
+"conf": 55,
+"why": "analytical rebuttal of a causal claim rather than endorsement of the system",
+"pool": "trN"
+},
+"178": {
+"label": "None",
+"conf": 92,
+"why": "request for third-term dates",
+"pool": "trN"
+},
+"200": {
+"label": "None",
+"conf": 90,
+"why": "factual report that textbooks arrived",
+"pool": "trN"
+},
+"220": {
+"label": "None",
+"conf": 92,
+"why": "question about the start date",
+"pool": "trN"
+}
+}

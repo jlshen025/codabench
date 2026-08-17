@@ -1,0 +1,6 @@
+[provider] openrouter wire=openai/gpt-5
+[card] 'Trimester': def='فترة زمنية تُقسَّم فيها السنة أو المسار إلى ثلاثة أجزاء متسا' asp='اعتماد التقويم الثلاثي في التعليم بدلاً من الفصول التقليدية،'
+[card] 'Ecars': def='مركبات تعمل بمحركات كهربائية تعتمد على بطاريات قابلة للشحن ب' asp='خفض الانبعاثات وتحسين جودة الهواء, تكلفة الشراء والملكية الك'
+[done] 'Trimester': 312 tweets
+[done] 'Ecars': 332 tweets
+[RESULT] {"model": "gpt-5", "grounded": true, "n": 644, "runtime_sec": 564.4}

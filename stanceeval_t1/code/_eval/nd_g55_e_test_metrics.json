@@ -1,0 +1,8 @@
+{
+  "model": "gpt-5.5",
+  "variant": "e",
+  "fewshot": 0,
+  "n": 352,
+  "n_unparsed": 0,
+  "runtime_sec": 298.0
+}

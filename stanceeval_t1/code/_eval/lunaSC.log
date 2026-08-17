@@ -1,0 +1,11 @@
+[provider] gpt-5.6-luna -> 1 chat leg(s): ['http://40.233.94.194:8080/v1']
+[cfg] model=gpt-5.6-luna n=352 order=file batch=44 reasoning=none samples=8 temp=0.7
+  sample 1/8 done
+  sample 2/8 done
+  sample 3/8 done
+  sample 4/8 done
+  sample 5/8 done
+  sample 6/8 done
+  sample 7/8 done
+  sample 8/8 done
+[RESULT] {"model": "gpt-5.6-luna", "n": 352, "reasoning": "none", "runtime_sec": 1939.8}

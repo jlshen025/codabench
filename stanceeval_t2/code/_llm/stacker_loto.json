@@ -1,0 +1,41 @@
+{
+ "Covid Vaccine": {
+  "stacker": 91.05955277488124,
+  "best_single": 91.4733893557423,
+  "best_name": "opus5",
+  "majority": 91.42614242414642,
+  "singles": {
+   "opus5": 91.47,
+   "sonnet5": 88.62,
+   "claude": 91.06,
+   "dsflash": 90.42,
+   "dspro": 90.24
+  }
+ },
+ "Digital Transformation": {
+  "stacker": 76.3681313555369,
+  "best_single": 75.60347326534377,
+  "best_name": "opus5",
+  "majority": 73.5433526425164,
+  "singles": {
+   "opus5": 75.6,
+   "sonnet5": 74.05,
+   "claude": 74.15,
+   "dsflash": 72.85,
+   "dspro": 71.81
+  }
+ },
+ "Women empowerment": {
+  "stacker": 88.97591947692638,
+  "best_single": 87.3162146652287,
+  "best_name": "opus5",
+  "majority": 86.92635221360558,
+  "singles": {
+   "opus5": 87.32,
+   "sonnet5": 86.14,
+   "claude": 87.2,
+   "dsflash": 86.83,
+   "dspro": 86.5
+  }
+ }
+}

@@ -1,0 +1,14 @@
+{
+  "model": "gpt-5.6-luna",
+  "variant": "r",
+  "fewshot": 0,
+  "n": 619,
+  "n_unparsed": 0,
+  "runtime_sec": 309.8,
+  "gold_none": 59,
+  "base_rate": 0.0953,
+  "prec_at_gold_n": 0.5254,
+  "prec_Women empowerment": 0.3636,
+  "prec_Digital Transformation": 0.5909,
+  "prec_Covid Vaccine": 0.5
+}

@@ -1,0 +1,2 @@
+[provider] gpt-oss-120b -> 1 chat leg(s): ['https://api.groq.com/openai/v1']
+[cfg] model=gpt-oss-120b n=352 order=file batch=30 reasoning=none samples=1 temp=0.7

@@ -1,0 +1,613 @@
+{
+ "model": "claude-opus-5",
+ "target": "Ecars",
+ "pool": "against",
+ "n": 121,
+ "res": {
+  "313": {
+   "verdict": "FAVOR",
+   "conf": 62,
+   "aimed_at": "accepts inevitable all-electric future"
+  },
+  "315": {
+   "verdict": "AGAINST",
+   "conf": 70,
+   "aimed_at": "mocks Italian maker's electric entry"
+  },
+  "324": {
+   "verdict": "AGAINST",
+   "conf": 92,
+   "aimed_at": "mocks anyone buying electric car"
+  },
+  "327": {
+   "verdict": "AGAINST",
+   "conf": 85,
+   "aimed_at": "mocks claimed electric car manufacturing"
+  },
+  "331": {
+   "verdict": "AGAINST",
+   "conf": 60,
+   "aimed_at": "dismissive denial it's electric"
+  },
+  "332": {
+   "verdict": "AGAINST",
+   "conf": 72,
+   "aimed_at": "sarcastic dismissal of sudden electrific"
+  },
+  "336": {
+   "verdict": "AGAINST",
+   "conf": 80,
+   "aimed_at": "calls EV oil-demand impact mistaken"
+  },
+  "347": {
+   "verdict": "AGAINST",
+   "conf": 75,
+   "aimed_at": "cites downsides of private EVs"
+  },
+  "348": {
+   "verdict": "AGAINST",
+   "conf": 78,
+   "aimed_at": "EV sales negligible, praises Camry"
+  },
+  "350": {
+   "verdict": "AGAINST",
+   "conf": 85,
+   "aimed_at": "charging time, predicts limited success"
+  },
+  "359": {
+   "verdict": "AGAINST",
+   "conf": 93,
+   "aimed_at": "predicts total failure, maintenance prob"
+  },
+  "362": {
+   "verdict": "AGAINST",
+   "conf": 80,
+   "aimed_at": "price barrier limits EV market"
+  },
+  "365": {
+   "verdict": "AGAINST",
+   "conf": 82,
+   "aimed_at": "questions benefit, dirty charging source"
+  },
+  "369": {
+   "verdict": "AGAINST",
+   "conf": 78,
+   "aimed_at": "calls EV shift mere marketing"
+  },
+  "370": {
+   "verdict": "AGAINST",
+   "conf": 85,
+   "aimed_at": "batteries destroy environment, toxic dis"
+  },
+  "371": {
+   "verdict": "AGAINST",
+   "conf": 82,
+   "aimed_at": "EVs charged by fossil fuels"
+  },
+  "372": {
+   "verdict": "AGAINST",
+   "conf": 84,
+   "aimed_at": "mocks green marketing to EV buyers"
+  },
+  "373": {
+   "verdict": "AGAINST",
+   "conf": 88,
+   "aimed_at": "EV makers don't care environment"
+  },
+  "378": {
+   "verdict": "AGAINST",
+   "conf": 65,
+   "aimed_at": "favors removing EV exemptions"
+  },
+  "385": {
+   "verdict": "AGAINST",
+   "conf": 80,
+   "aimed_at": "questions EV pricing, no advantage"
+  },
+  "387": {
+   "verdict": "AGAINST",
+   "conf": 88,
+   "aimed_at": "Rejects electric cars for climate"
+  },
+  "392": {
+   "verdict": "AGAINST",
+   "conf": 92,
+   "aimed_at": "Denies savings and environmental benefit"
+  },
+  "396": {
+   "verdict": "AGAINST",
+   "conf": 75,
+   "aimed_at": "Mocks electric car proposal"
+  },
+  "416": {
+   "verdict": "AGAINST",
+   "conf": 70,
+   "aimed_at": "Fears Formula One going electric"
+  },
+  "420": {
+   "verdict": "AGAINST",
+   "conf": 90,
+   "aimed_at": "Calls electric cars ugly"
+  },
+  "422": {
+   "verdict": "AGAINST",
+   "conf": 93,
+   "aimed_at": "Says electric cars are useless"
+  },
+  "423": {
+   "verdict": "AGAINST",
+   "conf": 80,
+   "aimed_at": "Doubts it's truly electric"
+  },
+  "426": {
+   "verdict": "AGAINST",
+   "conf": 93,
+   "aimed_at": "Charging problems, cost, inferior"
+  },
+  "429": {
+   "verdict": "AGAINST",
+   "conf": 88,
+   "aimed_at": "Range still very poor"
+  },
+  "433": {
+   "verdict": "AGAINST",
+   "conf": 85,
+   "aimed_at": "Questions pollution claims"
+  },
+  "436": {
+   "verdict": "AGAINST",
+   "conf": 85,
+   "aimed_at": "Rejects insufficient range"
+  },
+  "438": {
+   "verdict": "AGAINST",
+   "conf": 72,
+   "aimed_at": "Doubts new entrants' cars"
+  },
+  "439": {
+   "verdict": "AGAINST",
+   "conf": 88,
+   "aimed_at": "Calls design ugly"
+  },
+  "448": {
+   "verdict": "AGAINST",
+   "conf": 88,
+   "aimed_at": "Range under 800km unusable"
+  },
+  "451": {
+   "verdict": "AGAINST",
+   "conf": 90,
+   "aimed_at": "Calls them impractical"
+  },
+  "454": {
+   "verdict": "FAVOR",
+   "conf": 62,
+   "aimed_at": "Aspirational: preparing for electrificat"
+  },
+  "455": {
+   "verdict": "AGAINST",
+   "conf": 70,
+   "aimed_at": "Mocks as future scrap"
+  },
+  "457": {
+   "verdict": "AGAINST",
+   "conf": 75,
+   "aimed_at": "Company bankruptcy, cars gone"
+  },
+  "458": {
+   "verdict": "AGAINST",
+   "conf": 88,
+   "aimed_at": "Associates electric cars with ugliness"
+  },
+  "460": {
+   "verdict": "AGAINST",
+   "conf": 90,
+   "aimed_at": "Celebrates oil over failed EVs"
+  },
+  "462": {
+   "verdict": "AGAINST",
+   "conf": 75,
+   "aimed_at": "Notes competition threat, not praise"
+  },
+  "470": {
+   "verdict": "AGAINST",
+   "conf": 85,
+   "aimed_at": "Doubts viability, infrastructure, safety"
+  },
+  "471": {
+   "verdict": "FAVOR",
+   "conf": 60,
+   "aimed_at": "Calls it the future direction"
+  },
+  "487": {
+   "verdict": "AGAINST",
+   "conf": 88,
+   "aimed_at": "Predicts extinction without battery fix"
+  },
+  "489": {
+   "verdict": "AGAINST",
+   "conf": 80,
+   "aimed_at": "Says customers still prefer fuel"
+  },
+  "518": {
+   "verdict": "AGAINST",
+   "conf": 82,
+   "aimed_at": "Mocks design, lost prestige"
+  },
+  "520": {
+   "verdict": "AGAINST",
+   "conf": 65,
+   "aimed_at": "Says not the solution"
+  },
+  "522": {
+   "verdict": "AGAINST",
+   "conf": 70,
+   "aimed_at": "Implies same failures ahead"
+  },
+  "524": {
+   "verdict": "AGAINST",
+   "conf": 85,
+   "aimed_at": "Mocks driving EV locally"
+  },
+  "525": {
+   "verdict": "FAVOR",
+   "conf": 65,
+   "aimed_at": "Battery breakthroughs, market maturing"
+  },
+  "527": {
+   "verdict": "AGAINST",
+   "conf": 60,
+   "aimed_at": "Highlights battery weight failure"
+  },
+  "529": {
+   "verdict": "AGAINST",
+   "conf": 75,
+   "aimed_at": "Dismissive of driving EVs"
+  },
+  "530": {
+   "verdict": "AGAINST",
+   "conf": 80,
+   "aimed_at": "Doubts EVs in rainy streets"
+  },
+  "537": {
+   "verdict": "AGAINST",
+   "conf": 72,
+   "aimed_at": "Price, scarcity; prefers hybrid"
+  },
+  "543": {
+   "verdict": "AGAINST",
+   "conf": 75,
+   "aimed_at": "Mocks flooding, EVs won't work"
+  },
+  "545": {
+   "verdict": "AGAINST",
+   "conf": 80,
+   "aimed_at": "Expensive, low demand locally"
+  },
+  "557": {
+   "verdict": "AGAINST",
+   "conf": 78,
+   "aimed_at": "Calls marketing a failure"
+  },
+  "558": {
+   "verdict": "AGAINST",
+   "conf": 92,
+   "aimed_at": "Explicitly calls them failed"
+  },
+  "559": {
+   "verdict": "AGAINST",
+   "conf": 80,
+   "aimed_at": "Calls it overpriced bubble"
+  },
+  "560": {
+   "verdict": "AGAINST",
+   "conf": 92,
+   "aimed_at": "Calls it a failed project"
+  },
+  "563": {
+   "verdict": "AGAINST",
+   "conf": 92,
+   "aimed_at": "price and charging complaints"
+  },
+  "572": {
+   "verdict": "AGAINST",
+   "conf": 70,
+   "aimed_at": "production difficulties, oil-favoring fr"
+  },
+  "583": {
+   "verdict": "AGAINST",
+   "conf": 80,
+   "aimed_at": "mockery of EV venture"
+  },
+  "586": {
+   "verdict": "AGAINST",
+   "conf": 90,
+   "aimed_at": "calls design ugly, unconvincing"
+  },
+  "587": {
+   "verdict": "AGAINST",
+   "conf": 93,
+   "aimed_at": "battery mining pollution critique"
+  },
+  "588": {
+   "verdict": "FAVOR",
+   "conf": 55,
+   "aimed_at": "we lag behind advanced world"
+  },
+  "589": {
+   "verdict": "AGAINST",
+   "conf": 85,
+   "aimed_at": "battery manufacturing harms environment"
+  },
+  "590": {
+   "verdict": "AGAINST",
+   "conf": 92,
+   "aimed_at": "prefers fuel cars, EVs failed"
+  },
+  "591": {
+   "verdict": "AGAINST",
+   "conf": 88,
+   "aimed_at": "no charging stations available"
+  },
+  "592": {
+   "verdict": "AGAINST",
+   "conf": 88,
+   "aimed_at": "unsuitable for mountainous terrain"
+  },
+  "593": {
+   "verdict": "AGAINST",
+   "conf": 90,
+   "aimed_at": "oil state, EVs against interest"
+  },
+  "594": {
+   "verdict": "AGAINST",
+   "conf": 82,
+   "aimed_at": "joke about forgetting charging"
+  },
+  "595": {
+   "verdict": "AGAINST",
+   "conf": 88,
+   "aimed_at": "can't handle long distances"
+  },
+  "596": {
+   "verdict": "AGAINST",
+   "conf": 92,
+   "aimed_at": "calls EVs an illusion"
+  },
+  "597": {
+   "verdict": "AGAINST",
+   "conf": 92,
+   "aimed_at": "doubts success, battery lifespan"
+  },
+  "598": {
+   "verdict": "AGAINST",
+   "conf": 85,
+   "aimed_at": "lithium harms, EV drawbacks"
+  },
+  "599": {
+   "verdict": "AGAINST",
+   "conf": 90,
+   "aimed_at": "invented to hurt oil, impractical"
+  },
+  "600": {
+   "verdict": "AGAINST",
+   "conf": 90,
+   "aimed_at": "oil is the foundation"
+  },
+  "601": {
+   "verdict": "AGAINST",
+   "conf": 93,
+   "aimed_at": "cost, maintenance, resale problems"
+  },
+  "602": {
+   "verdict": "AGAINST",
+   "conf": 60,
+   "aimed_at": "criticizes designs, grudging motor note"
+  },
+  "603": {
+   "verdict": "AGAINST",
+   "conf": 88,
+   "aimed_at": "Predicts failure, pollution, price"
+  },
+  "604": {
+   "verdict": "AGAINST",
+   "conf": 85,
+   "aimed_at": "Mocks cartoonish design"
+  },
+  "605": {
+   "verdict": "AGAINST",
+   "conf": 88,
+   "aimed_at": "Grid strain, metal price complaints"
+  },
+  "606": {
+   "verdict": "AGAINST",
+   "conf": 85,
+   "aimed_at": "Dismisses EVs as toys"
+  },
+  "607": {
+   "verdict": "AGAINST",
+   "conf": 82,
+   "aimed_at": "Still polluting, mining challenges"
+  },
+  "608": {
+   "verdict": "AGAINST",
+   "conf": 85,
+   "aimed_at": "EVs still harm urban environment"
+  },
+  "609": {
+   "verdict": "AGAINST",
+   "conf": 90,
+   "aimed_at": "Says EVs won't succeed"
+  },
+  "610": {
+   "verdict": "AGAINST",
+   "conf": 90,
+   "aimed_at": "Claims double pollution"
+  },
+  "611": {
+   "verdict": "AGAINST",
+   "conf": 85,
+   "aimed_at": "Conspiracy, worse emissions claim"
+  },
+  "612": {
+   "verdict": "AGAINST",
+   "conf": 60,
+   "aimed_at": "Warns oil revenue decline"
+  },
+  "613": {
+   "verdict": "AGAINST",
+   "conf": 75,
+   "aimed_at": "No electricity to charge"
+  },
+  "614": {
+   "verdict": "AGAINST",
+   "conf": 80,
+   "aimed_at": "Homes lack electricity first"
+  },
+  "615": {
+   "verdict": "AGAINST",
+   "conf": 70,
+   "aimed_at": "Infrastructure first, mocking promise"
+  },
+  "616": {
+   "verdict": "AGAINST",
+   "conf": 88,
+   "aimed_at": "Just shifts pollution source"
+  },
+  "617": {
+   "verdict": "AGAINST",
+   "conf": 85,
+   "aimed_at": "Denies lower emissions claim"
+  },
+  "618": {
+   "verdict": "AGAINST",
+   "conf": 90,
+   "aimed_at": "Faults, danger, deception"
+  },
+  "619": {
+   "verdict": "AGAINST",
+   "conf": 88,
+   "aimed_at": "Unproven, costly, no maintenance"
+  },
+  "620": {
+   "verdict": "AGAINST",
+   "conf": 88,
+   "aimed_at": "Owners dissatisfied, won't repeat"
+  },
+  "621": {
+   "verdict": "AGAINST",
+   "conf": 85,
+   "aimed_at": "Crude insult toward EVs"
+  },
+  "622": {
+   "verdict": "AGAINST",
+   "conf": 88,
+   "aimed_at": "Cold, AC, speed limitations"
+  },
+  "623": {
+   "verdict": "AGAINST",
+   "conf": 92,
+   "aimed_at": "complains prices too expensive"
+  },
+  "624": {
+   "verdict": "AGAINST",
+   "conf": 94,
+   "aimed_at": "mocks EV, prefers luxury gasoline"
+  },
+  "625": {
+   "verdict": "AGAINST",
+   "conf": 95,
+   "aimed_at": "calls project failed"
+  },
+  "626": {
+   "verdict": "AGAINST",
+   "conf": 95,
+   "aimed_at": "failed project, costly maintenance"
+  },
+  "627": {
+   "verdict": "AGAINST",
+   "conf": 85,
+   "aimed_at": "unsuitable for highways, hot climate"
+  },
+  "628": {
+   "verdict": "AGAINST",
+   "conf": 90,
+   "aimed_at": "prefers hydrogen, EVs failed"
+  },
+  "629": {
+   "verdict": "AGAINST",
+   "conf": 90,
+   "aimed_at": "costs more, charging wastes time"
+  },
+  "630": {
+   "verdict": "AGAINST",
+   "conf": 80,
+   "aimed_at": "calls EVs Musk's trick"
+  },
+  "631": {
+   "verdict": "AGAINST",
+   "conf": 92,
+   "aimed_at": "mocks, keep out of showrooms"
+  },
+  "632": {
+   "verdict": "AGAINST",
+   "conf": 92,
+   "aimed_at": "mocks forced adoption, battery pollution"
+  },
+  "633": {
+   "verdict": "AGAINST",
+   "conf": 93,
+   "aimed_at": "dislikes, doubts heat endurance"
+  },
+  "634": {
+   "verdict": "AGAINST",
+   "conf": 95,
+   "aimed_at": "calls it biggest lie"
+  },
+  "635": {
+   "verdict": "AGAINST",
+   "conf": 93,
+   "aimed_at": "rejects charging, update failures"
+  },
+  "636": {
+   "verdict": "AGAINST",
+   "conf": 85,
+   "aimed_at": "EV sound called psychological problem"
+  },
+  "637": {
+   "verdict": "AGAINST",
+   "conf": 90,
+   "aimed_at": "no sound, danger flaw"
+  },
+  "638": {
+   "verdict": "AGAINST",
+   "conf": 88,
+   "aimed_at": "unconvinced, limited options"
+  },
+  "639": {
+   "verdict": "AGAINST",
+   "conf": 92,
+   "aimed_at": "weak, unreliable in heat"
+  },
+  "640": {
+   "verdict": "FAVOR",
+   "conf": 55,
+   "aimed_at": "accepts inevitable electric future adapt"
+  },
+  "641": {
+   "verdict": "AGAINST",
+   "conf": 92,
+   "aimed_at": "sarcastic, no sane buyer"
+  },
+  "642": {
+   "verdict": "AGAINST",
+   "conf": 90,
+   "aimed_at": "charging scarcity, operator inexperience"
+  },
+  "643": {
+   "verdict": "AGAINST",
+   "conf": 92,
+   "aimed_at": "Complains charging, price, inferiority"
+  }
+ }
+}

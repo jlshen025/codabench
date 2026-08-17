@@ -1,0 +1,22 @@
+{
+  "321": {"label": "Favor", "conf": 55, "why": "admiring build-up of an electric BMW as the aspirational car a hero would drive"},
+  "341": {"label": "None", "conf": 55, "why": "laughing mockery aimed at a person; the Tesla is incidental scenery"},
+  "342": {"label": "Favor", "conf": 50, "why": "the electric-car entrant wins a stage while the rich show-off wins none"},
+  "343": {"label": "None", "conf": 60, "why": "bare pointing question with no evaluative content"},
+  "346": {"label": "None", "conf": 70, "why": "EVs cited only as an example inside an argument about ignorance"},
+  "349": {"label": "None", "conf": 55, "why": "incredulous one-line question, stance not resolvable"},
+  "352": {"label": "None", "conf": 65, "why": "neutral commentary on which market segment is being targeted"},
+  "355": {"label": "None", "conf": 85, "why": "warranty question about an electric fuel pump, not about EVs"},
+  "356": {"label": "None", "conf": 80, "why": "pure news relay on hydrogen fuel cells versus Tesla"},
+  "361": {"label": "None", "conf": 70, "why": "poll prompt asking what drives EV pricing"},
+  "374": {"label": "None", "conf": 50, "why": "asks about drawbacks before buying; caution and interest cancel out"},
+  "376": {"label": "None", "conf": 65, "why": "fragmentary correction with no stance toward EVs"},
+  "379": {"label": "None", "conf": 55, "why": "flat factual correction that EVs have no fuel tank"},
+  "395": {"label": "None", "conf": 70, "why": "crypto listing note; EV charging only names the coin's sector"},
+  "400": {"label": "None", "conf": 55, "why": "EVs used as an analogy for old things becoming trendy"},
+  "402": {"label": "None", "conf": 60, "why": "logistics query on import regulations for used EVs"},
+  "403": {"label": "None", "conf": 60, "why": "logistics query on whether used-EV import is permitted"},
+  "404": {"label": "None", "conf": 60, "why": "bare relay identifying a Turkish-made Togg EV"},
+  "408": {"label": "None", "conf": 85, "why": "prices of children's toy electric cars, off-topic"},
+  "415": {"label": "Favor", "conf": 55, "why": "relays the 2030 all-electric manufacturing pact as EV inevitability"}
+}

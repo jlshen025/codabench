@@ -1,0 +1,613 @@
+{
+ "model": "claude-opus-5",
+ "target": "Ecars",
+ "pool": "against",
+ "n": 121,
+ "res": {
+  "313": {
+   "verdict": "ONTARGET",
+   "conf": 88,
+   "aimed_at": "electric cars"
+  },
+  "315": {
+   "verdict": "ONTARGET",
+   "conf": 55,
+   "aimed_at": "electric cars"
+  },
+  "324": {
+   "verdict": "ONTARGET",
+   "conf": 92,
+   "aimed_at": "electric cars"
+  },
+  "327": {
+   "verdict": "DISPLACED",
+   "conf": 90,
+   "aimed_at": "government/officials claims"
+  },
+  "331": {
+   "verdict": "ONTARGET",
+   "conf": 50,
+   "aimed_at": "the car"
+  },
+  "332": {
+   "verdict": "DISPLACED",
+   "conf": 58,
+   "aimed_at": "the announcers/officials"
+  },
+  "336": {
+   "verdict": "DISPLACED",
+   "conf": 70,
+   "aimed_at": "Western energy policies"
+  },
+  "347": {
+   "verdict": "ONTARGET",
+   "conf": 80,
+   "aimed_at": "electric cars"
+  },
+  "348": {
+   "verdict": "ONTARGET",
+   "conf": 78,
+   "aimed_at": "electric cars"
+  },
+  "350": {
+   "verdict": "ONTARGET",
+   "conf": 93,
+   "aimed_at": "electric cars"
+  },
+  "359": {
+   "verdict": "ONTARGET",
+   "conf": 94,
+   "aimed_at": "electric cars"
+  },
+  "362": {
+   "verdict": "ONTARGET",
+   "conf": 92,
+   "aimed_at": "electric car prices"
+  },
+  "365": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "electric cars"
+  },
+  "369": {
+   "verdict": "ONTARGET",
+   "conf": 72,
+   "aimed_at": "electric cars"
+  },
+  "370": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "EV batteries/environment"
+  },
+  "371": {
+   "verdict": "ONTARGET",
+   "conf": 68,
+   "aimed_at": "EV green claims"
+  },
+  "372": {
+   "verdict": "ONTARGET",
+   "conf": 60,
+   "aimed_at": "EV green claims"
+  },
+  "373": {
+   "verdict": "DISPLACED",
+   "conf": 58,
+   "aimed_at": "capitalist car companies"
+  },
+  "378": {
+   "verdict": "DISPLACED",
+   "conf": 65,
+   "aimed_at": "government tax policy"
+  },
+  "385": {
+   "verdict": "ONTARGET",
+   "conf": 55,
+   "aimed_at": "company's electric cars"
+  },
+  "387": {
+   "verdict": "ONTARGET",
+   "conf": 92,
+   "aimed_at": "electric cars"
+  },
+  "392": {
+   "verdict": "ONTARGET",
+   "conf": 95,
+   "aimed_at": "electric cars"
+  },
+  "396": {
+   "verdict": "ONTARGET",
+   "conf": 55,
+   "aimed_at": "EVs in Lebanon"
+  },
+  "416": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "electric cars"
+  },
+  "420": {
+   "verdict": "ONTARGET",
+   "conf": 95,
+   "aimed_at": "EV design"
+  },
+  "422": {
+   "verdict": "ONTARGET",
+   "conf": 96,
+   "aimed_at": "EV charging"
+  },
+  "423": {
+   "verdict": "ONTARGET",
+   "conf": 80,
+   "aimed_at": "the car itself"
+  },
+  "426": {
+   "verdict": "ONTARGET",
+   "conf": 96,
+   "aimed_at": "electric cars"
+  },
+  "429": {
+   "verdict": "ONTARGET",
+   "conf": 95,
+   "aimed_at": "EV range"
+  },
+  "433": {
+   "verdict": "ONTARGET",
+   "conf": 75,
+   "aimed_at": "EV green claim"
+  },
+  "436": {
+   "verdict": "ONTARGET",
+   "conf": 92,
+   "aimed_at": "EV range"
+  },
+  "438": {
+   "verdict": "DISPLACED",
+   "conf": 55,
+   "aimed_at": "Sony and Huawei"
+  },
+  "439": {
+   "verdict": "ONTARGET",
+   "conf": 94,
+   "aimed_at": "EV design"
+  },
+  "448": {
+   "verdict": "ONTARGET",
+   "conf": 90,
+   "aimed_at": "EV range"
+  },
+  "451": {
+   "verdict": "ONTARGET",
+   "conf": 95,
+   "aimed_at": "electric cars"
+  },
+  "454": {
+   "verdict": "ONTARGET",
+   "conf": 88,
+   "aimed_at": "electric cars"
+  },
+  "455": {
+   "verdict": "ONTARGET",
+   "conf": 52,
+   "aimed_at": "EV durability"
+  },
+  "457": {
+   "verdict": "ONTARGET",
+   "conf": 75,
+   "aimed_at": "electric cars"
+  },
+  "458": {
+   "verdict": "ONTARGET",
+   "conf": 93,
+   "aimed_at": "EV design"
+  },
+  "460": {
+   "verdict": "ONTARGET",
+   "conf": 62,
+   "aimed_at": "EV failure/oil"
+  },
+  "462": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "luxury electric cars"
+  },
+  "470": {
+   "verdict": "ONTARGET",
+   "conf": 90,
+   "aimed_at": "electric car market"
+  },
+  "471": {
+   "verdict": "ONTARGET",
+   "conf": 88,
+   "aimed_at": "EV batteries"
+  },
+  "487": {
+   "verdict": "ONTARGET",
+   "conf": 95,
+   "aimed_at": "electric cars"
+  },
+  "489": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "electric cars charging"
+  },
+  "518": {
+   "verdict": "DISPLACED",
+   "conf": 75,
+   "aimed_at": "Mercedes design"
+  },
+  "520": {
+   "verdict": "ONTARGET",
+   "conf": 80,
+   "aimed_at": "electric cars solution"
+  },
+  "522": {
+   "verdict": "ONTARGET",
+   "conf": 70,
+   "aimed_at": "electric cars reliability"
+  },
+  "524": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "driving EV Muscat"
+  },
+  "525": {
+   "verdict": "ONTARGET",
+   "conf": 88,
+   "aimed_at": "EV batteries market"
+  },
+  "527": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "Audi EV batteries"
+  },
+  "529": {
+   "verdict": "DISPLACED",
+   "conf": 70,
+   "aimed_at": "people/officials mocked"
+  },
+  "530": {
+   "verdict": "ONTARGET",
+   "conf": 80,
+   "aimed_at": "EVs in rain"
+  },
+  "537": {
+   "verdict": "ONTARGET",
+   "conf": 90,
+   "aimed_at": "EV market prices"
+  },
+  "543": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "EVs in Bahrain"
+  },
+  "545": {
+   "verdict": "ONTARGET",
+   "conf": 90,
+   "aimed_at": "EV prices demand"
+  },
+  "557": {
+   "verdict": "DISPLACED",
+   "conf": 75,
+   "aimed_at": "Tesla marketing campaign"
+  },
+  "558": {
+   "verdict": "ONTARGET",
+   "conf": 95,
+   "aimed_at": "electric cars"
+  },
+  "559": {
+   "verdict": "ONTARGET",
+   "conf": 80,
+   "aimed_at": "EV stock bubble"
+  },
+  "560": {
+   "verdict": "ONTARGET",
+   "conf": 95,
+   "aimed_at": "electric cars"
+  },
+  "563": {
+   "verdict": "ONTARGET",
+   "conf": 93,
+   "aimed_at": "electric cars"
+  },
+  "572": {
+   "verdict": "ONTARGET",
+   "conf": 70,
+   "aimed_at": "electric cars"
+  },
+  "583": {
+   "verdict": "DISPLACED",
+   "conf": 88,
+   "aimed_at": "the company"
+  },
+  "586": {
+   "verdict": "ONTARGET",
+   "conf": 95,
+   "aimed_at": "electric car design"
+  },
+  "587": {
+   "verdict": "ONTARGET",
+   "conf": 90,
+   "aimed_at": "EV batteries"
+  },
+  "588": {
+   "verdict": "DISPLACED",
+   "conf": 92,
+   "aimed_at": "government showmanship"
+  },
+  "589": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "EV batteries"
+  },
+  "590": {
+   "verdict": "ONTARGET",
+   "conf": 88,
+   "aimed_at": "electric cars"
+  },
+  "591": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "charging infrastructure"
+  },
+  "592": {
+   "verdict": "ONTARGET",
+   "conf": 94,
+   "aimed_at": "electric cars"
+  },
+  "593": {
+   "verdict": "ONTARGET",
+   "conf": 75,
+   "aimed_at": "electric cars"
+  },
+  "594": {
+   "verdict": "ONTARGET",
+   "conf": 80,
+   "aimed_at": "electric cars"
+  },
+  "595": {
+   "verdict": "ONTARGET",
+   "conf": 92,
+   "aimed_at": "EV range/batteries"
+  },
+  "596": {
+   "verdict": "ONTARGET",
+   "conf": 93,
+   "aimed_at": "electric cars"
+  },
+  "597": {
+   "verdict": "ONTARGET",
+   "conf": 95,
+   "aimed_at": "electric cars"
+  },
+  "598": {
+   "verdict": "ONTARGET",
+   "conf": 88,
+   "aimed_at": "electric cars"
+  },
+  "599": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "electric cars"
+  },
+  "600": {
+   "verdict": "ONTARGET",
+   "conf": 90,
+   "aimed_at": "electric cars"
+  },
+  "601": {
+   "verdict": "ONTARGET",
+   "conf": 95,
+   "aimed_at": "electric cars"
+  },
+  "602": {
+   "verdict": "ONTARGET",
+   "conf": 90,
+   "aimed_at": "EV design"
+  },
+  "603": {
+   "verdict": "ONTARGET",
+   "conf": 92,
+   "aimed_at": "electric cars"
+  },
+  "604": {
+   "verdict": "ONTARGET",
+   "conf": 95,
+   "aimed_at": "EV design"
+  },
+  "605": {
+   "verdict": "ONTARGET",
+   "conf": 80,
+   "aimed_at": "EV feasibility/impact"
+  },
+  "606": {
+   "verdict": "ONTARGET",
+   "conf": 90,
+   "aimed_at": "electric race cars"
+  },
+  "607": {
+   "verdict": "ONTARGET",
+   "conf": 93,
+   "aimed_at": "EVs/green energy"
+  },
+  "608": {
+   "verdict": "ONTARGET",
+   "conf": 90,
+   "aimed_at": "electric cars"
+  },
+  "609": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "electric cars"
+  },
+  "610": {
+   "verdict": "ONTARGET",
+   "conf": 88,
+   "aimed_at": "electric cars"
+  },
+  "611": {
+   "verdict": "DISPLACED",
+   "conf": 72,
+   "aimed_at": "the addressee"
+  },
+  "612": {
+   "verdict": "ONTARGET",
+   "conf": 70,
+   "aimed_at": "EV adoption impact"
+  },
+  "613": {
+   "verdict": "DISPLACED",
+   "conf": 85,
+   "aimed_at": "the government"
+  },
+  "614": {
+   "verdict": "DISPLACED",
+   "conf": 88,
+   "aimed_at": "the government"
+  },
+  "615": {
+   "verdict": "DISPLACED",
+   "conf": 92,
+   "aimed_at": "the government"
+  },
+  "616": {
+   "verdict": "ONTARGET",
+   "conf": 88,
+   "aimed_at": "electric cars"
+  },
+  "617": {
+   "verdict": "ONTARGET",
+   "conf": 93,
+   "aimed_at": "electric cars"
+  },
+  "618": {
+   "verdict": "DISPLACED",
+   "conf": 70,
+   "aimed_at": "the miser/seller"
+  },
+  "619": {
+   "verdict": "ONTARGET",
+   "conf": 95,
+   "aimed_at": "electric cars"
+  },
+  "620": {
+   "verdict": "ONTARGET",
+   "conf": 90,
+   "aimed_at": "electric cars"
+  },
+  "621": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "electric cars"
+  },
+  "622": {
+   "verdict": "ONTARGET",
+   "conf": 93,
+   "aimed_at": "electric cars"
+  },
+  "623": {
+   "verdict": "ONTARGET",
+   "conf": 96,
+   "aimed_at": "electric cars price"
+  },
+  "624": {
+   "verdict": "ONTARGET",
+   "conf": 88,
+   "aimed_at": "electric car value"
+  },
+  "625": {
+   "verdict": "ONTARGET",
+   "conf": 96,
+   "aimed_at": "electric cars viability"
+  },
+  "626": {
+   "verdict": "ONTARGET",
+   "conf": 95,
+   "aimed_at": "electric cars maintenance"
+  },
+  "627": {
+   "verdict": "ONTARGET",
+   "conf": 93,
+   "aimed_at": "electric cars range"
+  },
+  "628": {
+   "verdict": "ONTARGET",
+   "conf": 90,
+   "aimed_at": "electric cars failure"
+  },
+  "629": {
+   "verdict": "ONTARGET",
+   "conf": 94,
+   "aimed_at": "electric cars cost"
+  },
+  "630": {
+   "verdict": "DISPLACED",
+   "conf": 78,
+   "aimed_at": "Elon Musk"
+  },
+  "631": {
+   "verdict": "ONTARGET",
+   "conf": 90,
+   "aimed_at": "electric vehicles"
+  },
+  "632": {
+   "verdict": "ONTARGET",
+   "conf": 72,
+   "aimed_at": "electric cars mandate"
+  },
+  "633": {
+   "verdict": "ONTARGET",
+   "conf": 94,
+   "aimed_at": "electric cars suitability"
+  },
+  "634": {
+   "verdict": "ONTARGET",
+   "conf": 92,
+   "aimed_at": "electric cars deception"
+  },
+  "635": {
+   "verdict": "ONTARGET",
+   "conf": 95,
+   "aimed_at": "electric cars charging"
+  },
+  "636": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "electric car sound"
+  },
+  "637": {
+   "verdict": "ONTARGET",
+   "conf": 95,
+   "aimed_at": "electric cars silence"
+  },
+  "638": {
+   "verdict": "ONTARGET",
+   "conf": 95,
+   "aimed_at": "electric cars options"
+  },
+  "639": {
+   "verdict": "ONTARGET",
+   "conf": 95,
+   "aimed_at": "electric cars reliability"
+  },
+  "640": {
+   "verdict": "ONTARGET",
+   "conf": 90,
+   "aimed_at": "electric cars appeal"
+  },
+  "641": {
+   "verdict": "ONTARGET",
+   "conf": 88,
+   "aimed_at": "electric car buyers"
+  },
+  "642": {
+   "verdict": "ONTARGET",
+   "conf": 93,
+   "aimed_at": "charging infrastructure"
+  },
+  "643": {
+   "verdict": "ONTARGET",
+   "conf": 96,
+   "aimed_at": "electric cars"
+  }
+ }
+}

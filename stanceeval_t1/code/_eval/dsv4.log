@@ -1,0 +1,2 @@
+[provider] deepseek-v4-flash -> 1 chat leg(s): ['https://integrate.api.nvidia.com/v1']
+[cfg] model=deepseek-v4-flash n=352 order=file batch=44 reasoning=none samples=1 temp=0.7

@@ -1,0 +1,20 @@
+{
+  "model": "claude-sonnet-4.5",
+  "n": 2721,
+  "reasoning": "none",
+  "runtime_sec": 280.7,
+  "pooled_Favg2": 84.9,
+  "pooled_Favg3": 72.79,
+  "per_target": {
+    "Covid Vaccine": {
+      "Favg2": 90.83,
+      "Favg3": 78.73,
+      "n": 1373
+    },
+    "Digital Transformation": {
+      "Favg2": 72.89,
+      "Favg3": 62.59,
+      "n": 1348
+    }
+  }
+}

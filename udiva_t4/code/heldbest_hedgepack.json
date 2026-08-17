@@ -1,0 +1,49 @@
+{
+ "config": "rich_pool nv12 nnv10 mix5 anchored",
+ "cv_anchored_loso": 0.4441,
+ "cv_dev_organizer": 0.4107,
+ "alts": [
+  [
+   [
+    "inspect_check",
+    "look_at",
+    "leaflet"
+   ],
+   [
+    "inspect_check",
+    "look_at",
+    "leaflet"
+   ]
+  ],
+  [
+   [
+    "assemble",
+    "attach",
+    "leaflet"
+   ],
+   [
+    "positive_acknowledgement",
+    "leaflet"
+   ]
+  ],
+  [],
+  [
+   [
+    "search",
+    "look_at",
+    "available"
+   ]
+  ],
+  [
+   [
+    "select",
+    "pick_up",
+    "leaflet"
+   ],
+   [
+    "declare_step",
+    "leaflet"
+   ]
+  ]
+ ]
+}

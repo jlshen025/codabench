@@ -1,0 +1,808 @@
+{
+ "model": "claude-opus-5",
+ "target": "Ecars",
+ "pool": "favor",
+ "n": 160,
+ "res": {
+  "312": {
+   "verdict": "ONTARGET",
+   "conf": 80,
+   "aimed_at": "electric cars"
+  },
+  "314": {
+   "verdict": "ONTARGET",
+   "conf": 75,
+   "aimed_at": "electric cars"
+  },
+  "316": {
+   "verdict": "DISPLACED",
+   "conf": 70,
+   "aimed_at": "oil market collapse"
+  },
+  "317": {
+   "verdict": "DISPLACED",
+   "conf": 85,
+   "aimed_at": "Egyptian government claims"
+  },
+  "318": {
+   "verdict": "ONTARGET",
+   "conf": 70,
+   "aimed_at": "electric cars environment"
+  },
+  "319": {
+   "verdict": "DISPLACED",
+   "conf": 90,
+   "aimed_at": "President Sisi"
+  },
+  "320": {
+   "verdict": "DISPLACED",
+   "conf": 75,
+   "aimed_at": "Egypt/Morocco projects"
+  },
+  "322": {
+   "verdict": "ONTARGET",
+   "conf": 60,
+   "aimed_at": "Egyptian electric car"
+  },
+  "323": {
+   "verdict": "DISPLACED",
+   "conf": 70,
+   "aimed_at": "President Sisi"
+  },
+  "325": {
+   "verdict": "DISPLACED",
+   "conf": 65,
+   "aimed_at": "Egypt industry fate"
+  },
+  "326": {
+   "verdict": "DISPLACED",
+   "conf": 92,
+   "aimed_at": "Sisi and Egypt"
+  },
+  "328": {
+   "verdict": "DISPLACED",
+   "conf": 85,
+   "aimed_at": "President Sisi"
+  },
+  "329": {
+   "verdict": "DISPLACED",
+   "conf": 88,
+   "aimed_at": "Sisi's plan"
+  },
+  "330": {
+   "verdict": "DISPLACED",
+   "conf": 85,
+   "aimed_at": "Egyptian businessmen"
+  },
+  "333": {
+   "verdict": "DISPLACED",
+   "conf": 90,
+   "aimed_at": "Vietnamese vs Arabs"
+  },
+  "334": {
+   "verdict": "ONTARGET",
+   "conf": 70,
+   "aimed_at": "electric cars"
+  },
+  "335": {
+   "verdict": "ONTARGET",
+   "conf": 55,
+   "aimed_at": "EV investment sector"
+  },
+  "337": {
+   "verdict": "DISPLACED",
+   "conf": 85,
+   "aimed_at": "Saudi PIF achievements"
+  },
+  "338": {
+   "verdict": "DISPLACED",
+   "conf": 90,
+   "aimed_at": "Jordan vs Turkey"
+  },
+  "339": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "electric car prices"
+  },
+  "344": {
+   "verdict": "DISPLACED",
+   "conf": 72,
+   "aimed_at": "the 1933 idea"
+  },
+  "345": {
+   "verdict": "DISPLACED",
+   "conf": 88,
+   "aimed_at": "US/Biden vs China"
+  },
+  "351": {
+   "verdict": "ONTARGET",
+   "conf": 95,
+   "aimed_at": "electric cars"
+  },
+  "353": {
+   "verdict": "ONTARGET",
+   "conf": 80,
+   "aimed_at": "EV price/policy"
+  },
+  "354": {
+   "verdict": "ONTARGET",
+   "conf": 78,
+   "aimed_at": "EV market growth"
+  },
+  "357": {
+   "verdict": "DISPLACED",
+   "conf": 80,
+   "aimed_at": "national industrial planning"
+  },
+  "358": {
+   "verdict": "ONTARGET",
+   "conf": 75,
+   "aimed_at": "Lucid EV"
+  },
+  "360": {
+   "verdict": "ONTARGET",
+   "conf": 88,
+   "aimed_at": "MG electric car"
+  },
+  "363": {
+   "verdict": "DISPLACED",
+   "conf": 65,
+   "aimed_at": "Najdi word \"motor\""
+  },
+  "364": {
+   "verdict": "ONTARGET",
+   "conf": 93,
+   "aimed_at": "the electric car"
+  },
+  "366": {
+   "verdict": "DISPLACED",
+   "conf": 82,
+   "aimed_at": "government/COP policy"
+  },
+  "367": {
+   "verdict": "DISPLACED",
+   "conf": 85,
+   "aimed_at": "Evdc crypto token"
+  },
+  "368": {
+   "verdict": "ONTARGET",
+   "conf": 76,
+   "aimed_at": "EV environmental impact"
+  },
+  "375": {
+   "verdict": "ONTARGET",
+   "conf": 72,
+   "aimed_at": "Hongqi electric cars"
+  },
+  "377": {
+   "verdict": "ONTARGET",
+   "conf": 90,
+   "aimed_at": "electric cars"
+  },
+  "380": {
+   "verdict": "ONTARGET",
+   "conf": 94,
+   "aimed_at": "the electric car"
+  },
+  "381": {
+   "verdict": "ONTARGET",
+   "conf": 70,
+   "aimed_at": "EV proliferation"
+  },
+  "382": {
+   "verdict": "ONTARGET",
+   "conf": 58,
+   "aimed_at": "EV engine development"
+  },
+  "383": {
+   "verdict": "ONTARGET",
+   "conf": 82,
+   "aimed_at": "EV charging/ownership"
+  },
+  "386": {
+   "verdict": "DISPLACED",
+   "conf": 85,
+   "aimed_at": "Elon Musk/generations"
+  },
+  "388": {
+   "verdict": "ONTARGET",
+   "conf": 92,
+   "aimed_at": "electric cars"
+  },
+  "389": {
+   "verdict": "ONTARGET",
+   "conf": 80,
+   "aimed_at": "BMW color-changing car"
+  },
+  "390": {
+   "verdict": "ONTARGET",
+   "conf": 65,
+   "aimed_at": "German electric cars"
+  },
+  "391": {
+   "verdict": "ONTARGET",
+   "conf": 70,
+   "aimed_at": "electric cars future"
+  },
+  "393": {
+   "verdict": "DISPLACED",
+   "conf": 75,
+   "aimed_at": "Dogecoin/Elon Musk"
+  },
+  "394": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "electric car race"
+  },
+  "397": {
+   "verdict": "ONTARGET",
+   "conf": 78,
+   "aimed_at": "EV culture Saudi"
+  },
+  "398": {
+   "verdict": "ONTARGET",
+   "conf": 72,
+   "aimed_at": "EV future discussion"
+  },
+  "399": {
+   "verdict": "ONTARGET",
+   "conf": 88,
+   "aimed_at": "the electric car"
+  },
+  "401": {
+   "verdict": "DISPLACED",
+   "conf": 94,
+   "aimed_at": "Kuwait government"
+  },
+  "405": {
+   "verdict": "DISPLACED",
+   "conf": 93,
+   "aimed_at": "our own backwardness"
+  },
+  "407": {
+   "verdict": "ONTARGET",
+   "conf": 82,
+   "aimed_at": "EV emissions adoption"
+  },
+  "409": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "solar electric car"
+  },
+  "410": {
+   "verdict": "DISPLACED",
+   "conf": 88,
+   "aimed_at": "Germany's genius"
+  },
+  "411": {
+   "verdict": "ONTARGET",
+   "conf": 93,
+   "aimed_at": "electric car design"
+  },
+  "412": {
+   "verdict": "ONTARGET",
+   "conf": 95,
+   "aimed_at": "electric car price"
+  },
+  "413": {
+   "verdict": "ONTARGET",
+   "conf": 88,
+   "aimed_at": "EV batteries"
+  },
+  "414": {
+   "verdict": "ONTARGET",
+   "conf": 80,
+   "aimed_at": "EV investment"
+  },
+  "417": {
+   "verdict": "DISPLACED",
+   "conf": 92,
+   "aimed_at": "them/their government"
+  },
+  "419": {
+   "verdict": "ONTARGET",
+   "conf": 78,
+   "aimed_at": "EV companies investment"
+  },
+  "421": {
+   "verdict": "ONTARGET",
+   "conf": 92,
+   "aimed_at": "electric cars"
+  },
+  "424": {
+   "verdict": "ONTARGET",
+   "conf": 70,
+   "aimed_at": "Tesla market share"
+  },
+  "425": {
+   "verdict": "ONTARGET",
+   "conf": 72,
+   "aimed_at": "EV makers/pricing"
+  },
+  "427": {
+   "verdict": "DISPLACED",
+   "conf": 80,
+   "aimed_at": "Saudi Arabia/Arabs"
+  },
+  "428": {
+   "verdict": "DISPLACED",
+   "conf": 85,
+   "aimed_at": "Turkey"
+  },
+  "430": {
+   "verdict": "DISPLACED",
+   "conf": 78,
+   "aimed_at": "Omani industry"
+  },
+  "431": {
+   "verdict": "ONTARGET",
+   "conf": 75,
+   "aimed_at": "the car"
+  },
+  "432": {
+   "verdict": "ONTARGET",
+   "conf": 65,
+   "aimed_at": "EV transition"
+  },
+  "434": {
+   "verdict": "ONTARGET",
+   "conf": 93,
+   "aimed_at": "Mercedes EV"
+  },
+  "435": {
+   "verdict": "ONTARGET",
+   "conf": 72,
+   "aimed_at": "local EV project"
+  },
+  "437": {
+   "verdict": "DISPLACED",
+   "conf": 80,
+   "aimed_at": "Tesla vs China/Korea"
+  },
+  "440": {
+   "verdict": "DISPLACED",
+   "conf": 75,
+   "aimed_at": "Egypt industrial plan"
+  },
+  "441": {
+   "verdict": "ONTARGET",
+   "conf": 90,
+   "aimed_at": "best electric car"
+  },
+  "443": {
+   "verdict": "DISPLACED",
+   "conf": 72,
+   "aimed_at": "Turkish production"
+  },
+  "444": {
+   "verdict": "DISPLACED",
+   "conf": 88,
+   "aimed_at": "Turkey/TOGG pride"
+  },
+  "446": {
+   "verdict": "DISPLACED",
+   "conf": 85,
+   "aimed_at": "China's industry"
+  },
+  "447": {
+   "verdict": "DISPLACED",
+   "conf": 88,
+   "aimed_at": "Morocco"
+  },
+  "449": {
+   "verdict": "DISPLACED",
+   "conf": 82,
+   "aimed_at": "Tesla's strategy"
+  },
+  "450": {
+   "verdict": "ONTARGET",
+   "conf": 80,
+   "aimed_at": "electric cars specs"
+  },
+  "453": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "electric cars"
+  },
+  "456": {
+   "verdict": "ONTARGET",
+   "conf": 94,
+   "aimed_at": "electric cars"
+  },
+  "459": {
+   "verdict": "ONTARGET",
+   "conf": 72,
+   "aimed_at": "Tesla/EV market"
+  },
+  "461": {
+   "verdict": "ONTARGET",
+   "conf": 60,
+   "aimed_at": "Doha dealerships"
+  },
+  "463": {
+   "verdict": "DISPLACED",
+   "conf": 85,
+   "aimed_at": "the mocking critic"
+  },
+  "464": {
+   "verdict": "ONTARGET",
+   "conf": 70,
+   "aimed_at": "Germany EV adoption"
+  },
+  "465": {
+   "verdict": "ONTARGET",
+   "conf": 88,
+   "aimed_at": "Sony electric car"
+  },
+  "466": {
+   "verdict": "DISPLACED",
+   "conf": 90,
+   "aimed_at": "spending authority"
+  },
+  "467": {
+   "verdict": "ONTARGET",
+   "conf": 75,
+   "aimed_at": "electric cars"
+  },
+  "468": {
+   "verdict": "ONTARGET",
+   "conf": 95,
+   "aimed_at": "the car's design"
+  },
+  "469": {
+   "verdict": "ONTARGET",
+   "conf": 55,
+   "aimed_at": "renewable energy plan"
+  },
+  "473": {
+   "verdict": "ONTARGET",
+   "conf": 93,
+   "aimed_at": "EV batteries/price"
+  },
+  "474": {
+   "verdict": "DISPLACED",
+   "conf": 80,
+   "aimed_at": "legacy automakers' mindset"
+  },
+  "475": {
+   "verdict": "ONTARGET",
+   "conf": 92,
+   "aimed_at": "electric cars"
+  },
+  "476": {
+   "verdict": "ONTARGET",
+   "conf": 90,
+   "aimed_at": "EV range"
+  },
+  "478": {
+   "verdict": "ONTARGET",
+   "conf": 96,
+   "aimed_at": "the car"
+  },
+  "479": {
+   "verdict": "ONTARGET",
+   "conf": 95,
+   "aimed_at": "the car"
+  },
+  "480": {
+   "verdict": "DISPLACED",
+   "conf": 82,
+   "aimed_at": "Samsung"
+  },
+  "481": {
+   "verdict": "ONTARGET",
+   "conf": 88,
+   "aimed_at": "the car's design"
+  },
+  "483": {
+   "verdict": "DISPLACED",
+   "conf": 92,
+   "aimed_at": "the minister/official"
+  },
+  "484": {
+   "verdict": "ONTARGET",
+   "conf": 78,
+   "aimed_at": "Japanese EVs"
+  },
+  "486": {
+   "verdict": "ONTARGET",
+   "conf": 72,
+   "aimed_at": "electric cars"
+  },
+  "488": {
+   "verdict": "ONTARGET",
+   "conf": 93,
+   "aimed_at": "EV charging convenience"
+  },
+  "491": {
+   "verdict": "DISPLACED",
+   "conf": 78,
+   "aimed_at": "BMW company"
+  },
+  "492": {
+   "verdict": "DISPLACED",
+   "conf": 66,
+   "aimed_at": "the company's stock"
+  },
+  "494": {
+   "verdict": "DISPLACED",
+   "conf": 92,
+   "aimed_at": "Egyptian government"
+  },
+  "495": {
+   "verdict": "DISPLACED",
+   "conf": 70,
+   "aimed_at": "Mercedes design"
+  },
+  "497": {
+   "verdict": "DISPLACED",
+   "conf": 80,
+   "aimed_at": "Tesla as company"
+  },
+  "499": {
+   "verdict": "ONTARGET",
+   "conf": 75,
+   "aimed_at": "buying an EV"
+  },
+  "502": {
+   "verdict": "ONTARGET",
+   "conf": 88,
+   "aimed_at": "Xpeng P7 specs"
+  },
+  "505": {
+   "verdict": "DISPLACED",
+   "conf": 74,
+   "aimed_at": "Edison and Musk"
+  },
+  "508": {
+   "verdict": "ONTARGET",
+   "conf": 71,
+   "aimed_at": "EV industry leap"
+  },
+  "511": {
+   "verdict": "ONTARGET",
+   "conf": 90,
+   "aimed_at": "EV maintenance"
+  },
+  "512": {
+   "verdict": "DISPLACED",
+   "conf": 80,
+   "aimed_at": "Carlos Sainz"
+  },
+  "513": {
+   "verdict": "DISPLACED",
+   "conf": 82,
+   "aimed_at": "Mercedes"
+  },
+  "514": {
+   "verdict": "ONTARGET",
+   "conf": 65,
+   "aimed_at": "EV win significance"
+  },
+  "515": {
+   "verdict": "ONTARGET",
+   "conf": 94,
+   "aimed_at": "EV torque distribution"
+  },
+  "516": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "EV off-road ability"
+  },
+  "519": {
+   "verdict": "DISPLACED",
+   "conf": 84,
+   "aimed_at": "Elon Musk"
+  },
+  "526": {
+   "verdict": "ONTARGET",
+   "conf": 80,
+   "aimed_at": "EV bubble"
+  },
+  "528": {
+   "verdict": "DISPLACED",
+   "conf": 76,
+   "aimed_at": "the person/entity mentioned"
+  },
+  "531": {
+   "verdict": "ONTARGET",
+   "conf": 62,
+   "aimed_at": "Chinese electric truck"
+  },
+  "532": {
+   "verdict": "DISPLACED",
+   "conf": 93,
+   "aimed_at": "government/country backwardness"
+  },
+  "533": {
+   "verdict": "ONTARGET",
+   "conf": 72,
+   "aimed_at": "EV manufacturing plans"
+  },
+  "534": {
+   "verdict": "ONTARGET",
+   "conf": 60,
+   "aimed_at": "EV transition impact"
+  },
+  "535": {
+   "verdict": "DISPLACED",
+   "conf": 66,
+   "aimed_at": "American car industry"
+  },
+  "536": {
+   "verdict": "ONTARGET",
+   "conf": 64,
+   "aimed_at": "BMW electric cars"
+  },
+  "538": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "EV quality/price"
+  },
+  "540": {
+   "verdict": "ONTARGET",
+   "conf": 88,
+   "aimed_at": "electric cars/BMW EV"
+  },
+  "542": {
+   "verdict": "ONTARGET",
+   "conf": 75,
+   "aimed_at": "EV build methods"
+  },
+  "544": {
+   "verdict": "ONTARGET",
+   "conf": 72,
+   "aimed_at": "EV market shift"
+  },
+  "547": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "electric cars"
+  },
+  "548": {
+   "verdict": "ONTARGET",
+   "conf": 63,
+   "aimed_at": "affordable Turkish EVs"
+  },
+  "549": {
+   "verdict": "ONTARGET",
+   "conf": 55,
+   "aimed_at": "EV-related material news"
+  },
+  "550": {
+   "verdict": "ONTARGET",
+   "conf": 88,
+   "aimed_at": "electric car purchase"
+  },
+  "551": {
+   "verdict": "ONTARGET",
+   "conf": 78,
+   "aimed_at": "EV charging setup"
+  },
+  "552": {
+   "verdict": "ONTARGET",
+   "conf": 88,
+   "aimed_at": "electric cars"
+  },
+  "553": {
+   "verdict": "DISPLACED",
+   "conf": 94,
+   "aimed_at": "Arab dictatorships/infrastructure"
+  },
+  "554": {
+   "verdict": "DISPLACED",
+   "conf": 92,
+   "aimed_at": "officials' backwardness"
+  },
+  "556": {
+   "verdict": "ONTARGET",
+   "conf": 70,
+   "aimed_at": "EV cleanliness"
+  },
+  "561": {
+   "verdict": "ONTARGET",
+   "conf": 88,
+   "aimed_at": "EV market/tech"
+  },
+  "562": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "electric cars"
+  },
+  "564": {
+   "verdict": "ONTARGET",
+   "conf": 92,
+   "aimed_at": "electric cars"
+  },
+  "565": {
+   "verdict": "ONTARGET",
+   "conf": 90,
+   "aimed_at": "electric cars"
+  },
+  "566": {
+   "verdict": "ONTARGET",
+   "conf": 93,
+   "aimed_at": "electric cars"
+  },
+  "567": {
+   "verdict": "ONTARGET",
+   "conf": 93,
+   "aimed_at": "electric cars"
+  },
+  "568": {
+   "verdict": "ONTARGET",
+   "conf": 92,
+   "aimed_at": "electric cars"
+  },
+  "569": {
+   "verdict": "ONTARGET",
+   "conf": 88,
+   "aimed_at": "electric cars"
+  },
+  "570": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "electric cars"
+  },
+  "571": {
+   "verdict": "ONTARGET",
+   "conf": 94,
+   "aimed_at": "electric cars"
+  },
+  "573": {
+   "verdict": "ONTARGET",
+   "conf": 82,
+   "aimed_at": "EV sector"
+  },
+  "574": {
+   "verdict": "DISPLACED",
+   "conf": 70,
+   "aimed_at": "competing companies"
+  },
+  "576": {
+   "verdict": "DISPLACED",
+   "conf": 88,
+   "aimed_at": "oil corporations"
+  },
+  "577": {
+   "verdict": "ONTARGET",
+   "conf": 75,
+   "aimed_at": "electric cars"
+  },
+  "578": {
+   "verdict": "DISPLACED",
+   "conf": 90,
+   "aimed_at": "China"
+  },
+  "579": {
+   "verdict": "ONTARGET",
+   "conf": 72,
+   "aimed_at": "EV battery"
+  },
+  "580": {
+   "verdict": "ONTARGET",
+   "conf": 80,
+   "aimed_at": "Tesla battery"
+  },
+  "581": {
+   "verdict": "ONTARGET",
+   "conf": 85,
+   "aimed_at": "EV production growth"
+  },
+  "582": {
+   "verdict": "ONTARGET",
+   "conf": 78,
+   "aimed_at": "EV sector"
+  },
+  "584": {
+   "verdict": "DISPLACED",
+   "conf": 65,
+   "aimed_at": "Chinese EV stocks"
+  },
+  "585": {
+   "verdict": "ONTARGET",
+   "conf": 55,
+   "aimed_at": "EV stocks"
+  }
+ }
+}

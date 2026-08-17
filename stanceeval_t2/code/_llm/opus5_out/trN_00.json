@@ -1,0 +1,16 @@
+{
+  "7": {"label": "None", "conf": 88, "why": "factual correction of a number, no evaluation of the system"},
+  "8": {"label": "Against", "conf": 62, "why": "incredulous/sarcastic: third term is empty since second-term grades are reused"},
+  "9": {"label": "None", "conf": 55, "why": "constructive proposal for volunteer weeks, no judgement of the trimester itself"},
+  "15": {"label": "None", "conf": 90, "why": "logistical question about sessions continuing"},
+  "20": {"label": "None", "conf": 92, "why": "bare factual reply stating three terms"},
+  "30": {"label": "None", "conf": 90, "why": "descriptive university admission/system info, no evaluation"},
+  "36": {"label": "None", "conf": 90, "why": "clarifying question about timing"},
+  "138": {"label": "Against", "conf": 57, "why": "dismissive listing of the three-term meeting/decisions as irrelevant"},
+  "139": {"label": "None", "conf": 72, "why": "speculation about an upcoming announcement, no evaluative stance"},
+  "165": {"label": "None", "conf": 92, "why": "numeric factual reply"},
+  "175": {"label": "None", "conf": 55, "why": "analytical rebuttal of a causal claim rather than endorsement of the system"},
+  "178": {"label": "None", "conf": 92, "why": "request for third-term dates"},
+  "200": {"label": "None", "conf": 90, "why": "factual report that textbooks arrived"},
+  "220": {"label": "None", "conf": 92, "why": "question about the start date"}
+}

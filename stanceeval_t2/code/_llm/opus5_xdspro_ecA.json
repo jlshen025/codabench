@@ -1,0 +1,66 @@
+{
+"378": {
+"label": "Against",
+"conf": 90
+},
+"384": {
+"label": "None",
+"conf": 95
+},
+"409": {
+"label": "Favor",
+"conf": 70
+},
+"456": {
+"label": "Favor",
+"conf": 85
+},
+"457": {
+"label": "Against",
+"conf": 80
+},
+"462": {
+"label": "Against",
+"conf": 75
+},
+"525": {
+"label": "Against",
+"conf": 65
+},
+"572": {
+"label": "Against",
+"conf": 70
+},
+"579": {
+"label": "Against",
+"conf": 80
+},
+"612": {
+"label": "Against",
+"conf": 85
+},
+"630": {
+"label": "Against",
+"conf": 75
+},
+"640": {
+"label": "Against",
+"conf": 80
+},
+"642": {
+"label": "Against",
+"conf": 90
+},
+"583": {
+"label": "Against",
+"conf": 85
+},
+"604": {
+"label": "Against",
+"conf": 80
+},
+"594": {
+"label": "Against",
+"conf": 85
+}
+}

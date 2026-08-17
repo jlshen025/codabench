@@ -1,0 +1,22 @@
+{
+  "313": {"label": "Favor", "conf": 62, "why": "concedes EVs are dull but endorses them as an inevitable future we must adapt to"},
+  "315": {"label": "Against", "conf": 68, "why": "'through the back door' plus 😕 = disappointment that a legendary maker went electric"},
+  "324": {"label": "Against", "conf": 95, "why": "rhetorical jab that no sane person would buy an EV"},
+  "327": {"label": "Against", "conf": 78, "why": "mocks the EV-manufacturing claim as fake bragging, batteries-stolen punchline"},
+  "336": {"label": "Against", "conf": 80, "why": "calls the renewables rush reckless and EV impact on oil demand a mistaken belief"},
+  "347": {"label": "Favor", "conf": 52, "why": "engaged mobility discussion endorsing EVs as complementary rather than a silver bullet"},
+  "348": {"label": "Against", "conf": 82, "why": "EVs never an alternative to oil, under 1% of sales; praises the Camry instead"},
+  "350": {"label": "Favor", "conf": 50, "why": "engaged charging-time critique conditioned on the problem being solved"},
+  "359": {"label": "Against", "conf": 94, "why": "predicts EVs will fail miserably over maintenance"},
+  "362": {"label": "Favor", "conf": 62, "why": "sympathetic analysis framing high price as a market barrier EVs must clear"},
+  "365": {"label": "Against", "conf": 90, "why": "dismisses the point of EVs charged from dirty tyre-burning power"},
+  "369": {"label": "Against", "conf": 82, "why": "EV switch framed as pure commercial marketing hunting green customers"},
+  "370": {"label": "Against", "conf": 88, "why": "battery minerals and disposal poison soil and groundwater"},
+  "371": {"label": "Against", "conf": 85, "why": "mocks clean-environment ads; EVs charged from fossil fuels anyway"},
+  "372": {"label": "Against", "conf": 86, "why": "sarcasm about carmakers baiting millennials and green lunatics"},
+  "373": {"label": "Against", "conf": 88, "why": "calls EV believers gullible, likens carmakers to tobacco firms"},
+  "378": {"label": "Favor", "conf": 48, "why": "sardonic lament that hybrid/EV tax exemptions are being cut"},
+  "385": {"label": "Favor", "conf": 50, "why": "engaged buyer-side scrutiny of one brand's premium, taking other EVs as the benchmark"},
+  "387": {"label": "Against", "conf": 88, "why": "flatly refuses to buy an EV in the summer heat, prefers hybrid"},
+  "392": {"label": "Against", "conf": 92, "why": "denies EVs save money or protect the environment"}
+}

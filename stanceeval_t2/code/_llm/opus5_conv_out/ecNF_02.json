@@ -1,0 +1,6 @@
+{
+  "541": {"label": "Favor", "conf": 58, "why": "bullish highlight of an EV lithium-battery maker supplying global carmakers; positive supply-chain framing, not a plain news relay"},
+  "546": {"label": "None", "conf": 64, "why": "bare off-topic question about other fields; no evaluative content toward EVs"},
+  "555": {"label": "Favor", "conf": 66, "why": "reassures that Evergrande contagion will not hit the EV sector; defends the target against negative news"},
+  "585": {"label": "Favor", "conf": 72, "why": "recommends adding a ticker to EV stocks; interest/endorsement of EV sector"}
+}

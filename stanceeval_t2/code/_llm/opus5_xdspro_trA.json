@@ -1,0 +1,50 @@
+{
+"124": {
+"label": "Favor",
+"conf": 95
+},
+"152": {
+"label": "Against",
+"conf": 90
+},
+"206": {
+"label": "Against",
+"conf": 85
+},
+"226": {
+"label": "Against",
+"conf": 80
+},
+"51": {
+"label": "Against",
+"conf": 90
+},
+"43": {
+"label": "Against",
+"conf": 85
+},
+"34": {
+"label": "Against",
+"conf": 90
+},
+"64": {
+"label": "Against",
+"conf": 85
+},
+"98": {
+"label": "Against",
+"conf": 80
+},
+"103": {
+"label": "Favor",
+"conf": 85
+},
+"164": {
+"label": "Against",
+"conf": 90
+},
+"179": {
+"label": "Against",
+"conf": 95
+}
+}

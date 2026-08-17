@@ -1,0 +1,25 @@
+{
+  "model": "agnes-2.0-flash",
+  "n": 30,
+  "reasoning": "none",
+  "runtime_sec": 29.4,
+  "pooled_Favg2": 0.0,
+  "pooled_Favg3": 6.06,
+  "per_target": {
+    "Women empowerment": {
+      "Favg2": 0.0,
+      "Favg3": 6.06,
+      "n": 10
+    },
+    "Digital Transformation": {
+      "Favg2": 0.0,
+      "Favg3": 6.06,
+      "n": 10
+    },
+    "Covid Vaccine": {
+      "Favg2": 0.0,
+      "Favg3": 6.06,
+      "n": 10
+    }
+  }
+}

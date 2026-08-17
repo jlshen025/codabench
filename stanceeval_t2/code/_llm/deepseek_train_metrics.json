@@ -1,0 +1,25 @@
+{
+  "model": "deepseek-v4-flash",
+  "n": 3502,
+  "reasoning": "none",
+  "runtime_sec": 174.1,
+  "pooled_Favg2": 83.66,
+  "pooled_Favg3": 69.58,
+  "per_target": {
+    "Women empowerment": {
+      "Favg2": 85.03,
+      "Favg3": 66.56,
+      "n": 1190
+    },
+    "Covid Vaccine": {
+      "Favg2": 90.37,
+      "Favg3": 78.22,
+      "n": 1167
+    },
+    "Digital Transformation": {
+      "Favg2": 69.87,
+      "Favg3": 58.97,
+      "n": 1145
+    }
+  }
+}

@@ -1,0 +1,4 @@
+[provider] mistral-large -> 1 chat leg(s): ['https://api.mistral.ai/v1']
+[cfg] model=mistral-large n=352 order=file batch=20 reasoning=none samples=1 temp=0.7
+  sample 1/1 done
+[RESULT] {"model": "mistral-large", "n": 352, "reasoning": "none", "runtime_sec": 284.3}

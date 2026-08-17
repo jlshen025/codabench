@@ -1,0 +1,24 @@
+[provider] gpt-oss-120b -> 1 chat leg(s): ['https://api.groq.com/openai/v1']
+[cfg] model=gpt-oss-120b n=352 order=file batch=20 reasoning=none samples=1 temp=0.7
+Traceback (most recent call last):
+  File "<workdir>/llm_predict.py", line 177, in <module>
+    res["pooled_Favg2"] = round(pooled["Favg2"] * 100, 2)
+^^^^^^
+  File "<workdir>/llm_predict.py", line 154, in main
+    if args.order == "loto":
+            ^^^^^^^^^^^^^^^^^
+  File "<workdir>/llm_predict.py", line 97, in classify
+    user = "Classify each tweet's stance toward its TARGET:\n\n" + "\n".join(
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<workdir>/llm_predict.py", line 75, in call_any
+    def call_any(legs, messages, reasoning, max_tokens, temperature=0.0):
+            ^^^^^^^^^^
+  File "<workdir>/llm_predict.py", line 69, in call_any
+    if attempt == 5:
+        ^^^^^^^^^^^^^
+  File "<workdir>/llm_predict.py", line 55, in call_api
+    body["max_completion_tokens"] = max(max_tokens, 8000)
+    ^^^^^^^^^^^^^^^^^^^^
+  File "<scratch>/.venv/lib/python3.11/site-packages/requests/models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions

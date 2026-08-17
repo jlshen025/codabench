@@ -1,0 +1,16 @@
+{
+  "model": "gpt-5.5",
+  "variant": "p",
+  "fewshot": 0,
+  "n": 619,
+  "n_unparsed": 0,
+  "runtime_sec": 235.3,
+  "pFavor@20": 1.0,
+  "pFavor@40": 1.0,
+  "pFavor@60": 1.0,
+  "pFavor@100": 1.0,
+  "pFavor@150": 1.0,
+  "pAgainst@bottom20": 0.95,
+  "pAgainst@bottom40": 0.9,
+  "pAgainst@bottom60": 0.8667
+}
