@@ -1,0 +1,394 @@
+{
+  "year": 2019,
+  "zone": "NL",
+  "site": {
+    "lat": 55.3173,
+    "lon": 3.7662
+  },
+  "constants": {
+    "pi_up": 90.0,
+    "pi_down": 30.0,
+    "tau_star": 0.25,
+    "bundle": "${SEAWINDS_ROOT}/scripts/results/mos_cv_e2020_full_s0/mos_models.joblib",
+    "price_source": "energy-charts.info (SMARD/BNetzA), CC BY 4.0"
+  },
+  "production": {
+    "rated_mw": 1210.0020985986139,
+    "energy_gwh": 6658.132597313404,
+    "capacity_factor": 0.6280766327863573,
+    "hours": 8761
+  },
+  "market": {
+    "base_price": 41.19279306015295,
+    "captured_price": 40.51305223069157,
+    "capture_rate": 0.983498549649965,
+    "fleet_offshore_captured_price": 40.2255240230155,
+    "fleet_capture_rate": 0.9765184886656031,
+    "demand_twh": 113.912240325,
+    "share_of_demand": 0.05844966772944911,
+    "negative_price_hours": 3
+  },
+  "strategies": {
+    "perfect_foresight": {
+      "revenue_eur": 269741273.67382807,
+      "imbalance_eur": 0.0,
+      "short_mwh": 0.0,
+      "long_mwh": 0.0,
+      "eur_per_mwh": 40.51305223069157
+    },
+    "quantile_tau_star": {
+      "revenue_eur": 198023203.52941716,
+      "imbalance_eur": 71718070.1444109,
+      "short_mwh": 216074.26989398393,
+      "long_mwh": 1742379.5284650777,
+      "eur_per_mwh": 29.741553000809972
+    },
+    "median_q50": {
+      "revenue_eur": 192494286.40345672,
+      "imbalance_eur": 77246987.27037135,
+      "short_mwh": 629470.9576541894,
+      "long_mwh": 686486.7027164766,
+      "eur_per_mwh": 28.911152427503367
+    },
+    "persistence_24h": {
+      "revenue_eur": 48354317.80317457,
+      "imbalance_eur": 221386955.8706535,
+      "short_mwh": 1848829.3763442293,
+      "long_mwh": 1833077.066655762,
+      "eur_per_mwh": 7.2624444011051725
+    },
+    "climatology": {
+      "revenue_eur": 66579832.094489284,
+      "imbalance_eur": 203161441.5793388,
+      "short_mwh": 1693012.0131611566,
+      "long_mwh": 1693012.0131611563,
+      "eur_per_mwh": 9.999775630986178
+    },
+    "_tau_star": 0.25
+  },
+  "headline_scenario": "prop_50pct_30pct",
+  "headline": {
+    "perfect_foresight": {
+      "revenue_eur": 269741273.67382807,
+      "imbalance_eur": 0.0,
+      "short_mwh": 0.0,
+      "long_mwh": 0.0,
+      "eur_per_mwh": 40.51305223069157
+    },
+    "quantile_tau_star": {
+      "revenue_eur": 247674528.42462695,
+      "imbalance_eur": 22066745.249201104,
+      "short_mwh": 372745.2112707612,
+      "long_mwh": 1164405.713087452,
+      "eur_per_mwh": 37.1987978317772
+    },
+    "median_q50": {
+      "revenue_eur": 248292948.82075146,
+      "imbalance_eur": 21448324.85307663,
+      "short_mwh": 629470.9576541894,
+      "long_mwh": 686486.7027164766,
+      "eur_per_mwh": 37.29167979035731
+    },
+    "persistence_24h": {
+      "revenue_eur": 209009181.4411694,
+      "imbalance_eur": 60732092.23265865,
+      "short_mwh": 1848829.3763442293,
+      "long_mwh": 1833077.066655762,
+      "eur_per_mwh": 31.3915618811055
+    },
+    "climatology": {
+      "revenue_eur": 213949358.86862773,
+      "imbalance_eur": 55791914.80520037,
+      "short_mwh": 1693012.0131611566,
+      "long_mwh": 1693012.0131611563,
+      "eur_per_mwh": 32.13353830696576
+    },
+    "_tau_star": 0.37499999999999994
+  },
+  "tau_sweep": {
+    "0.05": 232382572.66531166,
+    "0.1": 235695272.6876425,
+    "0.15": 238748089.9062191,
+    "0.2": 241439864.6400695,
+    "0.25": 243758878.52665216,
+    "0.3": 245677348.06614897,
+    "0.35": 247135187.2126661,
+    "0.4": 248082609.22788012,
+    "0.45": 248501251.21441653,
+    "0.5": 248292948.82075146,
+    "0.55": 246892894.5782909,
+    "0.6": 244496365.4711571,
+    "0.65": 241425623.15750918,
+    "0.7": 237754979.43685815,
+    "0.75": 233645002.75521532,
+    "0.8": 229197517.28445262,
+    "0.85": 224424827.23718268,
+    "0.9": 219368119.17286673,
+    "0.95": 214075016.99780968
+  },
+  "tau_best_realised": 0.45,
+  "kit_convention_sweep": {
+    "0.05": 64278834.503159374,
+    "0.1": 83945628.02406956,
+    "0.15": 102666080.74924353,
+    "0.2": 120071828.43293524,
+    "0.25": 136120199.66952574,
+    "0.3": 150710023.2428116,
+    "0.35": 163622501.003541,
+    "0.4": 174676338.84190178,
+    "0.45": 183804669.85226458,
+    "0.5": 190650037.0224986,
+    "0.55": 192821922.70068294,
+    "0.6": 191365231.1789011,
+    "0.65": 187453450.46640977,
+    "0.7": 181357180.56623295,
+    "0.75": 173661117.61360306,
+    "0.8": 164736045.54051745,
+    "0.85": 154626769.07505527,
+    "0.9": 143483265.51810426,
+    "0.95": 131478953.21338561
+  },
+  "imbalance_sensitivity": {
+    "flat_90_30": {
+      "perfect_foresight": {
+        "revenue_eur": 269741273.67382807,
+        "imbalance_eur": 0.0,
+        "short_mwh": 0.0,
+        "long_mwh": 0.0,
+        "eur_per_mwh": 40.51305223069157
+      },
+      "quantile_tau_star": {
+        "revenue_eur": 198023203.52941716,
+        "imbalance_eur": 71718070.1444109,
+        "short_mwh": 216074.26989398393,
+        "long_mwh": 1742379.5284650777,
+        "eur_per_mwh": 29.741553000809972
+      },
+      "median_q50": {
+        "revenue_eur": 192494286.40345672,
+        "imbalance_eur": 77246987.27037135,
+        "short_mwh": 629470.9576541894,
+        "long_mwh": 686486.7027164766,
+        "eur_per_mwh": 28.911152427503367
+      },
+      "persistence_24h": {
+        "revenue_eur": 48354317.80317457,
+        "imbalance_eur": 221386955.8706535,
+        "short_mwh": 1848829.3763442293,
+        "long_mwh": 1833077.066655762,
+        "eur_per_mwh": 7.2624444011051725
+      },
+      "climatology": {
+        "revenue_eur": 66579832.094489284,
+        "imbalance_eur": 203161441.5793388,
+        "short_mwh": 1693012.0131611566,
+        "long_mwh": 1693012.0131611563,
+        "eur_per_mwh": 9.999775630986178
+      },
+      "_tau_star": 0.25
+    },
+    "prop_50pct_30pct": {
+      "perfect_foresight": {
+        "revenue_eur": 269741273.67382807,
+        "imbalance_eur": 0.0,
+        "short_mwh": 0.0,
+        "long_mwh": 0.0,
+        "eur_per_mwh": 40.51305223069157
+      },
+      "quantile_tau_star": {
+        "revenue_eur": 247674528.42462695,
+        "imbalance_eur": 22066745.249201104,
+        "short_mwh": 372745.2112707612,
+        "long_mwh": 1164405.713087452,
+        "eur_per_mwh": 37.1987978317772
+      },
+      "median_q50": {
+        "revenue_eur": 248292948.82075146,
+        "imbalance_eur": 21448324.85307663,
+        "short_mwh": 629470.9576541894,
+        "long_mwh": 686486.7027164766,
+        "eur_per_mwh": 37.29167979035731
+      },
+      "persistence_24h": {
+        "revenue_eur": 209009181.4411694,
+        "imbalance_eur": 60732092.23265865,
+        "short_mwh": 1848829.3763442293,
+        "long_mwh": 1833077.066655762,
+        "eur_per_mwh": 31.3915618811055
+      },
+      "climatology": {
+        "revenue_eur": 213949358.86862773,
+        "imbalance_eur": 55791914.80520037,
+        "short_mwh": 1693012.0131611566,
+        "long_mwh": 1693012.0131611563,
+        "eur_per_mwh": 32.13353830696576
+      },
+      "_tau_star": 0.37499999999999994
+    },
+    "flat_60_30": {
+      "perfect_foresight": {
+        "revenue_eur": 269741273.67382807,
+        "imbalance_eur": 0.0,
+        "short_mwh": 0.0,
+        "long_mwh": 0.0,
+        "eur_per_mwh": 40.51305223069157
+      },
+      "quantile_tau_star": {
+        "revenue_eur": 210709113.5269804,
+        "imbalance_eur": 59032160.14684767,
+        "short_mwh": 310398.8613866992,
+        "long_mwh": 1346940.9487881907,
+        "eur_per_mwh": 31.646878527472218
+      },
+      "median_q50": {
+        "revenue_eur": 211378415.1330824,
+        "imbalance_eur": 58362858.54074567,
+        "short_mwh": 629470.9576541894,
+        "long_mwh": 686486.7027164766,
+        "eur_per_mwh": 31.74740245010663
+      },
+      "persistence_24h": {
+        "revenue_eur": 103819199.09350145,
+        "imbalance_eur": 165922074.58032662,
+        "short_mwh": 1848829.3763442293,
+        "long_mwh": 1833077.066655762,
+        "eur_per_mwh": 15.592840421260627
+      },
+      "climatology": {
+        "revenue_eur": 117370192.48932399,
+        "imbalance_eur": 152371081.18450406,
+        "short_mwh": 1693012.0131611566,
+        "long_mwh": 1693012.0131611563,
+        "eur_per_mwh": 17.628094780912527
+      },
+      "_tau_star": 0.3333333333333333
+    },
+    "flat_120_30": {
+      "perfect_foresight": {
+        "revenue_eur": 269741273.67382807,
+        "imbalance_eur": 0.0,
+        "short_mwh": 0.0,
+        "long_mwh": 0.0,
+        "eur_per_mwh": 40.51305223069157
+      },
+      "quantile_tau_star": {
+        "revenue_eur": 188699134.27685606,
+        "imbalance_eur": 81042139.39697199,
+        "short_mwh": 176248.29705857555,
+        "long_mwh": 1996411.4583314306,
+        "eur_per_mwh": 28.34114994240236
+      },
+      "median_q50": {
+        "revenue_eur": 173610157.67383105,
+        "imbalance_eur": 96131115.99999702,
+        "short_mwh": 629470.9576541894,
+        "long_mwh": 686486.7027164766,
+        "eur_per_mwh": 26.0749024049001
+      },
+      "persistence_24h": {
+        "revenue_eur": -7110563.487152312,
+        "imbalance_eur": 276851837.1609804,
+        "short_mwh": 1848829.3763442293,
+        "long_mwh": 1833077.066655762,
+        "eur_per_mwh": -1.0679516190502825
+      },
+      "climatology": {
+        "revenue_eur": 15789471.699654594,
+        "imbalance_eur": 253951801.9741735,
+        "short_mwh": 1693012.0131611566,
+        "long_mwh": 1693012.0131611563,
+        "eur_per_mwh": 2.3714564810598304
+      },
+      "_tau_star": 0.2
+    },
+    "symmetric_60_60": {
+      "perfect_foresight": {
+        "revenue_eur": 269741273.67382807,
+        "imbalance_eur": 0.0,
+        "short_mwh": 0.0,
+        "long_mwh": 0.0,
+        "eur_per_mwh": 40.51305223069157
+      },
+      "quantile_tau_star": {
+        "revenue_eur": 190783814.0515881,
+        "imbalance_eur": 78957459.62223996,
+        "short_mwh": 629470.9576541894,
+        "long_mwh": 686486.7027164766,
+        "eur_per_mwh": 28.654252714728223
+      },
+      "median_q50": {
+        "revenue_eur": 190783814.0515881,
+        "imbalance_eur": 78957459.62223996,
+        "short_mwh": 629470.9576541894,
+        "long_mwh": 686486.7027164766,
+        "eur_per_mwh": 28.654252714728223
+      },
+      "persistence_24h": {
+        "revenue_eur": 48826887.09382859,
+        "imbalance_eur": 220914386.57999948,
+        "short_mwh": 1848829.3763442293,
+        "long_mwh": 1833077.066655762,
+        "eur_per_mwh": 7.333420652140591
+      },
+      "climatology": {
+        "revenue_eur": 66579832.09448929,
+        "imbalance_eur": 203161441.5793388,
+        "short_mwh": 1693012.0131611566,
+        "long_mwh": 1693012.0131611563,
+        "eur_per_mwh": 9.999775630986178
+      },
+      "_tau_star": 0.5
+    }
+  },
+  "historical_capture": {
+    "2019": {
+      "base_price": 41.19279306015295,
+      "offshore_capture": 40.2255240230155,
+      "capture_rate": 0.9765184886656031,
+      "mean_offshore_mw": 401.8733791804589,
+      "negative_price_hours": 3
+    },
+    "2020": {
+      "base_price": 32.24891348773842,
+      "offshore_capture": 32.27393860226121,
+      "capture_rate": 1.000775998686973,
+      "mean_offshore_mw": 543.1270975249773,
+      "negative_price_hours": 97
+    },
+    "2021": {
+      "base_price": 102.83052709471768,
+      "offshore_capture": 98.47551946811886,
+      "capture_rate": 0.9576486890649952,
+      "mean_offshore_mw": 875.4532729963571,
+      "negative_price_hours": 70
+    },
+    "2022": {
+      "base_price": 241.48968920765023,
+      "offshore_capture": 202.05648098311528,
+      "capture_rate": 0.8367085221985299,
+      "mean_offshore_mw": 911.1150358606557,
+      "negative_price_hours": 87
+    },
+    "2023": {
+      "base_price": 95.60596994535518,
+      "offshore_capture": 84.19885297098354,
+      "capture_rate": 0.8806861435442627,
+      "mean_offshore_mw": 1320.3498036202184,
+      "negative_price_hours": 321
+    },
+    "2024": {
+      "base_price": 77.13177679382379,
+      "offshore_capture": 69.30913614647176,
+      "capture_rate": 0.8985808317593635,
+      "mean_offshore_mw": 1734.0046151226156,
+      "negative_price_hours": 463
+    },
+    "2025": {
+      "base_price": 87.00352385289766,
+      "offshore_capture": 81.13011041961549,
+      "capture_rate": 0.9324922351051813,
+      "mean_offshore_mw": 1790.3284498462938,
+      "negative_price_hours": 579
+    }
+  }
+}

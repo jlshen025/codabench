@@ -1,0 +1,41 @@
+{
+  "centre": {
+    "lat": 55.3173,
+    "lon": 3.7662,
+    "depth_m": 28.100000381469727,
+    "dist_coast_km": 234.0693817138672
+  },
+  "turbines": {
+    "n": 55,
+    "depth_min": 27.299999237060547,
+    "depth_mean": 30.833636301214046,
+    "depth_max": 41.099998474121094,
+    "depth_std": 4.149706371098369,
+    "dist_coast_min_km": 224.042724609375,
+    "dist_coast_max_km": 243.4196014404297
+  },
+  "layout": {
+    "span_x_m": 15000.0,
+    "span_y_m": 15000.0,
+    "min_pair_spacing_m": 1587.2640163299868,
+    "min_pair_spacing_D": 5.588957803978827
+  },
+  "grid_connection_km": {
+    "Dogger Bank C / Sofia - Teesside landing (UK)": 100.82904251759005,
+    "Dogger Bank A/B - Creyke Beck landing (UK)": 118.0658540775062,
+    "Nederwiek / Doordewind zone (NL 2 GW, planned)": 146.49320458386003,
+    "Energy Island North Sea (DK, planned)": 181.01375752525442,
+    "BorWin / DolWin cluster (DE, German Bight)": 189.3598935100101,
+    "Ten noorden van de Waddeneilanden (NL)": 201.4388956168116,
+    "IJmuiden Ver (NL 2 GW HVDC platforms, TenneT)": 274.3851862902097,
+    "Esbjerg / Danish west coast (DK)": 296.2479200038406
+  },
+  "nearest_grid_point": {
+    "name": "Dogger Bank C / Sofia - Teesside landing (UK)",
+    "km": 100.82904251759005
+  },
+  "source": {
+    "bathymetry": "${SEAWINDS_DATA_DIR}/phase2/static/bathymetry/emodnet_northsea_1km.nc",
+    "rotor_diameter_m": 284.0
+  }
+}

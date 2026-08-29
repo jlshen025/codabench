@@ -83,6 +83,30 @@ portable install.
 
 This code remains publicly accessible for at least three years, as stated in the fact sheets.
 
+## Sea Winds Predictions 2026 (Capgemini "Prediction of Sea Winds" hackathon)
+
+Probabilistic downscaling of coarse reanalysis and ECMWF-HRES to 1.3 km AROME winds over the North
+Sea, plus a 1.2 GW wind-farm siting task and a written financial report. Codabench user
+**junlong**.
+
+**First place of the 3 published finalist entries** in the Phase-2 final window.
+
+| directory | task | server score | rank |
+|---|---|---|---|
+| [`seawinds`](seawinds/) | Phase-2 final: forecast + siting + report | mean rank **1.167** | **1** |
+
+Runner-up 2.000, third 2.833. The ranking column is the mean of six per-dimension ranks
+({speed, direction} x {d+1, d+7, d+14}), so each sub-dimension carries equal weight; our entry
+leads five of the six. Scores are the organisers' Winkler and circular-Winkler metrics on the
+withheld 2022 set, where lower is better.
+
+Direction, not speed, is where the entry is won: an 8-member Pangu-Weather initial-condition
+ensemble supplies the direction centre, except at d+14, where the foundation-model centre measured
+*below* a calibrated no-skill floor and is switched off in favour of a monthly climatology centre
+with a solved arc half-width — worth 22.5 points on that column alone, taking it from last place to
+first. The fitted artifacts are not redistributed here: two of the six are derived from the
+organisers' competition data, and `seawinds/REPRODUCE.md` gives the command that regenerates each.
+
 ## License
 
 MIT — see `LICENSE`, and a copy in each entry directory.

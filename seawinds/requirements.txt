@@ -1,0 +1,16 @@
+# Sea Winds Phase 2 — reproduction environment (Python 3.11).
+# Versions are those the shipped entry was produced with. numpy must stay <2:
+# the cluster toolchain and LightGBM 4.5 are built against the numpy-1.x ABI.
+numpy==1.26.4
+pandas==3.0.0
+scipy
+xarray==2026.4.0
+netCDF4==1.7.4
+pyarrow
+scikit-learn==1.5.2
+lightgbm==4.5.0
+joblib==1.5.3
+onnxruntime==1.23.2
+matplotlib==3.10.8
+py_wake==2.6.20
+threadpoolctl==3.6.0
