@@ -43,10 +43,12 @@ zero-shot frontier-LLM ensembles: the models are called through an API, nothing 
 the shipped decision on Track 2, and on Track 1 the only trained component is a tie-breaking
 arbiter whose standalone score (0.7762) is the weakest in the system.
 
+**First place on Track 1, second on Track 2.**
+
 | directory | track | server score | rank |
 |---|---|---|---|
-| [`stanceeval_t1`](stanceeval_t1/) | held-out target ("Women Driving") | Overall_Favg2 **0.899400** | 3 of 24 |
-| [`stanceeval_t2`](stanceeval_t2/) | unseen targets (Ecars, Trimester) | Unseen_Overall_Favg2 **0.935700** | 4 of 21 |
+| [`stanceeval_t1`](stanceeval_t1/) | held-out target ("Women Driving") | Overall_Favg2 **0.899400** | **1** of 24 |
+| [`stanceeval_t2`](stanceeval_t2/) | unseen targets (Ecars, Trimester) | Unseen_Overall_Favg2 **0.935700** | **2** of 21 |
 
 Favg2 is the macro-F1 over Favor and Against; None is excluded from the score but retained as a
 row, which is what makes the abstain class the dominant error source in both tracks. Each directory

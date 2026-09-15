@@ -3,7 +3,7 @@
 Team **JLShen** (Codabench user `JLShen`) · Competition 16332 · Leaderboard 18030 ·
 Evaluation phase 29242
 Ranked submission **878207** — server **Overall_Favg2 0.899400** (Favg3 0.664640,
-Accuracy 0.857955), **3rd of 24**.
+Accuracy 0.857955), **1st of 24**.
 
 Complete inference, training and reproduction code for that entry, together with the per-row
 outputs of every LLM the entry called. The submitted label file is rebuilt **bit-exactly** by one
